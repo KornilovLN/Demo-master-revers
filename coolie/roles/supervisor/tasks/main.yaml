@@ -1,0 +1,21 @@
+- name: create folders
+  file: path={{ item }} state=directory
+  with_items:
+    - /var/log/supervisor
+    - /etc/supervisor/conf.d
+
+- name: copy supervisord.conf
+  copy: src=supervisord.conf dest=/etc/supervisor/supervisord.conf
+
+- name: install supervisor
+  pip:
+    name:
+      - supervisor
+      - gevent
+      - ekatra.supervisor-tools
+
+- name: configurate supervisor-alert
+  shell: 'supervisor-alert --configure "{{ alert_supervisor_events }}"'
+  when: supervisor_alerts
+
+

@@ -1,0 +1,2 @@
+supervisor_alerts: yes
+alert_supervisor_events: 'PROCESS_STATE,SUPERVISOR_STATE_CHANGE'

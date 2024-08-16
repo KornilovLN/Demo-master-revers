@@ -1,0 +1,10 @@
+gcloud:
+  test: no
+  support_loadbalancer: yes
+  registry_name: us.gcr.io
+  project_id: iconic-flare-196109
+  docker_push: gcloud docker -- push
+  docker_del_img: gcloud container images delete
+  docker_img_list: 'gcloud container images list-tags'
+  context: gke_iconic-flare-196109_us-central1-a_cluster-demo
+

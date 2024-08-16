@@ -1,0 +1,7 @@
+- name: Make demo image
+  hosts: all
+  roles:
+    - demo
+  tasks:
+    - name: clean
+      shell: docker_img_clean

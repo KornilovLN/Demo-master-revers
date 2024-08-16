@@ -1,0 +1,29 @@
+- name: Make base image
+  hosts: all
+  roles:
+    - nginx
+    - supervisor
+    - rtdb
+  tasks:
+  - name: install psycopg2 for postgres
+    apt:
+      update_cache: yes
+      name:
+        - python-psycopg2
+        - libxml2
+      state: present
+
+  - name: make virtuoso dir
+    file: path=/opt/virtuoso state=directory mode=0755
+
+  - name: make virtuoso data dir
+    file: path=/var/lib/virtuoso state=directory mode=0755
+
+  - name: install virtuoso
+    unarchive: src="{{ ekatra_bins_url }}/virtuoso{{ VIRTUOSO_VERSION }}-bin.tgz" dest=/opt/virtuoso copy=False
+
+  - name: install virtuoso data
+    unarchive: src="{{ ekatra_bins_url }}/virtuoso{{ VIRTUOSO_VERSION }}-data.tgz" dest=/var/lib/virtuoso copy=False
+
+  - name: clean
+    shell: docker_img_clean

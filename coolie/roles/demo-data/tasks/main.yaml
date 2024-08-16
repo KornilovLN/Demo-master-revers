@@ -1,0 +1,46 @@
+
+- name: create temporary ekatra directory
+  tempfile:
+    state: directory
+    suffix: ekatra
+  register: temp
+
+- name: create folders
+  file: path={{ temp.path }}/{{ item }} state=directory
+  with_items:
+    - log
+    - rtdb
+    - spd
+    - www
+
+- name: push backend uwsgi config
+  copy:
+     src: '{{ item }}'
+     dest: '{{ temp.path }}/'
+  with_items:
+    - ekatra.yaml
+    - nginx.conf
+    - hub.yaml
+    - ekatra_nginx.conf
+
+- name: copy rtdb
+  shell: 'cp -r -t {{ temp.path }}/rtdb *'
+  args:
+    chdir: ../.work/rtdb
+
+- name: copy spd
+  shell: 'cp -r -t {{ temp.path }}/spd *'
+  args:
+    chdir: ../.work/spd
+
+- name: copy www
+  shell: 'cp -r -t {{ temp.path }}/www *'
+  args:
+    chdir: ../../frontend/.www
+
+- name: tar ekatra
+  shell: 'tar -C {{ temp.path }} --owner=www-data --group=www-data -czf ../.work/ekatra-data.tgz .'
+
+
+
+

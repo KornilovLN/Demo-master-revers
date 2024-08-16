@@ -1,0 +1,22 @@
+- name: install ace libs
+  unarchive: src={{ ekatra_bins_url }}/ACE-{{ ACE_VERSION }}.tgz dest={{ install_prefix }} copy=False
+
+- name: install rtdb libs
+  unarchive: src={{ ekatra_bins_url }}/rtdbbin.tgz dest={{ install_prefix }} copy=False
+
+- shell: ldconfig
+  args:
+    chdir: /usr/local/lib
+
+- name: install packages
+  pip:
+    name:
+      - gevent
+      - ekatra.tools
+      - pyrtdb
+#      - rtdbsio
+#      - httpbridge
+#      - mproxy
+#      - pyzmq
+
+

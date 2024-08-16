@@ -1,0 +1,11 @@
+uwsgi:
+  die-on-term: 1
+  master: 1
+  plugins: "python,http,gevent"
+  http-timeout: 120
+  gevent-monkey-patch: 1
+  gevent: 1000
+  socket: ':8080'
+  module: ekatra.backend.app
+  callable: app
+  env: 'EKATRA_BACKEND_CONFIG=/var/ekatra/ekatra.yaml'

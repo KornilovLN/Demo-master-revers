@@ -1,0 +1,25 @@
+@prefix : <http://spd.ivl.cns/cim/sodar#> .
+@prefix mof: <http://spd.ivl.cns/cim/rtdbmof#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:StabilityClass a mof:PPClass ;
+    rdfs:label "Класс стабильности"@ru ;
+    mof:hints """{
+"1": "стабильный", 
+"2": "слегка стабильный", 
+"3": "нейтральный", 
+"4": "слегка нестабильный", 
+"5": "нестабильный"
+}"""@ru ;
+    mof:states """{
+"1": "F", 
+"2": "E", 
+"3": "D", 
+"4": "C", 
+"5": "B"
+}""" ;
+    rdfs:subClassOf mof:Discrete .
+

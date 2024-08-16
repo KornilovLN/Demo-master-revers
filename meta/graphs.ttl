@@ -1,0 +1,37 @@
+@prefix meta: <http://spd.ivl.cns/cim/meta#> .
+
+<http://spd.znpp.cns/ivs/z1> a meta:graph ;
+    meta:prefix "z1" .
+
+<http://spd.znpp.cns/ivs/z2> a meta:graph ;
+    meta:prefix "z2" .
+
+<http://spd.znpp.cns/ivs/z3> a meta:graph ;
+    meta:prefix "z3" .
+
+<http://spd.znpp.cns/ivs/z4> a meta:graph ;
+    meta:prefix "z4" .
+
+<http://spd.znpp.cns/ivs/z5> a meta:graph ;
+    meta:prefix "z5".
+
+<http://spd.znpp.cns/ivs/z6> a meta:graph ;
+    meta:prefix "z6" .
+
+<http://spd.znpp.cns/za> a meta:graph ;
+    meta:prefix "za" .
+
+<http://spd.znpp.cns/pams> a meta:graph ;
+    meta:prefix "zpams" .
+
+<http://spd.znpp.cns/svrk> a meta:graph ;
+    meta:prefix "zr" .
+
+<http://spd.znpp.cns/rodos> a meta:graph ;
+    meta:prefix "zrd" .
+
+<http://spd.znpp.cns/ivs/zrt> a meta:graph ;
+    meta:prefix "zrt" .
+
+<http://spd.znpp.cns/ivs/z> a meta:graph ;
+    meta:prefix "z" .

@@ -1,0 +1,40 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: meta-deployment
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: meta
+    spec:
+      containers:
+      - name: meta
+        image: {{ config.registry_name }}/{{ config.project_id }}/ekatra
+#        :{{ new_tag }}
+        imagePullPolicy: Always
+        command: ["/usr/local/bin/start_virtuoso.sh"]
+        env:
+        - name: IMAGE_TAG
+          value: '{{ new_tag }}'
+        ports:
+        - containerPort: 1111
+        - containerPort: 8890
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: meta
+  labels:
+    app: meta
+spec:
+  ports:
+  - name: http
+    port: 8890
+    targetPort: 8890
+  - name: odbc
+    port: 1111
+    targetPort: 1111
+  selector:
+    app: meta

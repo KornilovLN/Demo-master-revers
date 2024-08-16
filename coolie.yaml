@@ -1,0 +1,111 @@
+ansible_config:
+    verbosity: 1
+
+doit_config:
+    backend: sqlite3
+    verbosity: 2
+
+vars:
+   VIRTUOSO_VERSION: 7.2.4.2
+   NGINX_VERSION: 1.10.3
+
+
+targets:
+  - name: baseimage
+    make_image:
+      base: 'registry.master.cns/u16py2/virtuoso-client:{{ VIRTUOSO_VERSION }}'
+      target: demo/base
+    run:
+      - playbook: coolie/baseimage.yaml
+
+  - name: step1
+    doc: "Step 1: Copy file and meta form znpp. Extract messages to .pot"
+    make:
+      - .work/demo.ttl
+      - .work/nav.yaml
+      - .work/spd/meta/mofstates.json
+      - .work/spd/nav.json
+    user: me
+    onimage: registry.master.cns/u16py2/compiler
+    working_dir: /build
+    network: znpp
+    volumes:
+      znpp-var-data: /var/ekatra
+      znpp-rtdb-data: /rtdb
+    run:
+      - shell: python -W ignore ./scripts/import_from_znpp.py
+
+
+  - name: step2
+    doc: "Step 2: Update rtdb by initial values"
+    make: .work/rtdb_updated.txt
+    assets:
+      - name: rtdb_map
+        make: .work/rtdb_map.yaml
+        file_dep:
+        - dump/rtdb.yaml
+        - .work/demo.ttl
+        user: me
+        onimage: registry.master.cns/u16py2/compiler
+        working_dir: /build
+        run:
+        - shell: python2 ./scripts/rtdb_map.py
+    user: me
+    onimage: registry.master.cns/u16py2/rtdb
+    working_dir: /build
+    run:
+    - shell: python2 ./scripts/rtdb_push.py
+    - shell: touch .work/rtdb_updated.txt
+
+
+  - name: step3
+    doc: "Step 3: Translate to english"
+    make:
+    - .work/demo_en.ttl
+    - .work/spd/en/nav.json
+    - .work/spd/en/meta/mofstates.json
+    file_dep:
+    - translations/en/LC_MESSAGES/messages.po
+    - .work/demo.ttl
+    - .work/nav.yaml
+    - .work/spd/meta/mofstates.json
+    user: me
+    onimage: registry.master.cns/u16py2/compiler
+    working_dir: /build
+    run:
+    - shell: python2 ./scripts/tr_compile.py
+
+  - name: step4
+    doc: "Step 4: Prepare data for meta"
+    make:
+    - .work/meta-data.tgz
+    onimage: 'registry.master.cns/u16py2/virtuoso:{{ VIRTUOSO_VERSION }}'
+    working_dir: /build
+    mounts:
+      '/var/ekatra/meta': '.work/meta'
+    run:
+      - playbook: coolie/meta_db.yaml
+
+  - name: step5
+    doc: "Step 5: Prepare data for demo"
+    make:
+    - .work/ekatra-data.tgz
+    run:
+      - playbook: coolie/prepare_data.yaml
+
+  - name: step6
+    doc: "Step 6: Build image"
+    make_image:
+      base: demo/base
+      target: demo/ekatra
+    run:
+      - playbook: coolie/image.yaml
+
+  - name: kube
+    vars:
+      old_tag: 18.02.02
+      new_tag: 18.02.03c
+    make:
+    - .work/a.txt
+    run:
+      - playbook: coolie/kube.yaml

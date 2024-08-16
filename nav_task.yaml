@@ -1,0 +1,73 @@
+- defaults: true
+  id: z/fBLOCKS_DEMO
+- cssClass: fa fa-tachometer
+  text: 'mnemo'
+  children:
+    - id: z/fOR00P1
+    - id: z/fUM00P2
+    - id: z/fMES
+    - id: z/fMRP
+    - id: zrt/f30km2
+    - id: za/fME
+    - id: zrd/fMAWS
+    - title: Unit 1
+      children:
+        - id: zrt/fYAPPY1
+        - id: zrt/fParBGSVX_z1
+        - id: z/fMTI1
+        - id: z/fEON1
+        - id: za/fRO1
+        - id: z1/fGT00M1
+    - title: Unit 2
+      children:
+        - id: z2/fPD_ShD
+        - id: zrt/fYAPPY2
+        - id: zrt/fParBGSVX_z2
+        - id: z/fMTI2
+        - id: z/fEON2
+        - id: za/fRO2
+        - id: z2/fdT_TVS
+        - id: z2/fKD
+        - id: z2/fTQ
+        - id: z2/fPG_ShD
+    - title: Unit 3
+      children:
+        - id: z3/fPD_ShD
+        - id: zrt/fYAPPY3
+        - id: zrt/fParBGSVX_z3
+        - id: z/fMTI3
+        - id: z/fEON3
+        - id: za/fRO3
+        - id: z3/fdT_TVS
+        - id: z3/fKD
+        - id: z3/fTQ
+        - id: z3/fPG_ShD
+    - title: Unit 4
+      children:
+        - id: z4/fPD_ShD
+        - id: zrt/fYAPPY4
+        - id: zrt/fParBGSVX_z4
+        - id: z/fMTI4
+        - id: z/fEON4
+        - id: za/fRO4
+        - id: z4/fdT_TVS
+        - id: z4/fKD
+        - id: z4/fTQ
+        - id: z4/fPG_ShD
+    - title: Unit 5
+      children:
+        - id: zrt/fYAPPY5
+        - id: zrt/fParBGSVX_z5
+        - id: z/fMTI5
+        - id: z/fEON5
+        - id: za/fRO5
+        - id: z5/fGT00M
+    - title: Unit 6
+      children:
+        - id: zrt/fYAPPY6
+        - id: zrt/fParBGSVX_z6
+        - id: z/fMTI6
+        - id: z/fEON6
+        - id: za/fRO6
+        - id: z6/fGT00M
+

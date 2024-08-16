@@ -1,0 +1,17 @@
+- name: Prepare kube files
+  hosts: localhost
+  roles:
+    - minikube
+    - gcloud
+  tasks:
+    - include_role:
+        name: kube
+      vars:
+        dir: ../minikube
+        config: '{{ minikube }}'
+
+    - include_role:
+        name: kube
+      vars:
+        dir: ../gcloud
+        config: '{{ gcloud }}'

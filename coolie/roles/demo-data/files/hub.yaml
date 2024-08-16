@@ -1,0 +1,28 @@
+rtdb:
+  - type: rtdbsim
+    root: /var/ekatra/rtdb/
+    root_pg: /var/ekatra/rtdb/
+
+sharedscreens:
+  room: a1NfI6DTEojv
+
+logging:
+  version: 1
+  formatters:
+    default:
+      format: '%(asctime)s %(levelname)-8s %(name)-15s %(message)s'
+      datefmt: '%Y-%m-%d %H:%M:%S'
+  handlers:
+    console:
+      class : logging.StreamHandler
+      formatter: default
+      level   : INFO
+      stream  : ext://sys.stdout
+  root:
+    level: INFO
+    handlers:
+      - console
+  engineio:
+    level: WARNING
+    handlers:
+      - console

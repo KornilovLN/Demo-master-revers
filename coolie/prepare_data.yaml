@@ -1,0 +1,4 @@
+- name: Prepare data for ekatra image
+  hosts: localhost
+  roles:
+    - demo-data

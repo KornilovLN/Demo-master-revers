@@ -1,0 +1,7 @@
+minikube:
+  test: yes
+  support_loadbalancer: no
+  registry_name: registry.master.cns
+  project_id: u16py2
+  docker_push: docker push
+  context: minikube

@@ -1,0 +1,48 @@
+- name: install ekatra packages
+  pip:
+    name:
+      - ekatra.semantic
+      - ekatra.backend
+      - rtdbsio
+
+- name: make supervisor conf
+  copy:
+    src: supervisor.ini
+    dest: /etc/supervisor/conf.d/ekatra.ini
+    mode: 0664
+
+- name: push backend uwsgi config
+  copy:
+     src: '{{ item }}'
+     dest: '/etc/uwsgi/{{ item }}'
+  with_items:
+    - backend.yaml
+    - rtdb.yaml
+
+- name: create opt ekatra
+  file: path={{ item }} state=directory mode=0755
+  with_items:
+    - /opt/ekatra
+    - /var/ekatra
+    - /var/ekatra/meta
+
+- name: copy data
+  copy:
+    src: '../.work/{{ item }}-data.tgz'
+    dest: /opt/ekatra
+  with_items:
+    - meta
+    - ekatra
+
+- name: copy start scripts
+  copy:
+    src: '{{ item }}'
+    dest: /usr/local/bin
+    owner: root
+    mode: 0755
+  with_items:
+    - start_virtuoso.sh
+    - start_ekatra.sh
+
+
+

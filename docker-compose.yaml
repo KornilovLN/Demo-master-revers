@@ -1,0 +1,37 @@
+version: '3.2'
+
+volumes:
+  data:
+    driver: local
+
+services:
+  meta:
+    container_name: demo-meta
+    hostname: meta
+    image: "demo/ekatra"
+    command: '/usr/local/bin/start_virtuoso.sh'
+    environment:
+      IMAGE_TAG: '18.03.02'
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "200k"
+        max-file: "5"
+  www:
+    container_name: demo-www
+    hostname: www
+    image: "demo/ekatra"
+    command: '/usr/local/bin/start_ekatra.sh'
+    environment:
+      IMAGE_TAG: '18.03.02'
+    volumes:
+      - '../backend/src/ekatra/backend:/usr/local/lib/python2.7/dist-packages/ekatra/backend'
+      - '../rtdb/packages/rtdbsio/rtdbsio:/usr/local/lib/python2.7/dist-packages/rtdbsio'
+      - 'data:/var/ekatra/'
+    ports:
+      - 8088:80
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "200k"
+        max-file: "5"

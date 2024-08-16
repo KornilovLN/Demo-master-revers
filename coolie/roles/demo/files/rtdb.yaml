@@ -1,0 +1,13 @@
+uwsgi:
+  master: true
+  die-on-term: true
+  plugins: "python,http,gevent"
+  gevent-monkey-patch: true
+  http-socket: ':8081'
+  gevent: 200
+  http-websockets: true
+  module: rtdbsio.app
+  callable: app
+  worker-reload-mercy: 5
+  py-autoreload: 1
+  env: 'RTDB_HUB_CONFIG=/var/ekatra/hub.yaml'

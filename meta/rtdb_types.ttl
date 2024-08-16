@@ -1,0 +1,135 @@
+@prefix : <http://spd.ivl.cns/cim/rtdbmof#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:Alarm a :PPClass ;
+    rdfs:label "Discrete signal"@en,
+        "Сигнальный дискрет"@ru ;
+    rdfs:subClassOf :Discrete .
+
+:Analog a :PPClass ;
+    rdfs:label "Analog Tag"@en,
+        "Аналоговый Тэг"@ru ;
+    :hints """{
+"-1": "No data has yet been received or received invalid data"
+}"""@en,
+        """{
+"-1": "Данных еще не поступало или получены недопустимые данные"
+}"""@ru ;
+    :rts """{
+"-1": "fault"
+}""" ;
+    :states """{
+"-1": "UNC"
+}"""@en,
+        """{
+"-1": "НЕД"
+}"""@ru ;
+    rdfs:comment "Analog parameter"@en,
+        "Аналоговый параметр"@ru ;
+    rdfs:subClassOf :ProcessPoint .
+
+:Array a :PPClass ;
+    rdfs:label "Array RTDB"@en,
+        "Массив RTDB"@ru ;
+    :rts """{
+"-1": "offline", 
+"0": "initialized", 
+"1": "online", 
+"2": "suspend", 
+"3": "timeout", 
+"default": "fault"
+}""" ;
+    :states """{
+"-1": "Switched Off", 
+"0": "Initialized", 
+"1": "On-Line", 
+"2": "Suspended", 
+"3": "Time Out", 
+"default": "UNC"
+}"""@en,
+        """{
+"-1": "выключен", 
+"0": "инициализирован", 
+"1": "онлайн", 
+"2": "приостановлен", 
+"3": "тайм-аут", 
+"default": "НЕД"
+}"""@ru ;
+    rdfs:comment "Array in RTDB"@en,
+        "Массив в RTDB"@ru ;
+    rdfs:subClassOf :ProcessPoint .
+
+:Bool a :PPClass ;
+    :states """{
+"0": "No", 
+"1": "Yes"
+}"""@en,
+        """{
+"0": "Нет", 
+"1": "Да"
+}"""@ru ;
+    rdfs:subClassOf :DiscreteBool .
+
+:MechanizmBool a :PPClass ;
+    :states """{
+"0": "Off", 
+"1": "On"
+}"""@en,
+        """{
+"0": "Откл", 
+"1": "Вкл"
+}"""@ru ;
+    rdfs:subClassOf :Mechanizm .
+
+:RBool a :PPClass ;
+    :states """{
+"0": "Yes", 
+"1": "No"
+}"""@en,
+        """{
+"0": "Да", 
+"1": "Нет"
+}"""@ru ;
+    rdfs:subClassOf :DiscreteBool .
+
+:Valve a :PPClass ;
+    rdfs:label "Valve"@en,
+        "Задвижка"@ru ;
+    rdfs:comment "Дискрет контролирующий устройство, которое может быть открыто или завкрыто."@ru ;
+    rdfs:subClassOf :Discrete .
+
+:Mechanizm a :PPClass ;
+    rdfs:label "Mechanism"@en,
+        "Механизм"@ru ;
+    rdfs:comment "Дискрет контролирующий устройство, которое может быть включено или выключено."@ru ;
+    rdfs:subClassOf :Discrete .
+
+:DiscreteBool a :PPClass ;
+    rdfs:label "Boolean discrete"@en,
+        "Булевый дискрет"@ru ;
+    rdfs:subClassOf :Discrete .
+
+:Discrete a :PPClass ;
+    rdfs:label "Discrete Tag"@en,
+        "Дискретный Тэг"@ru ;
+    :hints """{
+"-1": "No data has yet been received or received invalid data"
+}"""@en,
+        """{
+"-1": "Данных еще не поступало или получены недопустимые данные"
+}"""@ru ;
+    :rts """{
+"-1": "fault"
+}""" ;
+    :states """{
+"-1": "UNC"
+}"""@en,
+        """{
+"-1": "НЕД"
+}"""@ru ;
+    rdfs:comment "Discrete parameter"@en,
+        "Дискретный параметр"@ru ;
+    rdfs:subClassOf :ProcessPoint .

@@ -1,0 +1,102 @@
+.
+├── coolie
+│   ├── baseimage.yaml
+│   ├── files
+│   │   ├── load_ttls.sh
+│   │   └── virtuoso.ini
+│   ├── image.yaml
+│   ├── kube.yaml
+│   ├── meta_db.yaml
+│   ├── prepare_data.yaml
+│   └── roles
+│       ├── demo
+│       │   ├── files
+│       │   │   ├── backend.yaml
+│       │   │   ├── rtdb.yaml
+│       │   │   ├── start_ekatra.sh
+│       │   │   ├── start_virtuoso.sh
+│       │   │   └── supervisor.ini
+│       │   └── tasks
+│       │       └── main.yaml
+│       ├── demo-data
+│       │   ├── files
+│       │   │   ├── ekatra_nginx.conf
+│       │   │   ├── ekatra.yaml
+│       │   │   ├── hub.yaml
+│       │   │   └── nginx.conf
+│       │   └── tasks
+│       │       └── main.yaml
+│       ├── gcloud
+│       │   └── defaults
+│       │       └── main.yaml
+│       ├── kube
+│       │   ├── tasks
+│       │   │   └── main.yaml
+│       │   └── templates
+│       │       ├── create.sh
+│       │       ├── delete.sh
+│       │       ├── deploy.sh
+│       │       ├── ekatra.yaml
+│       │       ├── meta.yaml
+│       │       └── push_image.sh
+│       ├── minikube
+│       │   └── defaults
+│       │       └── main.yaml
+│       ├── nginx
+│       │   ├── files
+│       │   │   ├── 404.html
+│       │   │   ├── 50x.html
+│       │   │   ├── default
+│       │   │   ├── favicon.ico
+│       │   │   └── nginx.conf
+│       │   └── tasks
+│       │       └── main.yaml
+│       ├── rtdb
+│       │   └── tasks
+│       │       └── main.yaml
+│       └── supervisor
+│           ├── defaults
+│           │   └── main.yaml
+│           ├── files
+│           │   └── supervisord.conf
+│           └── tasks
+│               └── main.yaml
+├── coolie.yaml
+├── demo-master
+├── docker-compose-dev.yaml
+├── docker-compose.yaml
+├── dump
+│   └── rtdb.yaml
+├── meta
+│   ├── graphs.ttl
+│   ├── mmi.ttl
+│   ├── rsdmof.ttl
+│   ├── rtdbmof.ttl
+│   ├── rtdb_types.ttl
+│   └── sodar.ttl
+├── nav_task.yaml
+├── run.sh
+├── scripts
+│   ├── ha_warmup.py
+│   ├── ha_warmup.sh
+│   ├── import_from_znpp.py
+│   ├── polib.py
+│   ├── rtdb_dump.py
+│   ├── rtdb_dump.sh
+│   ├── rtdb_map.py
+│   ├── rtdb_push.py
+│   ├── spd_data.py
+│   ├── tr_compile.py
+│   ├── tr_init_en.sh
+│   ├── tr.py
+│   ├── tr_update.sh
+│   ├── tsdb_dump.py
+│   └── utils.py
+├── stop.sh
+├── todo.txt
+└── translations
+    └── en
+        └── LC_MESSAGES
+            └── messages.po
+
+31 directories, 68 files

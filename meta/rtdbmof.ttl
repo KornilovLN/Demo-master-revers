@@ -1,0 +1,261 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix : <http://spd.ivl.cns/cim/rtdbmof#>.
+
+ :id a rdf:Property ;
+    rdfs:range xsd:string ;
+    rdfs:label "RTDB ID"@ru ;
+    rdfs:label "RTDB ID"@en ;
+    rdfs:comment "Идентификатор RTDB"@ru ;
+    rdfs:comment "Identifier RTDB"@en .
+
+ :alert_hysteresis a rdf:Property ;
+    rdfs:label "Гистерезис оповещения"@ru ;
+    rdfs:label "Alert hysteresis"@en ;
+    rdfs:range xsd:int .
+
+ :typecode a rdf:Property ;
+    rdfs:domain :Array ;
+    rdfs:range xsd:string ;
+    rdfs:label "Тип"@ru ;
+    rdfs:comment "Код типа массива"@ru .
+
+ :arr_IO a rdf:Property ;
+    rdfs:domain :Array ;
+    rdfs:range xsd:string ;
+    rdfs:label "I/O"@ru ;
+    rdfs:comment "Код функции I/O массива"@ru .
+
+ :tick a rdf:Property ;
+    rdfs:domain :Array ;
+    rdfs:range xsd:unsignedInt ;
+    rdfs:label "Частота обновления"@ru ;
+    rdfs:comment "Предполагаемая частота обновления массива в секундах. 0 - частота не определена"@ru .
+
+ :arr_size a rdf:Property ;
+    rdfs:domain :Array ;
+    rdfs:range xsd:int ;
+    rdfs:label "Размер массива"@ru ;
+    rdfs:comment "Размер массива"@ru .
+
+ :PPClass a rdfs:Class ;
+    rdfs:label "Тэг класс"@ru .
+
+ :ProcessPoint a :PPClass ;
+    rdfs:label "Тэг"@ru .
+
+ :Discrete a :PPClass ;
+   rdfs:subClassOf :ProcessPoint ;
+   rdfs:label "Дискретный параметр"@ru .
+
+ :Analog  a :PPClass ;
+   rdfs:subClassOf :ProcessPoint;
+   rdfs:label "Аналоговый параметр"@ru ;
+   rdfs:comment "Аналоговый параметр"@ru .
+
+ :format a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:label "FORMAT"@en ;
+    rdfs:label "Формат вывода"@ru ;
+    rdfs:comment """
+Заполняется в виде M.N, где
+M – общее количество знаков включая точку и знак ( не более 7);
+N – количество знаков после запятой.
+Научный формат определяется в виде NE, где
+N – общее количество знаков мантиссы, включая точку и знак, ( если он есть).
+Определяет формат  для отображения параметров на РМО и в протоколах регистрации.
+При задании научного формата число представляется в виде стандартно нормализованного числа и соответствующей ему степени  N,NNNE-XX"""@ru .
+
+ :array a rdf:Property ;
+    rdfs:domain :ProcessPoint ;
+    rdfs:range :Array ;
+    rdfs:label "Массив"@ru ;
+    rdfs:label "Array"@en ;
+    rdfs:comment "RTDB массив, в котором находится динамические значения элемента"@ru ;
+    rdfs:comment "RTDB array, which contains the dynamic values of the element"@en .
+
+ :arr_index a rdf:Property ;
+    rdfs:domain :ProcessPoint ;
+    rdfs:range xsd:int ;
+    rdfs:label "Индекс"@ru ;
+    rdfs:label "Index"@en ;
+    rdfs:comment "Индекс элемента в массиве RTDB"@ru ;
+    rdfs:comment "The index of the element in the RTDB array"@en .
+
+ :title a rdf:Property ;
+    rdfs:domain :ProcessPoint ;
+    rdfs:range xsd:string ;
+    rdfs:label "Title"@en ; 
+    rdfs:label "Наименование"@ru ; 
+    rdfs:comment "Item Description"@en ; 
+    rdfs:comment "Наименование объекта"@ru ; 
+    :opc-id 101 .
+
+ :mu a  rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:label "EU Units"@en ; 
+    rdfs:label "Ед.изм."@ru ; 
+    rdfs:comment "Единица измерения"@ru ; 
+    rdfs:comment "Unit of measurement"@en ; 
+    :opc-id 100 .
+
+ :HIR   a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "High Instr.Range"@en ; 
+    rdfs:label "Верх.предел измер."@ru ;
+    rdfs:comment "Верхний предел измерения"@ru ;
+    rdfs:comment """OPC: High Instrument Range. This represents the highest value that 
+can be returned by the instrument."""@en ; 
+    :opc-id 104 .
+
+ :LIR   a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "Low Instr.Range"@en ; 
+    rdfs:label "Нижн.предел измер."@ru ; 
+    rdfs:comment "Нижний предел измерения"@ru ; 
+    rdfs:comment """OPC: Low Instrument Range. This represents the lowest value that 
+can be returned by the instrument."""@en ; 
+    :opc-id 105 .
+
+ :HEU a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "High EU"@en ; 
+    rdfs:label "Верхний предел физ.д-на"@ru ;
+    rdfs:comment "Верхний предел физического диапазона"@ru ;
+    rdfs:comment """OPC: Present only for analog data. This represents the highest value likely 
+to be obtained in normal operation and is intended for such use as 
+automatically scaling a bargraph display. 
+"""@en ; 
+    :opc-id 102 .
+
+ :LEU   a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "Low EU"@en ; 
+    rdfs:label "Нижний предел физ.д-на"@ru ; 
+    rdfs:comment "Нижний предел физического диапазона"@ru ; 
+    rdfs:comment """OPC: Present only for analog data. This represents the lowest value likely 
+to be obtained in normal operation and is intended for such use as 
+automatically scaling a bargraph display. 
+"""@en ; 
+    :opc-id 103 .
+
+ :State a rdf:Property ;
+    rdfs:domain :ProcessPoint ;
+    rdfs:range xsd:string ;
+    rdfs:label "Condition Status"@en ; 
+    rdfs:comment """OPC: The current alarm or condition status associated with the Item 
+e.g. "NORMAL", "ACTIVE", "HI ALARM", etc  
+"""@en ; 
+    :opc-id 300 .
+
+ :Deadband a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "Deadband"@en ; 
+    :opc-id 306 .
+
+ :HHL   a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "HiHi Limit"@en ; 
+    rdfs:label "ВАГ"@ru ; 
+    rdfs:comment "Верхняя аварийная граница"@ru ; 
+    rdfs:comment """OPC: Each Tag has a High High Limit Parameter which acts as 
+the Tag's High High Alarm Limit for evaluating alarm conditions from the Value Parameter.  
+If the value of the Value Parameter exceeds the High High Limit the Tag is considered 
+to be in a High High alarm condition."""@en ; 
+    :opc-id 307 .
+
+ :HL    a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "Hi Limit"@en ; 
+    rdfs:label "ВРГ"@ru ; 
+    rdfs:comment "Верхняя граница регламентного диапазона"@ru ; 
+    rdfs:comment """OPC: Each Tag has a High Limit Parameter which acts as 
+the Tag's High Alarm Limit for evaluating alarm conditions from the Value Parameter.  
+If the value of the Value Parameter exceeds the High Limit the Tag is considered 
+to be in a High alarm condition."""@en ; 
+    :opc-id 308 .
+
+ :LL    a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "Lo Limit"@en ; 
+    rdfs:label "НРГ"@ru ; 
+    rdfs:comment "Нижняя граница регламентного диапазона"@ru ; 
+    rdfs:comment """OPC: Each Tag has a Low Limit Parameter which acts as 
+the Tag's Low Alarm Limit for evaluating alarm conditions from the Value Parameter.  
+If the value of the Value Parameter exceeds the Low Limit the Tag is considered 
+to be in a Low alarm condition."""@en ; 
+    :opc-id 309 .
+
+ :LLL   a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "LoLo Limit"@en ; 
+    rdfs:label "НАГ"@ru ; 
+    rdfs:comment "Нижняя аварийная граница"@ru ; 
+    rdfs:comment """OPC: Each Tag has a Low Low Limit Parameter which acts as 
+the Tag's Low Low Alarm Limit for evaluating alarm conditions from the Value Parameter.  
+If the value of the Value Parameter exceeds the Low Low Limit the Tag is considered 
+to be in a Low Low alarm condition."""@en ; 
+    :opc-id 310 .
+
+ :RCL   a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "Rate of Change Limit"@en ; 
+    rdfs:comment """OPC: Each Tag has a Rate of Change Limit Parameter which acts as 
+the Tag's Rate of Change Alarm Limit for evaluating alarm conditions from the Value Parameter.  
+If the value of the Value Parameter changes by more than the Units / Minute limit between samples 
+that are sampled at the Sample Rate the Rate of Change Limit the Tag is considered to be in a ROC alarm condition."""@en ; 
+    :opc-id 311 .
+
+ :DL   a rdf:Property ;
+    rdfs:domain :Analog ;
+    rdfs:range xsd:float ;
+    rdfs:label "Deviation Limit"@en ; 
+    :opc-id 312 .
+
+ :AlarmAreas a rdf:Property ;
+    rdfs:range xsd:token ;
+    rdfs:label "Alarm Area List"@en ; 
+    rdfs:comment "OPC: An array of stings indicating the plant or alarm areas which include this ItemID."@en ; 
+    :opc-id 302 .
+
+ :PrimaryAlarmArea a rdf:Property ;
+    rdfs:range xsd:token ;
+    rdfs:label "Primary Alarm Area"@en ; 
+    rdfs:comment "OPC: A string indicating the primary plant or alarm area including this ItemID"@en ; 
+    :opc-id 303 .
+
+ :ConditionLogic a rdf:Property ;
+    rdfs:range xsd:string ;
+    rdfs:label "Condition Logic"@en ; 
+    rdfs:comment """OPC: An arbitrary string describing the test being performed. 
+e.g. "High Limit Exceeded" or "TAG.PV >= TAG.HILIM" """@en ; 
+    :opc-id 304 .
+
+ :LimitExceeded a rdf:Property ;
+    rdfs:range xsd:string ;
+    rdfs:label "Limit Exceeded"@en ; 
+    rdfs:comment "OPC: For multistate alarms, the condition exceeded e.g. HIHI, HI, LO, LOLO"@en ; 
+    :opc-id 305 .
+
+ :SoundFile a rdf:Property ;
+    rdfs:range xsd:anyURI ;
+    rdfs:label "Sound File"@en ; 
+    :opc-id 313 .
+
+#FIXME it's functional property: >mof:array/mof:tick
+# :SSR a rdf:Property ;
+#    rdfs:domain :ProcessPoint ;
+#    rdfs:range xsd:int ;
+#    rdfs:label "Частота обновления"@ru ;
+#    rdfs:comment "Частота обновления в секундах"@ru .

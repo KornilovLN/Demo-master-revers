@@ -1,0 +1,55 @@
+SECRET_KEY: 'ZL\x16\xd0\xc8\xe2\x89?+\xff\xfb\xb4\xd9)Y\x0e\x1a0\xdf\xa4m\xdb\xaf\x00'
+SESSION_COOKIE_NAME: 'session2'
+
+DEBUG: True
+JSON_AS_ASCII: False
+JSONIFY_PRETTYPRINT_REGULAR: False
+
+SPARQL_ENDPOINT: DSN=semantic;host=meta;UID=dba;PWD=dba
+
+SQLALCHEMY_DATABASE_URI: 'postgresql+psycopg2://ekatra:hwUdKX6RQj53W@postgres:5432/ekatra?client_encoding=utf8'
+SQLALCHEMY_ECHO: True
+SQLALCHEMY_TRACK_MODIFICATIONS: True
+
+USERS_FOLDER: /var/ekatra/users_folder
+
+LANGUAGES: ['en', 'ru']
+SPD_ADDITION_LANGUAGES: ['en']
+
+TSDB_URL: 'http://tsdb:4242'
+
+EKATRA_BACKEND_HISTORY_ACCESS:
+  cache:
+    name: Disk
+    path: /var/ekatra/tmp/cache/tsdb
+    policy: portable
+  layers:
+    test:
+      provider:
+        name: Test
+      write_cache: false
+    default:
+#      provider:
+#        name: OpenTSDBDUMP
+#        path: /var/ekatra/tmp/cache/tsdb_dump
+#      write_cache: false
+#      metatile:
+#        buffer: 86400 # seconds
+      provider:
+        name: PortableCache
+        path: /var/ekatra/tmp/cache/tsdb/default
+
+EKATRA_IVSPP_SKIP_FIELD:
+  - 'http://spd.ivl.cns/cim/rtdbmof#array'
+  - 'http://spd.ivl.cns/cim/mmi#memberOf'
+  - 'http://spd.ivl.cns/cim/hika#sensorType'
+  - 'http://spd.ivl.cns/cim/hika#ao'
+  - 'http://spd.ivl.cns/cim/hika#ukts'
+  - 'http://spd.ivl.cns/cim/hika#handlingType'
+  - 'http://spd.ivl.cns/cim/hika#paramType'
+  - 'http://spd.ivl.cns/cim/hika#objType'
+
+
+EKATRA_AUTH_DEFAULT_PERMITS:
+   user: "demo"
+   permits: ['demo']

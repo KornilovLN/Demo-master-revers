@@ -1,0 +1,63 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: web-pv-claim
+  labels:
+    app: ekatra
+spec:
+  accessModes:
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 2Gi
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: ekatra-deployment
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: ekatra
+    spec:
+      containers:
+      - name: ekatra
+        image: {{ config.registry_name }}/{{ config.project_id }}/ekatra
+#        :{{ new_tag }}
+        imagePullPolicy: Always
+        command: ["/usr/local/bin/start_ekatra.sh"]
+        env:
+        - name: IMAGE_TAG
+          value: '{{ new_tag }}'
+        ports:
+        - name: http-server
+          containerPort: 80
+        volumeMounts:
+          - name: www-persistent-storage
+            mountPath: /var/ekatra
+      volumes:
+        - name: www-persistent-storage
+          persistentVolumeClaim:
+            claimName: web-pv-claim
+
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ekatra-svc
+  labels:
+    app: ekatra
+spec:
+  type: {% if config.support_loadbalancer %}LoadBalancer{% else %}NodePort{% endif %}
+
+  ports:
+  - port: 80
+    targetPort: http-server
+{% if not config.support_loadbalancer %}
+    nodePort: 30080{% endif %}
+
+  selector:
+    app: ekatra

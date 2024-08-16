@@ -1,0 +1,49 @@
+- name: Make meta db
+  hosts: all
+  tasks:
+    - name: Ensure db dir
+      file: path=/var/ekatra/meta state=directory mode=0777
+
+    - name: Ensure log dir
+      file: path=/var/ekatra/meta/log state=directory mode=0777
+
+    - name: copy virtuoso.ini
+      copy:
+        src: virtuoso.ini
+        dest: /var/ekatra/meta/virtuoso.ini
+
+    - name: run server
+      shell: /opt/virtuoso/bin/virtuoso-t
+      args:
+        chdir: /var/ekatra/meta
+
+    - name: Wait for port 1111
+      wait_for:
+        port: 1111
+        delay: 1
+
+    - name: copy ttl
+      copy:
+        src: '{{ item }}'
+        dest: '/tmp/'
+      with_fileglob:
+        - "../.work/*.ttl"
+
+    - name: copy ttl
+      copy:
+        src: '{{ item }}'
+        dest: '/tmp/'
+      with_fileglob:
+        - "../meta/*.ttl"
+
+    - name: load ttl
+      script: load_ttls.sh
+
+- name: Tar meta db
+  hosts: localhost
+  tasks:
+    - shell: rm *.log
+      args:
+        chdir: ../.work/meta/log
+    - shell: tar -C ../.work/meta -czf ../.work/meta-data.tgz .
+    - shell: rm -r ../.work/meta

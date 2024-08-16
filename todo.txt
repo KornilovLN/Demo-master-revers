@@ -1,0 +1,6 @@
+[x] по всем public groups в каталоге .rtdb из znpp ekatrы получить текущие значения и заполнить локальные memory файлы
+    coolie udev:update_rtdb
+
+[ ] по всем public groups в каталоге .rtdb из znpp ekatrы получить историю
+
+[ ] залить историю в локальную opentsdb

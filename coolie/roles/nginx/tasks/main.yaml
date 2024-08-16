@@ -1,0 +1,29 @@
+- name: Install dependency, nginx-core package
+  apt: name=nginx-core  update_cache=yes
+
+- name: download nginx
+  unarchive: src="{{ ekatra_bins_url }}/nginx-{{ NGINX_VERSION }}.tgz" dest=/ copy=False
+
+- name: create folder
+  file: path=/etc/nginx/sites-available state=directory
+
+- name: create folder
+  file: path={{ item }} state=directory owner=www-data group=www-data
+  with_items:
+    - '/var/www'
+    - '/var/cache/nginx'
+
+- name: copy nginx.conf
+  copy: src=nginx.conf dest=/etc/nginx/nginx.conf
+
+- name: copy nginx default server
+  copy: src=default dest=/etc/nginx/sites-available/default
+
+- name: copy favicon
+  copy: src=favicon.ico dest=/var/www/favicon.ico  owner=www-data group=www-data
+
+- name: copy 50x.html
+  copy: src=50x.html dest=/usr/share/nginx/html/50x.html  owner=www-data group=www-data
+
+- name: copy 404.html
+  copy: src=404.html dest=/usr/share/nginx/html/404.html  owner=www-data group=www-data

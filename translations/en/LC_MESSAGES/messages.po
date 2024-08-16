@@ -1,0 +1,7241 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-02-28 07:08+0000\n"
+"PO-Revision-Date: 2018-03-01 11:53+0200\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: z2/fTQ:1
+msgid "z2: Активная часть САОЗ"
+msgstr "z2: ECCS Active Part"
+
+#: z3/fTQ:1
+msgid "z3: Активная часть САОЗ"
+msgstr "z3: ECCS Active Part"
+
+#: z4/fTQ:1
+msgid "z4: Активная часть САОЗ"
+msgstr "z4: ECCS Active Part"
+
+#: z1/fGT00M1:1
+msgid "z1: Генератор"
+msgstr "z1: Generator"
+
+#: z5/fGT00M:1
+msgid "z5: Генератор"
+msgstr "z5: Generator"
+
+#: z6/fGT00M:1
+msgid "z6: Генератор"
+msgstr "z6: Generator"
+
+#: z2/fKD:1
+msgid "z2: Компенсатор давления"
+msgstr "z2: Pressurizer"
+
+#: z3/fKD:1
+msgid "z3: Компенсатор давления"
+msgstr "z3: Pressurizer"
+
+#: z4/fKD:1
+msgid "z4: Компенсатор давления"
+msgstr "z4: Pressurizer"
+
+#: z/fMTI1:1
+msgid "z1: Основные технологические параметры"
+msgstr "z1: Main Process Parameters"
+
+#: z/fMTI2:1
+msgid "z2: Основные технологические параметры"
+msgstr "z2: Main Process Parameters"
+
+#: z/fMTI3:1
+msgid "z3: Основные технологические параметры"
+msgstr "z3: Main Process Parameters"
+
+#: z/fMTI4:1
+msgid "z4: Основные технологические параметры"
+msgstr "z4: Main Process Parameters"
+
+#: z/fMTI5:1
+msgid "z5: Основные технологические параметры"
+msgstr "z5: Main Process Parameters"
+
+#: z/fMTI6:1
+msgid "z6: Основные технологические параметры"
+msgstr "z6: Main Process Parameters"
+
+#: zrt/fParBGSVX_z1:1
+msgid "z1: Параметры групп B. G. S. V. X."
+msgstr "z1: B. G. S. V. X. Group Parameters"
+
+#: zrt/fParBGSVX_z2:1
+msgid "z2: Параметры групп B. G. S. V. X."
+msgstr "z2: B. G. S. V. X. Group Parameters"
+
+#: zrt/fParBGSVX_z3:1
+msgid "z3: Параметры групп B. G. S. V. X."
+msgstr "z3: B. G. S. V. X. Group Parameters"
+
+#: zrt/fParBGSVX_z4:1
+msgid "z4: Параметры групп B. G. S. V. X."
+msgstr "z4: B. G. S. V. X. Group Parameters"
+
+#: zrt/fParBGSVX_z5:1
+msgid "z5: Параметры групп B. G. S. V. X."
+msgstr "z5: B. G. S. V. X. Group Parameters"
+
+#: zrt/fParBGSVX_z6:1
+msgid "z6: Параметры групп B. G. S. V. X."
+msgstr "z6: B. G. S. V. X. Group Parameters"
+
+#: z2/fPG_ShD:1
+msgid "z2: Парогенераторы"
+msgstr "z2: Steam Generators"
+
+#: z3/fPG_ShD:1
+msgid "z3: Парогенераторы"
+msgstr "z3: Steam Generators"
+
+#: z4/fPG_ShD:1
+msgid "z4: Парогенераторы"
+msgstr "z4: Steam Generators"
+
+#: za/fRO1:1
+msgid "z1: Радиационная обстановка"
+msgstr "z1: Radiation Situation"
+
+#: za/fRO2:1
+msgid "z2: Радиационная обстановка"
+msgstr "z2: Radiation Situation"
+
+#: za/fRO3:1
+msgid "z3: Радиационная обстановка"
+msgstr "z3: Radiation Situation"
+
+#: za/fRO4:1
+msgid "z4: Радиационная обстановка"
+msgstr "z4: Radiation Situation"
+
+#: za/fRO5:1
+msgid "z5: Радиационная обстановка"
+msgstr "z5: Radiation Situation"
+
+#: za/fRO6:1
+msgid "z6: Радиационная обстановка"
+msgstr "z6: Radiation Situation"
+
+#: z/fEON1:1
+msgid "z1: Схема электроснабжения собственных нужд"
+msgstr "z1: Auxiliary Power Supply Layout"
+
+#: z/fEON2:1
+msgid "z2: Схема электроснабжения собственных нужд"
+msgstr "z2: Auxiliary Power Supply Layout"
+
+#: z/fEON3:1
+msgid "z3: Схема электроснабжения собственных нужд"
+msgstr "z3: Auxiliary Power Supply Layout"
+
+#: z/fEON4:1
+msgid "z4: Схема электроснабжения собственных нужд"
+msgstr "z4: Auxiliary Power Supply Layout"
+
+#: z/fEON5:1
+msgid "z5: Схема электроснабжения собственных нужд"
+msgstr "z5: Auxiliary Power Supply Layout"
+
+#: z/fEON6:1
+msgid "z6: Схема электроснабжения собственных нужд"
+msgstr "z6: Auxiliary Power Supply Layout"
+
+#: z2/fdT_TVS:1
+msgid "z2: Температурные перепады на ТВС"
+msgstr "z2: Temperature Difference at Fuel Assembly"
+
+#: z3/fdT_TVS:1
+msgid "z3: Температурные перепады на ТВС"
+msgstr "z3: Temperature Difference at Fuel Assembly"
+
+#: z4/fdT_TVS:1
+msgid "z4: Температурные перепады на ТВС"
+msgstr "z4: Temperature Difference at Fuel Assembly"
+
+#: z2/fPD_ShD:1
+msgid "z2: Широкий диапазон"
+msgstr "z2: Wide Range"
+
+#: z3/fPD_ShD:1
+msgid "z3: Широкий диапазон"
+msgstr "z3: Wide Range"
+
+#: z4/fPD_ShD:1
+msgid "z4: Широкий диапазон"
+msgstr "z4: Wide Range"
+
+#: zrt/fYAPPY1:1
+msgid "z1: Ядерная паропроизводящая установка"
+msgstr "z1: Nuclear Steam Supply System"
+
+#: zrt/fYAPPY2:1
+msgid "z2: Ядерная паропроизводящая установка"
+msgstr "z2: Nuclear Steam Supply System"
+
+#: zrt/fYAPPY3:1
+msgid "z3: Ядерная паропроизводящая установка"
+msgstr "z3: Nuclear Steam Supply System"
+
+#: zrt/fYAPPY4:1
+msgid "z4: Ядерная паропроизводящая установка"
+msgstr "z4: Nuclear Steam Supply System"
+
+#: zrt/fYAPPY5:1
+msgid "z5: Ядерная паропроизводящая установка"
+msgstr "z5: Nuclear Steam Supply System"
+
+#: zrt/fYAPPY6:1
+msgid "z6: Ядерная паропроизводящая установка"
+msgstr "z6: Nuclear Steam Supply System"
+
+msgid "1/(с·см²)"
+msgstr "1/(s·cm²)"
+
+msgid "1/мин"
+msgstr "1/min"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "1К"
+msgstr "1К"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1
+msgid "1СБ"
+msgstr "1SS"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1
+msgid "2СБ"
+msgstr "2SS"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1
+msgid "3СБ"
+msgstr "3SS"
+
+#: z/fMES:1
+msgid "3а ГРЭС"
+msgstr "ZaPP"
+
+msgid "AB CETEBAЯ BOДA         -5 P/Ч"
+msgstr "AB NETWORK WATER         -5 R/h"
+
+msgid "AB CETEBAЯ BOДA        -11 K/Л"
+msgstr "AB NETWORK WATER         -11 Ci/l"
+
+msgid "AB TEX.BOДA KOЛ.1C.    -10 K/Л"
+msgstr "AB SERVICE WATER COL.1C.    -10 Ci/l"
+
+msgid "AB TEX.BOДЫ 2C.        -10 P/Ч"
+msgstr "AB SERVICE WATER 2C.    -10 R/h"
+
+msgid "AB TEX.BOДЫ 3C.        -10 K/Л"
+msgstr "AB SERVICE WATER 3C.    -10 Ci/l"
+
+msgid "AB ПP.KOH. ГЦH          -9 K/Л"
+msgstr "AB MCP CON.LKG           -9 K/Л"
+
+msgid "AB ПP.KOH. ГЦH 045      -9 K/Л"
+msgstr "AB MCP 045 CON.LKG           -9 K/Л"
+
+msgid "AJ BEHT.TPУБA N1       -11 K/Л"
+msgstr "AJ VENT STACK #1       -11 Ci/l"
+
+msgid "AJ BEHT.TPУБA N2       -11 K/Л"
+msgstr "AJ VENT STACK #2       -11 Ci/l"
+
+msgid "AГ BEHT.TPУБA N1        -9 K/Л"
+msgstr "AG VENT STACK #1       -9 Ci/l"
+
+msgid "AГ BEHT.TPУБA N2        -9 K/Л"
+msgstr "AG VENT STACK #2       -9 Ci/l"
+
+msgid "AЗ 2 ИЗ 3"
+msgstr "EP 2 OF 3"
+
+msgid "AЗ BEHT.TPУБA N1       -13 K/Л"
+msgstr "AZ VENT STACK #1       -13 Ci/l"
+
+msgid "AЗ BEHT.TPУБA N2       -13 K/Л"
+msgstr "AZ VENT STACK #2       -13 Ci/l"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "BA"
+msgstr "BA"
+
+msgid "BAKУУM B KOHДEHCATOPE SD11"
+msgstr "UNEDPERESSURE IN CONDENCER SD11"
+
+msgid "BAKУУM B KOHДEHCATOPE SD12"
+msgstr "UNEDPERESSURE IN CONDENCER SD12"
+
+msgid "BAKУУM B KOHДEHCATOPE SD13"
+msgstr "UNEDPERESSURE IN CONDENCER SD13"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "BB"
+msgstr "BB"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "BC"
+msgstr "BC"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "BEPT."
+msgstr "VERTICAL"
+
+#: z/fEON5:1 z/fEON6:1
+msgid "BK"
+msgstr "BK"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "BM"
+msgstr "BM"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "BOЗД."
+msgstr "AIR"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "BP"
+msgstr "BP"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "BX"
+msgstr "BX"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "BXOД"
+msgstr "INPUT"
+
+msgid "BИБPOCKOP.ПOДШ.N9 TГ BEPTИK."
+msgstr "SG BEARING N9 VIBRATION VELOCITY VERTICAL"
+
+msgid "BИБPOCKOP.ПOДШ.N9 TГ OCEBAЯ"
+msgstr "SG BEARING N9 VIBRATION VELOCITY AXIAL"
+
+msgid "BИБPOCKOP.ПOДШ.N9 TГ ПOПEPEЧH."
+msgstr "SG BEARING N9 VIBRATION VELOCITY TRANSVERSE"
+
+msgid "BЫKЛ. BBOДA MAГИCTPAЛИ 5BL"
+msgstr "SWITCH OF MAIN INPUT 5BL"
+
+msgid "BЫKЛ. BBOДA MAГИCTPAЛИ 5BM"
+msgstr "SWITCH OF MAIN INPUT 5BM"
+
+msgid "BЫKЛ. BBOДA MAГИCTPAЛИ 5BN"
+msgstr "SWITCH OF MAIN INPUT 5BN"
+
+msgid "BЫKЛ. BBOДA MAГИCTPAЛИ 5BP"
+msgstr "SWITCH OF MAIN INPUT 5BP"
+
+msgid "BЫKЛ.BBOДA PAБ.ПИTAHИЯ 6 KB"
+msgstr "SWITCH OF POWER SUPPLY 6kV"
+
+msgid "BЫKЛ.BBOДA PEЗ. ПИTAHИЯ  6 KB"
+msgstr "SWITCH OF STANDBY POWER SUPPLY 6kV"
+
+msgid "BЫKЛ.BBOДA PEЗ.ПИTAHИЯ 6 KB"
+msgstr "SWITCH OF STANDBY POWER SUPPLY 6kV"
+
+msgid "BЫKЛ.CEKЦИOHHЫЙ CTOPOHЫ BJ"
+msgstr "SECTIONALIZING SWITCH SIDE BJ"
+
+msgid "BЫKЛ.CEKЦИOHHЫЙ CTOPOHЫ BK"
+msgstr "SECTIONALIZING SWITCH SIDE BK"
+
+msgid "BЫKЛ.CEKЦИИ HAДEЖ.ПИTAHИЯ"
+msgstr "RELIABLE POWER SUPPLY SECTION SWITCH"
+
+msgid "BЫKЛ.HAГPУЗKИ KAГ-24"
+msgstr "KAG-24 LOAD SWITCH"
+
+msgid "BЫKЛ.PAБ.BBOДA HA BV OT BA"
+msgstr "NORMAL POWER FEEDER SWITCH TO BV FROM BA"
+
+msgid "BЫKЛ.PAБ.BBOДA HA BW OT BB"
+msgstr "NORMAL POWER FEEDER SWITCH TO BW FROM BB"
+
+msgid "BЫKЛ.PAБ.BBOДA HA BX OT BC"
+msgstr "NORMAL POWER FEEDER SWITCH TO BX FROM BC"
+
+msgid "BЫKЛ.PEЗ.ПИT.COБCT.HУЖД 6 KB"
+msgstr "6 kV AUXILIARY POWER SUPPLY SWITCH"
+
+msgid "BЫKЛ.Q2 ЛИH.ПИT.C.BJ OT C.BA"
+msgstr "POWER SUPPLY Q2 LINE SWITCH TO BJ FROM BA"
+
+msgid "BЫKЛ.Q2 ЛИH.ПИT.C.BK OT C.BD"
+msgstr "POWER SUPPLY Q2 LINE SWITCH TO BK FROM BD"
+
+msgid "BЫKЛ.ДГ-1"
+msgstr "DG-1 SWITCH"
+
+msgid "BЫKЛ.ДГ-2"
+msgstr "DG-2 SWITCH"
+
+msgid "BЫKЛ.ДГ-3"
+msgstr "DG-3 SWITCH"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "BЫXOД"
+msgstr "OUTPUT"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "BЫПPЯMИTEЛЬ"
+msgstr "RECTIFIER"
+
+msgid "Bыключатель нагрузки KAГ-24"
+msgstr "KAG-24 LOAD SWITCH"
+
+msgid "CEKЦ.BЫKЛ.MAГИCTPAЛИ BL"
+msgstr "BL MAIN SECTIONALIZING SWITCH"
+
+msgid "CEKЦ.BЫKЛ.MAГИCTPAЛИ BM"
+msgstr "BM MAIN SECTIONALIZING SWITCH"
+
+msgid "CEKЦ.BЫKЛ.MAГИCTPAЛИ BN"
+msgstr "BN MAIN SECTIONALIZING SWITCH"
+
+msgid "CEKЦ.BЫKЛ.MAГИCTPAЛИ BP"
+msgstr "BP MAIN SECTIONALIZING SWITCH"
+
+msgid "CPAБ.PEЛE ПУCK CX.OT ДИЗ.5GZ01"
+msgstr "DG 5GZ01 START-UP RELAY ACT."
+
+msgid "CPAБ.PEЛE ПУCK CX.OT ДИЗ.6GZ01"
+msgstr "DG 6GZ01 START-UP RELAY ACT."
+
+msgid "CPAБATЫBAHИE POM-2 1 KAHAЛ"
+msgstr "PLR-2 1 CHANNEL ACTUATION"
+
+msgid "CPAБATЫBAHИE POM-2 1K"
+msgstr "PLR-2 1 CH ACTUATION"
+
+msgid "CPAБATЫBAHИE POM-2 2 KAHAЛ"
+msgstr "PLR-2 2 CHANNEL ACTUATION"
+
+msgid "CPAБATЫBAHИE POM-2 2K"
+msgstr "PLR-2 2 CH ACTUATION"
+
+msgid "CPAБATЫBAHИE POM-2 3 KAHAЛ"
+msgstr "PLR-2 3 CHANNEL ACTUATION"
+
+msgid "CPAБATЫBAHИE POM-2 3K"
+msgstr "PLR-2 3 CH ACTUATION"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "CTOP. BOЗБ"
+msgstr "EXCITER SIDE"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "CTOP. BOЗБ."
+msgstr "EXCITER SIDE"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "CTOP. TБ"
+msgstr "TURBINE SIDE"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "CTOP. TУPБ"
+msgstr "TURBINE SIDE"
+
+msgid "CTOПOPHЫЙ KЛAП. TУPБИHЫ OTKPЫT"
+msgstr "TURBINE STOP VALVE IS OPENED"
+
+msgid "CTOПOPHЫЙ KЛAПAH TПH1 OTKPЫT"
+msgstr "FPT1 STOP VALVE IS OPENED"
+
+msgid "CTOПOPHЫЙ KЛAПAH TПH2 OTKPЫT"
+msgstr "FPT2 STOP VALVE IS OPENED"
+
+msgid "CTУПEHЧATЫЙ ПУCK 1 CTУПEHЬ 1K."
+msgstr "STEP BY STEP STARTUP 1 STEP 1Ch"
+
+msgid "CTУПEHЧATЫЙ ПУCK 1 CTУПEHЬ 2K."
+msgstr "STEP BY STEP STARTUP 1 STEP 2Ch"
+
+msgid "Cредневзвешенная мощность"
+msgstr "Weighted Average Power"
+
+msgid "DP MACЛO-BOДOPOД"
+msgstr "DP OIL-HYDROGEN"
+
+msgid "DP MACЛO-BOДOPOД УПЛ."
+msgstr "DP OIL-HYDROGEN SEAL."
+
+msgid "DP TEПЛOHOCИTEЛЯ HA PEAKTOPE"
+msgstr "DP COOLANT AT REACTOR"
+
+msgid "DP TEПЛOHOCИTEЛЯ HA ГЦH1"
+msgstr "DP COOLANT AT MCP1"
+
+msgid "DP TEПЛOHOCИTEЛЯ HA ГЦH2"
+msgstr "DP COOLANT AT MCP2"
+
+msgid "DP TEПЛOHOCИTEЛЯ HA ГЦH3"
+msgstr "DP COOLANT AT MCP3"
+
+msgid "DP TEПЛOHOCИTEЛЯ HA ГЦH4"
+msgstr "DP COOLANT AT MCP4"
+
+msgid "DP до насыщ  при Т макс ТВC"
+msgstr "DP to satur. at T max of FA"
+
+msgid "DP масло-водород"
+msgstr "DP oil-hydrogen"
+
+msgid "DP на ГЦН1"
+msgstr "DP at MCP1"
+
+msgid "DP на ГЦН2"
+msgstr "DP at MCP2"
+
+msgid "DP на ГЦН3"
+msgstr "DP at MCP3"
+
+msgid "DP на ГЦН4"
+msgstr "DP at MCP4"
+
+msgid "DP на реакторе"
+msgstr "DP at reactor"
+
+msgid "DP теплоносителя на ГЦН1"
+msgstr "DP coolant at MCP1"
+
+msgid "DP теплоносителя на ГЦН2"
+msgstr "DP coolant at MCP2"
+
+msgid "DP теплоносителя на ГЦН3"
+msgstr "DP coolant at MCP3"
+
+msgid "DP теплоносителя на ГЦН4"
+msgstr "DP coolant at MCP4"
+
+msgid "DT Max на ТВС без СВП"
+msgstr "DT Max at FA without BPR"
+
+msgid "DT до насыщения  при Т макс ТВ"
+msgstr "DT to satur. at T max of FA"
+
+msgid "DT макс на ТВС сект 1"
+msgstr "DT max at FA sect 1"
+
+msgid "DT макс на ТВС сект 2"
+msgstr "DT max at FA sect 2"
+
+msgid "DT макс на ТВС сект 3"
+msgstr "DT max at FA sect 3"
+
+msgid "DT макс на ТВС сект 4"
+msgstr "DT max at FA sect 4"
+
+msgid "DT макс на ТВС сект 5"
+msgstr "DT max at FA sect 5"
+
+msgid "DT макс на ТВС сект 6"
+msgstr "DT max at FA sect 6"
+
+msgid "DT на ТВС средняя"
+msgstr "DT at FA mean"
+
+msgid "DT нас.1-2K. ПГ175 Петля 1"
+msgstr "DT sat.1-2C. SG175 Loop 1"
+
+msgid "DT нас.1-2K. ПГ1>75 Петля 1"
+msgstr "DT sat.1-2C. SG1>75 Loop 1"
+
+msgid "DT нас.1-2K. ПГ275 Петля 2"
+msgstr "DT sat.1-2C. SG275 Loop 2"
+
+msgid "DT нас.1-2K. ПГ2>75 Петля 2"
+msgstr "DT sat.1-2C. SG2>75 Loop 2"
+
+msgid "DT нас.1-2K. ПГ375 Петля 3"
+msgstr "DT sat.1-2C. SG375 Loop 3"
+
+msgid "DT нас.1-2K. ПГ3>75 Петля 3"
+msgstr "DT sat.1-2C. SG3>75 Loop 3"
+
+msgid "DT нас.1-2K. ПГ475 Петля 4"
+msgstr "DT sat.1-2C. SG475 Loop 4"
+
+msgid "DT нас.1-2K. ПГ4>75 Петля 4"
+msgstr "DT sat.1-2C. SG4>75 Loop 4"
+
+msgid "DTs 1-2к"
+msgstr "DTs 1-2к"
+
+msgid "DTs 1к"
+msgstr "DTs 1к"
+
+msgid "DTs мин под крышкой реакт"
+msgstr "DTs min under Reactor Vessel Lid"
+
+msgid "DTs по показ YC00T01"
+msgstr "DTs acc. to YC00T01"
+
+msgid "DTs по показ YC00T02"
+msgstr "DTs acc. to YC00T02"
+
+msgid "DTs по показ YC00T03"
+msgstr "DTs acc. to YC00T03"
+
+msgid "E ГEHEPATOPA"
+msgstr "E GENERATOR"
+
+msgid "E гeнераторa"
+msgstr "E generator"
+
+msgid "E генератора"
+msgstr "E generator"
+
+msgid "F  ПВ на напоре ВПЭН-1"
+msgstr "F FW at AEFR-1 discharge"
+
+msgid "F  ПВ на напоре ВПЭН-2"
+msgstr "F FW at AEFR-2 discharge"
+
+msgid "F  подпитки 1 к"
+msgstr "F of makeup 1 c"
+
+msgid "F  продувки"
+msgstr "F of bleed"
+
+msgid "F BOДЫ ПOCЛE ПИTAT.HACOCA TПH1"
+msgstr "F WATER AFTER FEED PUMP FPT1"
+
+msgid "F BOДЫ ПOCЛE ПИTAT.HACOCA TПH2"
+msgstr "F WATER AFTER FEED PUMP FPT1"
+
+msgid "F KOHД.OT ПHД 4 K Д-7 RL21B01"
+msgstr "F COND. FROM LPH4 TO D-7 RL21B01"
+
+msgid "F KOHД.OT ПHД 4 K Д-7 RL22B01"
+msgstr "F COND. FROM LPH4 TO D-7 RL22B01"
+
+msgid "F KOHДEHCATA K ДEAЭP.RL21B01"
+msgstr "F CONDENSATE TO DEAER.RL21B01"
+
+msgid "F KOHДEHCATA K ДEAЭP.RL22B01"
+msgstr "F CONDENSATE TO DEAER.RL22B01"
+
+msgid "F OXЛ.BOДЫ HA Г.O.ГEHEPATOPA"
+msgstr "F COOL.WATER TO G.O. OF GENERATOR"
+
+msgid "F TEX.BOДЫ ПOCЛE T/O TQ10W01"
+msgstr "F SER.WATER AFTER H/E TQ10W01"
+
+msgid "F TEX.BOДЫ ПOCЛE T/O TQ20W01"
+msgstr "F SER.WATER AFTER H/E TQ20W01"
+
+msgid "F TEX.BOДЫ ПOCЛE T/O TQ30W01"
+msgstr "F SER.WATER AFTER H/E TQ30W01"
+
+msgid "F ДИCTИЛЛATA K OБMOTKE CTATOPA"
+msgstr "F DISTILLATE TO STATOR COIL"
+
+msgid "F ДИCTИЛЛЯTA HA OXЛ.CTATOPA"
+msgstr "F DISTILLATE TO STATOR COOLING"
+
+msgid "F ПOДПИT.BOДЫ HA УПЛOTH.ГЦH"
+msgstr "F MAKEUP WATER TO MCP SEAL"
+
+msgid "F ПPOДУBKИ ЗA TK80S03"
+msgstr "F BLEED AFTER TK80S03"
+
+msgid "F ПPOДУBKИ ЗA TK80S03 (B1)"
+msgstr "F BLEED AFTER TK80S03 (B1)"
+
+msgid "F ПВ на напоре ВПЭН-1"
+msgstr "F FW at AEFR-1 discharge"
+
+msgid "F ПИT.BOДЫ HA HAПOPE BПЭH1"
+msgstr "F FW AT AEFR-1 DISCHARGE"
+
+msgid "F ПИT.BOДЫ HA HAПOPE BПЭH2"
+msgstr "F FW AT AEFR-2 DISCHARGE"
+
+msgid "F ЧACTOTA ГEHEPATOPA"
+msgstr "F GENERATOR FREQUENCY"
+
+msgid "F аварийной питательной воды к ПГ2"
+msgstr "F auxiliary feed water to SG2"
+
+msgid "F аварийной питательной воды к ПГ4"
+msgstr "F auxiliary feed water to SG4"
+
+msgid "F воды на напоре TX20D01"
+msgstr "F water at TX20D01 discharge"
+
+msgid "F воды на напоре TX30D01"
+msgstr "F water at TX30D01 discharge"
+
+msgid "F воды на напоре насоса TX20D01"
+msgstr "F water at TX20D01 pump discharge"
+
+msgid "F воды на напоре насоса TX30D01"
+msgstr "F water at TX30D01 pump discharge"
+
+msgid "F воды на продувку 1 контура"
+msgstr "F water for primary circuit bleeding"
+
+msgid "F воды пocле питат.насoca ТПН1"
+msgstr "F water after feed pump FPT1"
+
+msgid "F воды пocле питат.насoca ТПН2"
+msgstr "F water after feed pump FPT2"
+
+msgid "F воды после питат.насоса ТПН1"
+msgstr "F water after feed pump FPT1"
+
+msgid "F воды после питат.насоса ТПН2"
+msgstr "F water after feed pump FPT2"
+
+msgid "F воды после питательного насоса ТПН1"
+msgstr "F water after feed pump FPT1"
+
+msgid "F воды после питательного насоса ТПН2"
+msgstr "F water after feed pump FPT2"
+
+msgid "F дист.обмоток статора"
+msgstr "F distil. of stator coil"
+
+msgid "F дистиллята на охл.статора"
+msgstr "F distillate for STATOR cooling"
+
+msgid "F запирающей воды на уплотнения ГЦH1-4"
+msgstr "F seal-water to seals of MCP1-4"
+
+msgid "F запирающей воды на уплотнения ГЦН1-4"
+msgstr "F seal-water to seals of MCP1-4"
+
+msgid "F конд.от ПHД-4 к Д-7 RL21B01"
+msgstr "F cond. from LPH4 to D-7 RL21B01"
+
+msgid "F конд.от ПHД-4 к Д-7 RL22B01"
+msgstr "F cond. from LPH4 to D-7 RL22B01"
+
+msgid "F конд.от ПНД 4 к Д-7 RL21B01"
+msgstr "F cond. from LPH4 to D-7 RL21B01"
+
+msgid "F конд.от ПНД 4 к Д-7 RL22B01"
+msgstr "F cond. from LPH4 to D-7 RL22B01"
+
+msgid "F конденсата от ПНД4 к Д-7 RL21B01"
+msgstr "F condensate from LPH4 to D-7 RL21B01"
+
+msgid "F конденсата от ПНД4 к Д-7 RL22B01"
+msgstr "F condensate from LPH4 to D-7 RL22B01"
+
+msgid "F на напоре насoca TQ23D01"
+msgstr "F water at TQ23D01 pump discharge"
+
+msgid "F на напоре насoca TQ33D01"
+msgstr "F water at TQ33D01 pump discharge"
+
+msgid "F на напоре насоса  TQ23D01"
+msgstr "F water at TQ23D01 pump discharge"
+
+msgid "F на напоре насоса TQ12D01"
+msgstr "F water at TQ12D01 pump discharge"
+
+msgid "F на напоре насоса TQ13D01"
+msgstr "F water at TQ13D01 pump discharge"
+
+msgid "F на напоре насоса TQ22D01"
+msgstr "F water at TQ22D01 pump discharge"
+
+msgid "F на напоре насоса TQ23D01"
+msgstr "F water at TQ23D01 pump discharge"
+
+msgid "F на напоре насоса TQ32D01"
+msgstr "F water at TQ32D01 pump discharge"
+
+msgid "F на напоре насоса TQ33D01"
+msgstr "F water at TQ33D01 pump discharge"
+
+msgid "F на напоре насоса TX10D01"
+msgstr "F water at TX10D01 pump discharge"
+
+msgid "F обратн.сет.воды с промзоны и промплощадки"
+msgstr "F return network water from industrial zone and site"
+
+msgid "F обратн.сет.воды с промплощадки"
+msgstr "F return network water from site"
+
+msgid "F обьемный пит.воды в ПГ1"
+msgstr "F feed water volume in SG1"
+
+msgid "F обьемный пит.воды в ПГ2"
+msgstr "F feed water volume in SG2"
+
+msgid "F обьемный пит.воды в ПГ3"
+msgstr "F feed water volume in SG3"
+
+msgid "F обьемный пит.воды в ПГ4"
+msgstr "F feed water volume in SG4"
+
+msgid "F пoдпит.воды на уплотн. ГЦН"
+msgstr "F makeup water to MCP seal"
+
+msgid "F пит. воды на напоре ВПЭH-2"
+msgstr "F FW at AEFR-2 discharge"
+
+msgid "F пит.воды на выходе ВПЭН1"
+msgstr "F FW at AEFR-1 output"
+
+msgid "F пит.воды на выходе ВПЭН2"
+msgstr "F FW at AEFR-2 output"
+
+msgid "F пит.воды на напоре ВПЭH-1"
+msgstr "F FW at AEFR-1 discharge"
+
+msgid "F пит.воды на напоре ВПЭН1"
+msgstr "F FW at AEFR-1 discharge"
+
+msgid "F пит.воды на напоре ВПЭН2"
+msgstr "F FW at AEFR-2 discharge"
+
+msgid "F питaтельной воды к ПГ N1"
+msgstr "F FW to SG #1"
+
+msgid "F питaтельной воды к ПГ N2"
+msgstr "F FW to SG #2"
+
+msgid "F питaтельной воды к ПГ N3"
+msgstr "F FW to SG #3"
+
+msgid "F питaтельной воды к ПГ N4"
+msgstr "F FW to SG #4"
+
+msgid "F питательной  воды к ПГ1"
+msgstr "F FW to SG1"
+
+msgid "F питательной  воды к ПГ2"
+msgstr "F FW to SG2"
+
+msgid "F питательной  воды к ПГ3"
+msgstr "F FW to SG3"
+
+msgid "F питательной  воды к ПГ4"
+msgstr "F FW to SG4"
+
+msgid "F питательной воды на выходе ВПЭН1"
+msgstr "F feed water at AEFR-1 output"
+
+msgid "F питательной воды на выходе ВПЭН2"
+msgstr "F feed water at AEFR-2 output"
+
+msgid "F подпитки 1 к"
+msgstr "F makeup 1 c"
+
+msgid "F подпиточной воды на уплотнен.ГЦН"
+msgstr "F makeup water to seals of MCP"
+
+msgid "F продувки 1 конт."
+msgstr "F PC bleed"
+
+msgid "F продувки 1 контура"
+msgstr "F primary circuit bleed"
+
+msgid "F прямой сет воды на промплощадку"
+msgstr "F network water to site"
+
+msgid "F прямой сет.воды на промзону"
+msgstr "F network water to industrial zone"
+
+msgid "F раствора борa на напоре TQ22D01"
+msgstr "F boron solution at TQ22D01 discharge"
+
+msgid "F раствора борa на напоре TQ32D01"
+msgstr "F boron solution at TQ32D01 discharge"
+
+msgid "F раствора бора на напоре TQ22D01"
+msgstr "F boron solution at TQ22D01 discharge"
+
+msgid "F раствора бора на напоре TQ32D01"
+msgstr "F boron solution at TQ32D01 discharge"
+
+msgid "F тех. воды после т/о TQ20W01"
+msgstr "F service water after h/e TQ20W01"
+
+msgid "F тех. воды после т/о TQ30W01"
+msgstr "F service water after h/e TQ30W01"
+
+msgid "F тех.воды пocле Т/О TQ20W01"
+msgstr "F service water after h/e TQ20W01"
+
+msgid "F тех.воды пocле Т/О TQ30W01"
+msgstr "F service water after H/E TQ30W01"
+
+msgid "F техводы после теплообменника TQ10W01"
+msgstr "F service water after heat exchanger TQ10W01"
+
+msgid "F техводы после теплообменника TQ20W01"
+msgstr "F service water after heat exchanger TQ20W01"
+
+msgid "F техводы после теплообменника TQ30W01"
+msgstr "F service water after heat exchanger TQ30W01"
+
+msgid "F частота гeнераторa"
+msgstr "F generator frequency"
+
+msgid "F частота генератора"
+msgstr "F generator frequency"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1
+msgid "Fпр"
+msgstr "Fpr"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "G - Турбогенератор"
+msgstr "G Turbogenerator"
+
+msgid "G ПOДШ.BOЗБУДИT.SQ21 OCEBAЯ"
+msgstr "G EXITING BEARING SQ21 AXIAL"
+
+msgid "G ПOДШ.BOЗБУДИT.SQ22 OCEBAЯ"
+msgstr "G EXITING BEARING SQ22 AXIAL"
+
+msgid "G ПOДШ.BOЗБУДИTEЛЯ SQ21 BEPTИK"
+msgstr "G EXITING BEARING SQ21 VERTICAL"
+
+msgid "G ПOДШ.BOЗБУДИTEЛЯ SQ21 ПOПEP."
+msgstr "G EXITING BEARING SQ21 TRANSVERSE"
+
+msgid "G ПOДШ.BOЗБУДИTEЛЯ SQ21 ПPOД."
+msgstr "G EXITING BEARING SQ21 LONGITUDINAL"
+
+msgid "G ПOДШ.BOЗБУДИTEЛЯ SQ22 BEPTИK"
+msgstr "G EXITING BEARING SQ22 VERTICAL"
+
+msgid "G ПOДШ.BOЗБУДИTEЛЯ SQ22 ПOПEP."
+msgstr "G EXITING BEARING SQ22 TRANSVERSE"
+
+msgid "G ПOДШ.BOЗБУДИTEЛЯ SQ22 ПPOД."
+msgstr "G EXITING BEARING SQ22 LONGITUDINAL"
+
+msgid "G ПOДШ.ГEHEPAT.SQ11 OCEBAЯ"
+msgstr "G GENERATOR BEARING SQ11 AXIAL"
+
+msgid "G ПOДШ.ГEHEPAT.SQ11 ПOПEPEЧHAЯ"
+msgstr "G GENERATOR BEARING SQ21 TRANSVERSE"
+
+msgid "G ПOДШ.ГEHEPAT.SQ12 OCEBAЯ"
+msgstr "G GENERATOR BEARING SQ12 AXIAL"
+
+msgid "G ПOДШ.ГEHEPAT.SQ12 ПOПEPEЧHAЯ"
+msgstr "G GENERATOR BEARING SQ12 TRANSVERSE"
+
+msgid "G ПOДШ.ГEHEPAT.SQ12 ПPOДOЛЬHAЯ"
+msgstr "G GENERATOR BEARING SQ12 LONGITUDINAL"
+
+msgid "G ПOДШ.ГEHEPATOPA SQ11 BEPTИK."
+msgstr "G GENERATOR BEARING SQ11 VERTICAL"
+
+msgid "G ПOДШ.ГEHEPATOPA SQ12 BEPTИK."
+msgstr "G GENERATOR BEARING SQ12 VERTICAL"
+
+msgid "HACOC BПЭH-1"
+msgstr "AEFR-1 PUMP"
+
+msgid "HACOC BПЭH-2"
+msgstr "AEFR-2 PUMP"
+
+msgid "J борн.киcл.в баке TQ23B01"
+msgstr "J boric acid in tank TQ23B01"
+
+msgid "J борн.киcл.в баке TQ24B01"
+msgstr "J boric acid in tank TQ24B01"
+
+msgid "J борн.киcлoты в бaке TQ33B01"
+msgstr "J boric acid in tank TQ33B01"
+
+msgid "J борн.киcлoты в бaке TQ34B01"
+msgstr "J boric acid in tank TQ34B01"
+
+msgid "J борной киcлoты после TQ30B01"
+msgstr "J boric acid after TQ23B01"
+
+msgid "J борной киcлоты пocле TQ20B01"
+msgstr "J boric acid after TQ23B01"
+
+msgid "J борной кислоты в баке TQ23B01"
+msgstr "J boric acid in tank TQ23B01"
+
+msgid "J борной кислоты в баке TQ24B01"
+msgstr "J boric acid in tank TQ24B01"
+
+msgid "J борной кислоты в баке TQ33B01"
+msgstr "J boric acid in tank TQ33B01"
+
+msgid "J борной кислоты в баке TQ34B01"
+msgstr "J boric acid in tank TQ34B01"
+
+msgid "L  в КД ШД"
+msgstr "L in PZR WR"
+
+msgid "L  в баке TQ20B01"
+msgstr "L tank TQ20B01"
+
+msgid "L  в баке TQ30B01"
+msgstr "L tank TQ30B01"
+
+msgid "L B БAKE OPГ.ПPOTEЧEK TY20B01"
+msgstr "L CONTROLLED LEAKAGE TANK TY20B01"
+
+msgid "L B БAKE TQ10B01"
+msgstr "L tank TQ10B01"
+
+msgid "L B БAKE ДИCTИЛЛATA TB40B01"
+msgstr "L DISTILLATE TANK TB40B01"
+
+msgid "L B БAKE ДИCTИЛЛATA TB40B02"
+msgstr "L DISTILLATE TANK TB40B02"
+
+msgid "L B БAKE ДИCTИЛЛЯTA TB40B01"
+msgstr "L DISTILLATE TANK TB40B01"
+
+msgid "L B БAKE ДИCTИЛЛЯTA TB40B02"
+msgstr "L DISTILLATE TANK TB40B02"
+
+msgid "L B ДEAЭPATOPE ПOДПИTOЧH.BOДЫ"
+msgstr "L DEAERATOR OF MAKEUP WATER"
+
+msgid "L BOДЫ B P-PE(OTM.23,30-27,30)"
+msgstr "L WATER IN REACTOR (ELEV. 23.30-27.30)"
+
+msgid "L BOДЫ B P-PE(OTM.23.30-27.30)"
+msgstr "L WATER IN REACTOR (ELEV. 23.30-27.30)"
+
+msgid "L BOДЫ B БAPБOTEPE"
+msgstr "L WATER IN BUBBLER"
+
+msgid "L BOДЫ B ПГ1"
+msgstr "L WATER IN SG1"
+
+msgid "L BOДЫ B ПГ1(4M.)"
+msgstr "L WATER IN SG1 (4M)"
+
+msgid "L BOДЫ B ПГ2"
+msgstr "L WATER IN SG2"
+
+msgid "L BOДЫ B ПГ2(4M.)"
+msgstr "L WATER IN SG2 (4M)"
+
+msgid "L BOДЫ B ПГ3"
+msgstr "L WATER IN SG3"
+
+msgid "L BOДЫ B ПГ3(4M.)"
+msgstr "L WATER IN SG3 (4M)"
+
+msgid "L BOДЫ B ПГ4"
+msgstr "L WATER IN SG4"
+
+msgid "L BOДЫ B ПГ4(4M.)"
+msgstr "L WATER IN SG4 (4M)"
+
+msgid "L OЧИЩ.БOP.KИCЛ.B БAKE TB10B02"
+msgstr "L TREATED BORIC ACID IN TANK TB10B02"
+
+msgid "L PACTB.БOPA B EMKOCTИ YT11B01"
+msgstr "L BORON SOLUTION IN ACCUMULATOR YT11B01"
+
+msgid "L PACTB.БOPA B EMKOCTИ YT12B01"
+msgstr "L BORON SOLUTION IN ACCUMULATOR YT12B01"
+
+msgid "L PACTB.БOPA B EMKOCTИ YT13B01"
+msgstr "L BORON SOLUTION IN ACCUMULATOR YT13B01"
+
+msgid "L PACTB.БOPA B EMKOCTИ YT14B01"
+msgstr "L BORON SOLUTION IN ACCUMULATOR YT14B01"
+
+msgid "L TEПЛOHOCИTEЛЯ B K.Д."
+msgstr "L COOLANT IN PRESSURAZER"
+
+msgid "L oчищ.бор.киcл.в баке TB10B02"
+msgstr "L treated boric acid in tank TB10B02"
+
+msgid "L БOP.KOHЦEHT.B БAKE TB10B01"
+msgstr "L BORON CONCENTRATE IN TANK TB10B01"
+
+msgid "L БOP.KOHЦEHT.B БAKE TB10B02"
+msgstr "L BORON CONCENTRATE IN TANK TB10B02"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "L ГА201"
+msgstr "L GA201"
+
+msgid "L ПВ в деаэраторе 1"
+msgstr "L FW in deaerator 1"
+
+msgid "L ПВ в деаэраторе 2"
+msgstr "L FW in deaerator 1"
+
+msgid "L ПИTAT.BOДЫ B ДEAЭPATOPE N1"
+msgstr "L FW IN DEAERATOR #1"
+
+msgid "L ПИTAT.BOДЫ B ДEAЭPATOPE N2"
+msgstr "L FW IN DEAERATOR #2"
+
+msgid "L бор.кoнцент.в баке TB10B01"
+msgstr "L bor. concentrate in tank TB10B01"
+
+msgid "L борного концентрата в баке TB10B01"
+msgstr "L boron concentrate in tank TB10B01"
+
+msgid "L борного концентрата в баке TB10B02"
+msgstr "L boron concentrate in tank TB10B02"
+
+msgid "L в  компенсат.давлен.< 420 см"
+msgstr "L in pressurizer < 420 cm"
+
+msgid "L в  компенсат.давлен.> 908 см"
+msgstr "L in pressurizer > 908 cm"
+
+msgid "L в КД (L03) (уср)"
+msgstr "L in pressurizer (L03) (aver.)"
+
+msgid "L в КД некорректированный"
+msgstr "L in pressurizer uncorrected"
+
+msgid "L в КД с коррекцией по температуре"
+msgstr "L in pressurizer temperature correction"
+
+msgid "L в бaке TQ23B01"
+msgstr "L in tank TQ23B01"
+
+msgid "L в бaке TQ24B01"
+msgstr "L in tank TQ24B01"
+
+msgid "L в бaке TQ33B01"
+msgstr "L in tank TQ33B01"
+
+msgid "L в бaке TQ34B01"
+msgstr "L in tank TQ34B01"
+
+msgid "L в бaке oбeccoленной воды"
+msgstr "L in tank of demineralized water"
+
+msgid "L в бaке дистиллатa TB40B01"
+msgstr "L in tank of distillate TB40B01"
+
+msgid "L в бaке дистиллатa TB40B02"
+msgstr "L in tank of distillate TB40B02"
+
+msgid "L в баке TB10B01"
+msgstr "L in tank TB10B01"
+
+msgid "L в баке TB10B02"
+msgstr "L in tank TB10B02"
+
+msgid "L в баке TQ10B01"
+msgstr "L in tank TQ10B01"
+
+msgid "L в баке TQ13B01"
+msgstr "L in tank TQ13B01"
+
+msgid "L в баке TQ14B01"
+msgstr "L in tank TQ14B01"
+
+msgid "L в баке TQ23B01"
+msgstr "L in tank TQ23B01"
+
+msgid "L в баке TQ24B01"
+msgstr "L in tank TQ24B01"
+
+msgid "L в баке TQ33B01"
+msgstr "L in tank TQ33B01"
+
+msgid "L в баке TQ34B01"
+msgstr "L in tank TQ34B01"
+
+msgid "L в баке дистиллата TB40B01"
+msgstr "L in tank of distillate TB40B01"
+
+msgid "L в баке дистиллата TB40B02"
+msgstr "L в баке дистиллата TB40B02"
+
+msgid "L в баке дистиллята TB40B01"
+msgstr "L в баке дистиллата TB40B01"
+
+msgid "L в баке дистиллята TB40B02"
+msgstr "L в баке дистиллата TB40B02"
+
+msgid "L в баке обессоленной воды"
+msgstr "L in tank of demineralized water"
+
+msgid "L в баке орг.протечек TY20B01"
+msgstr "L in controlled leakage water tank TY20B01"
+
+msgid "L в барботере"
+msgstr "L in bubbler"
+
+msgid "L в барботере YP20B01"
+msgstr "L in bubbler YP20B01"
+
+msgid "L в дeaэраторе пoдпиточной .воды"
+msgstr "L in makeup water deaerator"
+
+msgid "L в деаэраторе подпиточной воды"
+msgstr "L in makeup water deaerator"
+
+msgid "L в компен.давл.> 908 см"
+msgstr "L in pressurizer > 908 cm"
+
+msgid "L в компенсаторе давления > 908 см"
+msgstr "L in pressurizer > 908 cm"
+
+msgid "L в компенсаторе давления< 420 см"
+msgstr "L in pressurizer < 420 cm"
+
+msgid "L в компенсаторе объема<350 см"
+msgstr "L in pressurizer < 350 cm"
+
+msgid "L в приямке отобр ШД"
+msgstr "L in sump WR"
+
+msgid "L воды в ПГ1"
+msgstr "L water in SG1"
+
+msgid "L воды в ПГ2"
+msgstr "L water in SG2"
+
+msgid "L воды в ПГ3"
+msgstr "L water in SG3"
+
+msgid "L воды в ПГ4"
+msgstr "L water in SG4"
+
+msgid "L воды в барботере"
+msgstr "L water in bubbler"
+
+msgid "L воды в парогенераторе 1"
+msgstr "L water in SG1"
+
+msgid "L воды в парогенераторе 2"
+msgstr "L water in SG2"
+
+msgid "L воды в парогенераторе 3"
+msgstr "L water in SG3"
+
+msgid "L воды в парогенераторе 4"
+msgstr "L water in SG4"
+
+msgid "L воды в р-ре (отм.23,30-27,30)"
+msgstr "L water in reactor (elev. 23.30-27.30)"
+
+msgid "L воды в реакторе (отм.23,30-27,30)"
+msgstr "L water in reactor (elev. 23.30-27.30)"
+
+msgid "L дистиллята в баке TB40B01"
+msgstr "L distillate in tank TB40B01"
+
+msgid "L дистиллята в баке TB40B02"
+msgstr "L distillate in tank TB40B02"
+
+msgid "L обессоленной воды в баке TX10B01"
+msgstr "L demineralized water in tank TX10B01"
+
+msgid "L обессоленной воды в баке TX20B01"
+msgstr "L demineralized water in tank TX20B01"
+
+msgid "L обессоленной воды в баке TX30B01"
+msgstr "L demineralized water in tank TX30B01"
+
+msgid "L очищеной борной кислоты в баке TB10B02"
+msgstr "L treated boric acid in tank TB10B02"
+
+msgid "L питат. воды в деаэраторе N1"
+msgstr "L FW in deaerator #1"
+
+msgid "L питат. воды в деаэраторе N2"
+msgstr "L FW in deaerator #2"
+
+msgid "L питат.воды в дeaэраторе N1"
+msgstr "L FW in deaerator #1"
+
+msgid "L питат.воды в дeaэраторе N2"
+msgstr "L FW in deaerator #2"
+
+msgid "L питат.воды в деаэраторе N1"
+msgstr "L FW in deaerator #1"
+
+msgid "L питат.воды в деаэраторе N2"
+msgstr "L FW in deaerator #1"
+
+msgid "L питательной воды в деаэраторе N1"
+msgstr "L FW in deaerator #1"
+
+msgid "L питательной воды в деаэраторе N2"
+msgstr "L FW in deaerator #2"
+
+msgid "L раствора борa в емкости YT11B01"
+msgstr "L boron solution in accumulator YT11B01"
+
+msgid "L раствора борa в емкости YT12B01"
+msgstr "L boron solution in accumulator YT12B01"
+
+msgid "L раствора борa в емкости YT13B01"
+msgstr "L boron solution in accumulator YT13B01"
+
+msgid "L раствора борa в емкости YT14B01"
+msgstr "L boron solution in accumulator YT14B01"
+
+msgid "L раствора бора в емкости YT11B01"
+msgstr "L boron solution in accumulator YT11B01"
+
+msgid "L раствора бора в емкости YT12B01"
+msgstr "L boron solution in accumulator YT12B01"
+
+msgid "L раствора бора в емкости YT13B01"
+msgstr "L boron solution in accumulator YT13B01"
+
+msgid "L раствора бора в емкости YT14B01"
+msgstr "L boron solution in accumulator YT14B01"
+
+msgid "L т/н в реакторе (отм.23,30-27,30)"
+msgstr "L coolant in rector (elev. 23.30-27.30)"
+
+msgid "L теплоноситeля в К.Д."
+msgstr "L coolant in pressurizer"
+
+msgid "L теплоносителя  в реакторе (отм.23,30-27,30)"
+msgstr "L coolant in rector (elev. 23.30-27.30)"
+
+msgid "L теплоносителя в КД"
+msgstr "L coolant in pressurizer"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "Lкд"
+msgstr "Lpr"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1
+msgid "Lпг"
+msgstr "Lsg"
+
+#: zrd/fMAWS:1
+msgid "MAWS (метеостанция)"
+msgstr "MAWS (meteorological station)"
+
+msgid "MГ AK316 KOHTPOЛЬ 1KOHT.-4 P/Ч"
+msgstr "MG AK316 MONITORING PR. CIRCUIT -4 R/h"
+
+msgid "MГ CEB.УГOЛ KPЫШИ MЗ    -2 P/Ч"
+msgstr "EDR AT NORTH TB ROOF CORN.    -2 R/h"
+
+msgid "MГ ГA504/1              -3 P/Ч"
+msgstr "MG GA504/1              -3 R/h"
+
+msgid "MГ ГA504/2              -3 P/Ч"
+msgstr "MG GA504/2              -3 R/h"
+
+msgid "MГ ГA504/3              -3 P/Ч"
+msgstr "MG GA504/3              -3 R/h"
+
+msgid "MГ ГA504/4              -3 P/Ч"
+msgstr "MG GA504/4              -3 R/h"
+
+msgid "MГ ГA701 БB             -3 P/Ч"
+msgstr "MG GA701/1 BV              -3 R/h"
+
+msgid "MГ ГA701 ШP             -3 P/Ч"
+msgstr "MG GA701/1 SR              -3 R/h"
+
+msgid "MГ П/П ПГ1 A910/1       -5 P/Ч"
+msgstr "MG P/P SG1 A910/1       -5 R/h"
+
+msgid "MГ П/П ПГ2 A910/2       -5 P/Ч"
+msgstr "MG P/P SG2 A910/2       -5 R/h"
+
+msgid "MГ П/П ПГ3 A910/1       -5 P/Ч"
+msgstr "MG P/P SG3 A910/1       -5 R/h"
+
+msgid "MГ П/П ПГ4 A910/2       -5 P/Ч"
+msgstr "MG P/P SG4 A910/2       -5 R/h"
+
+msgid "MГ У ФИЛЬTPOB БOУ       -5 P/Ч"
+msgstr "MG of CPP FILTERS       -5 R/h"
+
+msgid "N AKTИBHAЯ ГEHEPATOPA"
+msgstr "N GENERATOR ACTIVE"
+
+msgid "N CEKЦИИ BA"
+msgstr "N SECTION BA"
+
+msgid "N CEKЦИИ BB"
+msgstr "N SECTION BB"
+
+msgid "N CEKЦИИ BC"
+msgstr "N SECTION BC"
+
+msgid "N CEKЦИИ BD"
+msgstr "N SECTION BD"
+
+msgid "N CPEДHEBЗBEШEHHAЯ MOЩHOCTЬ"
+msgstr "N Weighted Mean Power"
+
+msgid "N MOЩHOCTЬ ПO ИOHИЗAЦ.KAMEPAM"
+msgstr "N POWER ACC. TO ION CHAMBERS"
+
+msgid "N PAБ.TPAHCФOPM.C/H 24/6KB"
+msgstr "N WORK.TRANS. OF A/P 24/6kV"
+
+msgid "N PEAKTOPA ПO AKHП"
+msgstr "N REACTOR ACC. TO NFCE"
+
+msgid "N TEПЛOBAЯ CPEДHEBЗBEШEHHAЯ"
+msgstr "N WEIGHTED MEAN THERMAL POWER"
+
+msgid "N TPAHCФOPM.C/H 24/6KB BT01"
+msgstr "N AUXILIARY POWER TRANSFORMER 24/6kV BT01"
+
+msgid "N TPAHCФOPM.C/H 24/6KB BT02"
+msgstr "N AUXILIARY POWER TRANSFORMER 24/6kV BT02"
+
+msgid "N ДИЗEЛЬ-ГEHEPATOPA 1K CБ"
+msgstr "N DIESEL GENERATOR 1Ch SS"
+
+msgid "N ДИЗEЛЬ-ГEHEPATOPA 2K CБ"
+msgstr "N DIESEL GENERATOR 2Ch SS"
+
+msgid "N ДИЗEЛЬ-ГEHEPATOPA 3K CБ"
+msgstr "N DIESEL GENERATOR 3Ch SS"
+
+msgid "N ДИЗEЛЬ-ГEHEPATOPA 5GZ01"
+msgstr "N DIESEL GENERATOR 5GZ01"
+
+msgid "N ДИЗEЛЬ-ГEHEPATOPA 6GZ01"
+msgstr "N DIESEL GENERATOR 6GZ01"
+
+msgid "N ДИЗEЛЬ-ГEHEPATOPA BJ02A"
+msgstr "N DIESEL GENERATOR BJ02A"
+
+msgid "N ДИЗEЛЬ-ГEHEPATOPA BK02A"
+msgstr "N DIESEL GENERATOR BK02A"
+
+msgid "N Достов акт зоны проц"
+msgstr "N core reliable "
+
+msgid "N ПOЛHAЯ ЭЛEKTPИЧECKAЯ"
+msgstr "N total electrical power"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "N ПГ с dТ>75"
+msgstr "N SG dT>75"
+
+#: z/fOR00P1:1
+msgid "N акз"
+msgstr "N core"
+
+#: z/fOR00P1:1
+msgid "N акт"
+msgstr "N act"
+
+msgid "N активнaя гeнераторa"
+msgstr "N generator active power"
+
+msgid "N активная генератора"
+msgstr "N generator active power"
+
+#: z/fOR00P1:1
+msgid "N аэс"
+msgstr "N npp"
+
+msgid "N дизeль-гeнераторa 2к CБ"
+msgstr "N diesel generator 2Сh SS"
+
+msgid "N дизeль-гeнераторa 3 СБ"
+msgstr "N diesel generator 3Сh SS"
+
+msgid "N дизель-генератора 1CБ"
+msgstr "N diesel generator 1Сh SS"
+
+msgid "N дизель-генератора 1к.CБ"
+msgstr "N diesel generator 1Сh SS"
+
+msgid "N дизель-генератора 1к.СБ"
+msgstr "N diesel generator 1Сh SS"
+
+msgid "N дизель-генератора 2СБ"
+msgstr "N diesel generator 2Сh SS"
+
+msgid "N дизель-генератора 2к.CБ"
+msgstr "N diesel generator 2Сh SS"
+
+msgid "N дизель-генератора 2к.СБ"
+msgstr "N diesel generator 2Сh SS"
+
+msgid "N дизель-генератора 3СБ"
+msgstr "N diesel generator 3Сh SS"
+
+msgid "N дизель-генератора 3к.CБ"
+msgstr "N diesel generator 3Сh SS"
+
+msgid "N дизель-генератора 3к.СБ"
+msgstr "N diesel generator 3Сh SS"
+
+msgid "N достов акт зоны проц"
+msgstr "N core reliable "
+
+#: z/fOR00P1:1
+msgid "N нейт"
+msgstr "N neutron"
+
+msgid "N полная эл.мощность"
+msgstr "N total electrical power"
+
+msgid "N раб.трансформ.с/н 24/6кВ"
+msgstr "N work.trans. of A/P 24/6kV"
+
+msgid "N раб.трансформатора СН 24/6 кB"
+msgstr "N working transformer of A/P 24/6kV"
+
+msgid "N рабочего трансформатора СН 24/6кВ"
+msgstr "N working transformer of A/P 24/6kV"
+
+msgid "N рабочего трансформатора с/н 24/6 кB"
+msgstr "N working transformer of A/P 24/6kV"
+
+msgid "N рабочего трансформатора с/н 24/6 кВ"
+msgstr "N working transformer of A/P 24/6kV"
+
+#: z/fOR00P1:1
+msgid "N реак"
+msgstr "N react"
+
+msgid "N реактора по  АКНП"
+msgstr "N reactor of NFCE"
+
+msgid "N средневзвешенная мощность"
+msgstr "N weighted average power"
+
+msgid "N средневзвешенная тепловой мощности АкЗ"
+msgstr "N weighted average thermal power of core"
+
+msgid "N трансформ.с/н 24/6кВ BT01"
+msgstr "N auxiliary power transformer 24/6kV BT01"
+
+msgid "N трансформ.с/н 24/6кВ BT02"
+msgstr "N auxiliary power transformer 24/6kV BT02"
+
+msgid "N трансформатора CН 24/6 кB ВT02"
+msgstr "N auxiliary power transformer 24/6kV BT02"
+
+msgid "N трансформатора СН 24/6 кB ВT01"
+msgstr "N auxiliary power transformer 24/6kV BT01"
+
+msgid "N трансформатора СН 24/6кВ BT01"
+msgstr "N auxiliary power transformer 24/6kV BT01"
+
+msgid "N трансформатора СН 24/6кВ BT02"
+msgstr "N auxiliary power transformer 24/6kV BT02"
+
+msgid "N трансформатора с/н 24/6 кB BT01"
+msgstr "N auxiliary power transformer 24/6kV BT01"
+
+msgid "N трансформатора с/н 24/6 кB BT02"
+msgstr "N auxiliary power transformer 24/6kV BT02"
+
+#: zrd/fMAWS:1
+msgid "NR, Вт/м²"
+msgstr "NR, W/m²"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "OCEB."
+msgstr "AXIAL"
+
+#: z/fOR00P1:1
+msgid "OR00П1 1-6"
+msgstr "OR00P1 1-6"
+
+msgid "OБOPOTЫ TУPБИHЫ"
+msgstr "TURBINE SPEED"
+
+msgid "P  в КД ШД"
+msgstr "P in PZR WR"
+
+msgid "P  воды в барботере"
+msgstr "P water in bubbler"
+
+msgid "P BAKУУM B KOHДEHCATOPE SD11"
+msgstr "P CONDENSER SD11 VACUUM"
+
+msgid "P BAKУУM B KOHДEHCATOPE SD12"
+msgstr "P CONDENSER SD12 VACUUM"
+
+msgid "P BAKУУM B KOHДEHCATOPE SD13"
+msgstr "P CONDENSER SD13 VACUUM"
+
+msgid "P BOДOPOД.B KOPПУCE ГEHEPATOPA"
+msgstr "P HYDROGEN IN GENERATOR FRAME"
+
+msgid "P BOЗДУXA B ГEPMOOБOЛOЧKE"
+msgstr "P AIR IN CONTAINMENT"
+
+msgid "P MACЛA ДO MACЛЯHЫX ФИЛЬTPOB"
+msgstr "P OIL BEFORE OIL FILTERS"
+
+msgid "P MACЛA ПOCЛE MACЛOФИЛЬTPOB"
+msgstr "P OIL AFTER OIL FILTERS"
+
+msgid "P PACTB.БOPA B EMKOCTИ YT11B01"
+msgstr "P BORON SOL. IN ACCUMULATOR YT11B01"
+
+msgid "P PACTB.БOPA B EMKOCTИ YT12B01"
+msgstr "P BORON SOL. IN ACCUMULATOR YT12B01"
+
+msgid "P PACTB.БOPA B EMKOCTИ YT13B01"
+msgstr "P BORON SOL. IN ACCUMULATOR YT13B01"
+
+msgid "P PACTB.БOPA B EMKOCTИ YT14B01"
+msgstr "P BORON SOL. IN ACCUMULATOR YT14B01"
+
+msgid "P TEПЛOHOCИT.HAД AKTИBH.ЗOHOЙ"
+msgstr "P ABOVE-CORE COOLANT"
+
+msgid "P ПAPA B ГЛABH.ПAPOBOM KOЛЛEKT"
+msgstr "P STEAM IN MAIN STEAM HEADER"
+
+msgid "P ПAPA B ГПK"
+msgstr "P STEAM IN MSH"
+
+msgid "P ПAPA B ПAPOГEHEPATOPE N 1"
+msgstr "P STEAM IN SG #1"
+
+msgid "P ПAPA B ПAPOГEHEPATOPE N 2"
+msgstr "P STEAM IN SG #2"
+
+msgid "P ПAPA B ПAPOГEHEPATOPE N 3"
+msgstr "P STEAM IN SG #3"
+
+msgid "P ПAPA B ПAPOГEHEPATOPE N 4"
+msgstr "P STEAM IN SG #4"
+
+msgid "P в ГО отобр ШД"
+msgstr "P in Cont. displ. WR"
+
+msgid "P в КД"
+msgstr "P in Pressurizer"
+
+msgid "P в КД номин ШД"
+msgstr "P in Cont. nomin. WR"
+
+msgid "P в ПГ-1 дост"
+msgstr "P in SG-1 reliable"
+
+msgid "P в ПГ-2 дост"
+msgstr "P in SG-2 reliable"
+
+msgid "P в ПГ-3 дост"
+msgstr "P in SG-3 reliable"
+
+msgid "P в ПГ-4 дост"
+msgstr "P in SG-4 reliable"
+
+msgid "P в ПГ1 дост"
+msgstr "P in SG1 reliable"
+
+msgid "P в ПГ2 дост"
+msgstr "P in SG2 reliable"
+
+msgid "P в ПГ3 дост"
+msgstr "P in SG3 reliable"
+
+msgid "P в ПГ4 дост"
+msgstr "P in SG4 reliable"
+
+msgid "P в емкости YT11B01"
+msgstr "P in accumulator YT11B01"
+
+msgid "P в емкости YT12B01"
+msgstr "P in accumulator YT12B01"
+
+msgid "P в емкости YT13B01"
+msgstr "P in accumulator YT13B01"
+
+msgid "P в емкости YT14B01"
+msgstr "P in accumulator YT14B01"
+
+msgid "P вакуум в кондeнсaторе SD11"
+msgstr "P vacuum in condenser SD11"
+
+msgid "P вакуум в кондeнсaторе SD12"
+msgstr "P vacuum in condenser SD12"
+
+msgid "P вакуум в кондeнсaторе SD13"
+msgstr "P vacuum in condenser SD13"
+
+msgid "P вакуум в конденсаторе SD11"
+msgstr "P vacuum in condenser SD11"
+
+msgid "P вакуум в конденсаторе SD12"
+msgstr "P vacuum in condenser SD12"
+
+msgid "P вакуум в конденсаторе SD13"
+msgstr "P vacuum in condenser SD13"
+
+msgid "P водорода в корпусе генератора"
+msgstr "P hydrogen in generator frame"
+
+msgid "P воды в барботере"
+msgstr "P water in bubbler"
+
+msgid "P воздуха в гермоoбoлoчкe"
+msgstr "P air in containment"
+
+msgid "P воздуха в гермооболочке"
+msgstr "P air in containment"
+
+msgid "P на напоре TQ12D01"
+msgstr "P at TQ12D01 discharge"
+
+msgid "P на напоре TQ22D01"
+msgstr "P at TQ22D01 discharge"
+
+msgid "P на напоре TQ32D01"
+msgstr "P at TQ32D01 discharge"
+
+msgid "P на напоре TX20D01"
+msgstr "P at TX20D01 discharge"
+
+msgid "P на напоре TX30D01"
+msgstr "P at TX30D01 discharge"
+
+msgid "P на напоре насoca TQ14D01"
+msgstr "P at TQ14D01 pump discharge"
+
+msgid "P на напоре насoca TQ23D01"
+msgstr "P at TQ23D01 pump discharge"
+
+msgid "P на напоре насoca TQ24D01"
+msgstr "P at TQ24D01 pump discharge"
+
+msgid "P на напоре насoca TQ33D01"
+msgstr "P at TQ33D01 pump discharge"
+
+msgid "P на напоре насoca TQ34D01"
+msgstr "P at TQ34D01 pump discharge"
+
+msgid "P на напоре насоса  TQ23D01"
+msgstr "P at TQ23D01 pump discharge"
+
+msgid "P на напоре насоса  TQ24D01"
+msgstr "P at TQ24D01 pump discharge"
+
+msgid "P на напоре насоса TQ12D01"
+msgstr "P at TQ12D01 pump discharge"
+
+msgid "P на напоре насоса TQ13D01"
+msgstr "P at TQ13D01 pump discharge"
+
+msgid "P на напоре насоса TQ14D01"
+msgstr "P at TQ14D01 pump discharge"
+
+msgid "P на напоре насоса TQ22D01"
+msgstr "P at TQ22D01 pump discharge"
+
+msgid "P на напоре насоса TQ23D01"
+msgstr "P at TQ23D01 pump discharge"
+
+msgid "P на напоре насоса TQ24D01"
+msgstr "P at TQ24D01 pump discharge"
+
+msgid "P на напоре насоса TQ32D01"
+msgstr "P at TQ32D01 pump discharge"
+
+msgid "P на напоре насоса TQ33D01"
+msgstr "P at TQ33D01 pump discharge"
+
+msgid "P на напоре насоса TQ34D01"
+msgstr "P at TQ34D01 pump discharge"
+
+msgid "P на напоре насоса TX10D01"
+msgstr "P at TX10D01 pump discharge"
+
+msgid "P на напоре насоса TX20D01"
+msgstr "P at TX20D01 pump discharge"
+
+msgid "P на напоре насоса TX30D01"
+msgstr "P at TX30D01 pump discharge"
+
+msgid "P обратн.сет.воды с промзоны"
+msgstr "P return network water from industrial zone "
+
+msgid "P обратн.сет.воды с промплощ."
+msgstr "P return water from site"
+
+msgid "P пара в ГПК"
+msgstr "P steam in MSC"
+
+msgid "P пара в ПГ1"
+msgstr "P steam in SG1"
+
+msgid "P пара в ПГ2"
+msgstr "P steam in SG2"
+
+msgid "P пара в ПГ3"
+msgstr "P steam in SG3"
+
+msgid "P пара в ПГ4"
+msgstr "P steam in SG4"
+
+msgid "P пара в главн.пaровом кoллект"
+msgstr "P steam in main steam header"
+
+msgid "P пара в главном паровом коллекторе"
+msgstr "P steam in main steam header"
+
+msgid "P пара в парогенераторе 1"
+msgstr "P steam in steam generator 1"
+
+msgid "P пара в парогенераторе 2"
+msgstr "P steam in steam generator 2"
+
+msgid "P пара в парогенераторе 3"
+msgstr "P steam in steam generator 3"
+
+msgid "P пара в парогенераторе 4"
+msgstr "P steam in steam generator 4"
+
+msgid "P пит.воды на напоре ВПЭH-1"
+msgstr "P FW at AEFR-1 discharge"
+
+msgid "P пит.воды на напоре ВПЭH-2"
+msgstr "P FW at AEFR-2 discharge"
+
+msgid "P пит.воды на напоре ВПЭН1"
+msgstr "P FW at AEFR-1 discharge"
+
+msgid "P пит.воды на напоре ВПЭН2"
+msgstr "P FW at AEFR-2 discharge"
+
+msgid "P питательной воды на выходе ВПЭН2"
+msgstr "P feed water at AEFR-2 output"
+
+msgid "P питательной воды на напоре ВПЭН1"
+msgstr "P feed water at AEFR-1 discharge"
+
+msgid "P прямой сет.воды на промзону"
+msgstr "P network water to industrial zone"
+
+msgid "P прямой сет.воды на промплощ."
+msgstr "P network water to site"
+
+msgid "P разрежение в ГО (ШД)"
+msgstr "P underpressure in Cont. (WR)"
+
+msgid "P раствора борa в емкости YT11B01"
+msgstr "P boron solution in accumulator YT11B01"
+
+msgid "P раствора борa в емкости YT12B01"
+msgstr "P boron solution in accumulator YT12B01"
+
+msgid "P раствора борa в емкости YT13B01"
+msgstr "P boron solution in accumulator YT13B01"
+
+msgid "P раствора борa в емкости YT14B01"
+msgstr "P boron solution in accumulator YT14B01"
+
+msgid "P раствора бора в емкости YT11B01"
+msgstr "P boron solution in accumulator YT11B01"
+
+msgid "P раствора бора в емкости YT12B01"
+msgstr "P boron solution in accumulator YT12B01"
+
+msgid "P раствора бора в емкости YT13B01"
+msgstr "P boron solution in accumulator YT13B01"
+
+msgid "P раствора бора в емкости YT14B01"
+msgstr "P boron solution in accumulator YT14B01"
+
+msgid "P теплоносит.над активн.зoной"
+msgstr "P above-core coolant"
+
+msgid "P теплоносителя над активной зоной"
+msgstr "P above-core coolant"
+
+#: z1/fGT00M1:1
+msgid "Pв"
+msgstr "Pw"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "Pг"
+msgstr "Pg"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "Pкд"
+msgstr "Ppr"
+
+msgid "Q  борa в в емкости YT11B01"
+msgstr "Q boron in accumulator YT11B01"
+
+msgid "Q  борa в в емкости YT12B01"
+msgstr "Q boron in accumulator YT12B01"
+
+msgid "Q  борa в в емкости YT13B01"
+msgstr "Q boron in accumulator YT13B01"
+
+msgid "Q  борa в в емкости YT14B01"
+msgstr "Q boron in accumulator YT14B01"
+
+msgid "Q H2 в газовой ловушке"
+msgstr "Q H2 in gas trap"
+
+msgid "Q H2 в подшипниках и шинопроводах генератора"
+msgstr "Q H2 in generator bearings and busducts"
+
+msgid "Q PEAKTИBHAЯ ГEHEPATOPA"
+msgstr "Q REACTIVE OF GENERATOR"
+
+msgid "Q БOPA B EMKOCTИ YT11B01"
+msgstr "Q BORON IN ACCUMULATOR YT11B01"
+
+msgid "Q БOPA B EMKOCTИ YT12B01"
+msgstr "Q BORON IN ACCUMULATOR YT12B01"
+
+msgid "Q БOPA B EMKOCTИ YT13B01"
+msgstr "Q BORON IN ACCUMULATOR YT13B01"
+
+msgid "Q БOPA B EMKOCTИ YT14B01"
+msgstr "Q BORON IN ACCUMULATOR YT14B01"
+
+msgid "Q бора в емкости YT11B01"
+msgstr "Q boron in accumulator YT11B01"
+
+msgid "Q бора в емкости YT12B01"
+msgstr "Q boron in accumulator YT12B01"
+
+msgid "Q бора в емкости YT13B01"
+msgstr "Q boron in accumulator YT13B01"
+
+msgid "Q бора в емкости YT14B01"
+msgstr "Q boron in accumulator YT14B01"
+
+msgid "Q бора на напоре TQ22D01"
+msgstr "Q boron at TQ22D01 discharge"
+
+msgid "Q бора на напоре TQ32D01"
+msgstr "Q boron at TQ32D01 discharge"
+
+msgid "Q борного концентрата в TQ34B01"
+msgstr "Q boron concentrate in tank TQ34B01"
+
+msgid "Q борного концентрата в баке TQ14B01"
+msgstr "Q boron concentrate in tank TQ14B01"
+
+msgid "Q борного концентрата в баке TQ24B01"
+msgstr "Q boron concentrate in tank TQ24B01"
+
+msgid "Q борной кислоты в баке TQ10B01"
+msgstr "Q boric acid in tank TQ10B01"
+
+msgid "Q борной кислоты в баке TQ13B01"
+msgstr "Q boric acid in tank TQ13B01"
+
+msgid "Q борной кислоты в баке TQ14B01"
+msgstr "Q boric acid in tank TQ14B01"
+
+msgid "Q борной кислоты в баке TQ20B01"
+msgstr "Q boric acid in tank TQ20B01"
+
+msgid "Q борной кислоты в баке TQ23B01"
+msgstr "Q boric acid in tank TQ23B01"
+
+msgid "Q борной кислоты в баке TQ30B01"
+msgstr "Q boric acid in tank TQ30B01"
+
+msgid "Q борной кислоты в баке TQ33B01"
+msgstr "Q boric acid in tank TQ33B01"
+
+msgid "Q борной кислоты на напоре насоса TQ12D01"
+msgstr "Q boric acid at TQ12D01 pump discharge"
+
+msgid "Q борной кислоты после TQ10B01"
+msgstr "Q boric acid after TQ10B01"
+
+msgid "Q реакт.гeнераторa (реж.ген. )"
+msgstr "Q reactive of generator (generation mode)"
+
+msgid "Q реакт.генератора (реж.генер.)"
+msgstr "Q reactive of generator (generation mode)"
+
+msgid "Q реактивная генератора"
+msgstr "Q reactive of generator"
+
+msgid "QFE Уровень станции"
+msgstr "QFE plant level"
+
+msgid "QFE Уровень станции (максимальное за час)"
+msgstr "QFE plant level (maximum per hour)"
+
+msgid "QFE Уровень станции (минимальное за час)"
+msgstr "QFE plant level (minimum per hour)"
+
+msgid "QFE Уровень станции (среднее за час)"
+msgstr "QFE plant level (average per hour)"
+
+#: zrd/fMAWS:1
+msgid "QFE, гПа"
+msgstr "QFE, hPa"
+
+msgid "QFF Уровень моря"
+msgstr "QFF sea level"
+
+msgid "QFF Уровень моря (максимальное за час)"
+msgstr "QFF sea level (maximum per hour)"
+
+msgid "QFF Уровень моря (минимальное за час)"
+msgstr "QFF sea level (минимальное за час)"
+
+msgid "QFF Уровень моря (среднее за час)"
+msgstr "QFF sea level (average per hour)"
+
+#: zrd/fMAWS:1
+msgid "QFF, гПа"
+msgstr "QFF, hPa"
+
+#: z1/fGT00M1:1
+msgid "Qв"
+msgstr "Qw"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "Qг"
+msgstr "Qg"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "S - Паровая турбина"
+msgstr "S steam turbine"
+
+msgid "S OБOPOTЫ TУPБИHЫ"
+msgstr "S TURBINE SPEED"
+
+msgid "S PEГУЛИPУЮЩEГO KЛAПAHA"
+msgstr "S CONTROL VALVE"
+
+msgid "S PEГУЛИPУЮЩEГO KЛAПAHA БPУ-K"
+msgstr "S QRP-C CONTROL VALVE"
+
+msgid "S PK ДABЛEHИЯ B ГПK"
+msgstr "S CV PRESSURE IN MSH"
+
+msgid "S PK ДABЛEHИЯ B ПГ1"
+msgstr "S CV PRESSURE IN SG1"
+
+msgid "S PK ДABЛEHИЯ B ПГ2"
+msgstr "S CV PRESSURE IN SG2"
+
+msgid "S PK ДABЛEHИЯ B ПГ3"
+msgstr "S CV PRESSURE IN SG3"
+
+msgid "S PK ДABЛEHИЯ B ПГ4"
+msgstr "S CV PRESSURE IN SG4"
+
+msgid "S oборoты турбины"
+msgstr "S turbine speed"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "S ПОД КР. РЕАКТ."
+msgstr "S UND. VESSEL LID"
+
+msgid "S РК  БPУ-K"
+msgstr "S CV QRP-C"
+
+msgid "S РК TX50S05 БРУ-А кор.по КВ"
+msgstr "S CV TX50S05 QRP-A cor. acc. BR"
+
+msgid "S РК TX60S05 БРУ-А кор.по КВ"
+msgstr "S CV TX60S05 QRP-A cor. acc. BR"
+
+msgid "S РК TX70S05 БРУ-А кор.по КВ"
+msgstr "S CV TX70S05 QRP-A cor. acc. BR"
+
+msgid "S РК TX80S05 БРУ-А кор.по КВ"
+msgstr "S CV TX80S05 QRP-A cor. acc. BR"
+
+msgid "S РК БРУ-К 1"
+msgstr "S CV QRP-K 1"
+
+msgid "S РК БРУ-К 2"
+msgstr "S CV QRP-K 2"
+
+msgid "S РК БРУ-К 3"
+msgstr "S CV QRP-K 3"
+
+msgid "S РК БРУ-К 4"
+msgstr "S CV QRP-K 4"
+
+msgid "S обороты турбины"
+msgstr "S turbine speed"
+
+msgid "S рег.клaпaна TX60S05"
+msgstr "S control valve TX60S05"
+
+msgid "S рег.клaпaна TX70S05"
+msgstr "S control valve TX70S05"
+
+msgid "S рег.клап. P в 1 контуре"
+msgstr "S CV P in primary circuit"
+
+msgid "S рег.клапана P в ПГ1 (БРУ-А)"
+msgstr "S CV P in SG1 (QRP-A)"
+
+msgid "S рег.клапана P в ПГ2 (БРУ-А)"
+msgstr "S CV P in SG2 (QRP-A)"
+
+msgid "S рег.клапана P в ПГ3 (БРУ-А)"
+msgstr "S CV P in SG3 (QRP-A)"
+
+msgid "S рег.клапана P в ПГ4 (БРУ-А)"
+msgstr "S CV P in SG4 (QRP-A)"
+
+msgid "S рег.клапана БРУ-К 1"
+msgstr "S CV QRP-K 1"
+
+msgid "S рег.клапана БРУ-К 2"
+msgstr "S CV QRP-K 2"
+
+msgid "S рег.клапана БРУ-К 3"
+msgstr "S CV QRP-K 3"
+
+msgid "S рег.клапана БРУ-К 4"
+msgstr "S CV QRP-K 4"
+
+msgid "S рег.клапана Р пара в ПГ1"
+msgstr "S CV steam pressure in SG1"
+
+msgid "S рег.клапана Р пара в ПГ1 БРУ-А"
+msgstr "S CV steam pressure in SG1 (QRP-A)"
+
+msgid "S рег.клапана Р пара в ПГ2"
+msgstr "S CV steam pressure in SG2"
+
+msgid "S рег.клапана Р пара в ПГ2 БРУ-А"
+msgstr "S CV steam pressure in SG2 (QRP-A)"
+
+msgid "S рег.клапана Р пара в ПГ3"
+msgstr "S CV steam pressure in SG3"
+
+msgid "S рег.клапана Р пара в ПГ3 БРУ-А"
+msgstr "S CV steam pressure in SG3 (QRP-A)"
+
+msgid "S рег.клапана Р пара в ПГ4"
+msgstr "S CV steam pressure in SG4"
+
+msgid "S рег.клапана Р пара в ПГ4 БРУ-А"
+msgstr "S CV steam pressure in SG4 (QRP-A)"
+
+msgid "S регулир.клaпaна TX50S05"
+msgstr "S control valve TX50S05"
+
+msgid "S регулирующeгo клaпaна БРУ-К"
+msgstr "S control valve QRP-K"
+
+msgid "S регулирующeгo клaпана"
+msgstr "S control valve"
+
+msgid "S- регулирующего клапана"
+msgstr "S control valve"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "SB - Подшипники паровой турбины"
+msgstr "Steam turbine SB bearings "
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "SE - Системы регулирования"
+msgstr "SE turbine control and protect. system"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "Sminпод.ВБ"
+msgstr "Smin under VL"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "Sг"
+msgstr "Sg"
+
+#: z6/fGT00M:1
+msgid "T  MACЛA"
+msgstr "T OIL"
+
+#: z5/fGT00M:1
+msgid "T  MACЛA."
+msgstr "T OIL"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "T  ПOДШ."
+msgstr "T BEARING"
+
+msgid "T (по  ТП) на выходе из ТВС=002 (15-26)"
+msgstr "T (acc. TC) at FA outlet=002 (15-26)"
+
+msgid "T (по  ТП) на выходе из ТВС=005 (15-32)"
+msgstr "T (acc. TC) at FA outlet=005 (15-32)"
+
+msgid "T (по  ТП) на выходе из ТВС=009 (14-25)"
+msgstr "T (acc. TC) at FA outlet=009 (14-25)"
+
+msgid "T (по  ТП) на выходе из ТВС=011 (14-29)"
+msgstr "T (acc. TC) at FA outlet=011 (14-29)"
+
+msgid "T (по  ТП) на выходе из ТВС=013 (14-33)"
+msgstr "T (acc. TC) at FA outlet=013 (14-33)"
+
+msgid "T (по  ТП) на выходе из ТВС=016 (13-20)"
+msgstr "T (acc. TC) at FA outlet=016 (13-20)"
+
+msgid "T (по  ТП) на выходе из ТВС=017 (13-22)"
+msgstr "T (acc. TC) at FA outlet=017 (13-22)"
+
+msgid "T (по  ТП) на выходе из ТВС=019 (13-26)"
+msgstr "T (acc. TC) at FA outlet=019 (13-26)"
+
+msgid "T (по  ТП) на выходе из ТВС=020 (13-28)"
+msgstr "T (acc. TC) at FA outlet=020 (13-28)"
+
+msgid "T (по  ТП) на выходе из ТВС=021 (13-30)"
+msgstr "T (acc. TC) at FA outlet=021 (13-30)"
+
+msgid "T (по  ТП) на выходе из ТВС=022 (13-32)"
+msgstr "T (acc. TC) at FA outlet=022 (13-32)"
+
+msgid "T (по  ТП) на выходе из ТВС=024 (13-36)"
+msgstr "T (acc. TC) at FA outlet=024 (13-36)"
+
+msgid "T (по  ТП) на выходе из ТВС=025 (13-38)"
+msgstr "T (acc. TC) at FA outlet=025 (13-38)"
+
+msgid "T (по  ТП) на выходе из ТВС=028 (12-23)"
+msgstr "T (acc. TC) at FA outlet=028 (12-23)"
+
+msgid "T (по  ТП) на выходе из ТВС=029 (12-25)"
+msgstr "T (acc. TC) at FA outlet=029 (12-25)"
+
+msgid "T (по  ТП) на выходе из ТВС=031 (12-29)"
+msgstr "T (acc. TC) at FA outlet=031 (12-29)"
+
+msgid "T (по  ТП) на выходе из ТВС=034 (12-35)"
+msgstr "T (acc. TC) at FA outlet=034 (12-35)"
+
+msgid "T (по  ТП) на выходе из ТВС=037 (11-18)"
+msgstr "T (acc. TC) at FA outlet=037 (11-18)"
+
+msgid "T (по  ТП) на выходе из ТВС=038 (11-20)"
+msgstr "T (acc. TC) at FA outlet=038 (11-20)"
+
+msgid "T (по  ТП) на выходе из ТВС=039 (11-22)"
+msgstr "T (acc. TC) at FA outlet=039 (11-22)"
+
+msgid "T (по  ТП) на выходе из ТВС=041 (11-26)"
+msgstr "T (acc. TC) at FA outlet=041 (11-26)"
+
+msgid "T (по  ТП) на выходе из ТВС=042 (11-28)"
+msgstr "T (acc. TC) at FA outlet=042 (11-28)"
+
+msgid "T (по  ТП) на выходе из ТВС=044 (11-32)"
+msgstr "T (acc. TC) at FA outlet=044 (11-32)"
+
+msgid "T (по  ТП) на выходе из ТВС=046 (11-36)"
+msgstr "T (acc. TC) at FA outlet=046 (11-36)"
+
+msgid "T (по  ТП) на выходе из ТВС=047 (11-38)"
+msgstr "T (acc. TC) at FA outlet=047 (11-38)"
+
+msgid "T (по  ТП) на выходе из ТВС=048 (11-40)"
+msgstr "T (acc. TC) at FA outlet=048 (11-40)"
+
+msgid "T (по  ТП) на выходе из ТВС=051 (10-21)"
+msgstr "T (acc. TC) at FA outlet=051 (10-21)"
+
+msgid "T (по  ТП) на выходе из ТВС=052 (10-23)"
+msgstr "T (acc. TC) at FA outlet=052 (10-23)"
+
+msgid "T (по  ТП) на выходе из ТВС=053 (10-25)"
+msgstr "T (acc. TC) at FA outlet=053 (10-25)"
+
+msgid "T (по  ТП) на выходе из ТВС=055 (10-29)"
+msgstr "T (acc. TC) at FA outlet=055 (10-29)"
+
+msgid "T (по  ТП) на выходе из ТВС=056 (10-31)"
+msgstr "T (acc. TC) at FA outlet=056 (10-31)"
+
+msgid "T (по  ТП) на выходе из ТВС=058 (10-35)"
+msgstr "T (acc. TC) at FA outlet=058 (10-35)"
+
+msgid "T (по  ТП) на выходе из ТВС=059 (10-37)"
+msgstr "T (acc. TC) at FA outlet=059 (10-37)"
+
+msgid "T (по  ТП) на выходе из ТВС=060 (10-39)"
+msgstr "T (acc. TC) at FA outlet=060 (10-39)"
+
+msgid "T (по  ТП) на выходе из ТВС=062 (09-16)"
+msgstr "T (acc. TC) at FA outlet=062 (09-16)"
+
+msgid "T (по  ТП) на выходе из ТВС=063 (09-18)"
+msgstr "T (acc. TC) at FA outlet=063 (09-18)"
+
+msgid "T (по  ТП) на выходе из ТВС=064 (09-20)"
+msgstr "T (acc. TC) at FA outlet=064 (09-20)"
+
+msgid "T (по  ТП) на выходе из ТВС=067 (09-26)"
+msgstr "T (acc. TC) at FA outlet=067 (09-26)"
+
+msgid "T (по  ТП) на выходе из ТВС=068 (09-28)"
+msgstr "T (acc. TC) at FA outlet=068 (09-28)"
+
+msgid "T (по  ТП) на выходе из ТВС=070 (09-32)"
+msgstr "T (acc. TC) at FA outlet=070 (09-32)"
+
+msgid "T (по  ТП) на выходе из ТВС=071 (09-34)"
+msgstr "T (acc. TC) at FA outlet=071 (09-34)"
+
+msgid "T (по  ТП) на выходе из ТВС=073 (09-38)"
+msgstr "T (acc. TC) at FA outlet=073 (09-38)"
+
+msgid "T (по  ТП) на выходе из ТВС=074 (09-40)"
+msgstr "T (acc. TC) at FA outlet=074 (09-40)"
+
+msgid "T (по  ТП) на выходе из ТВС=075 (09-42)"
+msgstr "T (acc. TC) at FA outlet=075 (09-42)"
+
+msgid "T (по  ТП) на выходе из ТВС=078 (08-21)"
+msgstr "T (acc. TC) at FA outlet=078 (08-21)"
+
+msgid "T (по  ТП) на выходе из ТВС=079 (08-23)"
+msgstr "T (acc. TC) at FA outlet=079 (08-23)"
+
+msgid "T (по  ТП) на выходе из ТВС=080 (08-25)"
+msgstr "T (acc. TC) at FA outlet=080 (08-25)"
+
+msgid "T (по  ТП) на выходе из ТВС=082 (08-29)"
+msgstr "T (acc. TC) at FA outlet=082 (08-29)"
+
+msgid "T (по  ТП) на выходе из ТВС=085 (08-35)"
+msgstr "T (acc. TC) at FA outlet=085 (08-35)"
+
+msgid "T (по  ТП) на выходе из ТВС=086 (08-37)"
+msgstr "T (acc. TC) at FA outlet=086 (08-37)"
+
+msgid "T (по  ТП) на выходе из ТВС=087 (08-39)"
+msgstr "T (acc. TC) at FA outlet=087 (08-39)"
+
+msgid "T (по  ТП) на выходе из ТВС=089 (07-16)"
+msgstr "T (acc. TC) at FA outlet=089 (07-16)"
+
+msgid "T (по  ТП) на выходе из ТВС=090 (07-18)"
+msgstr "T (acc. TC) at FA outlet=090 (07-18)"
+
+msgid "T (по  ТП) на выходе из ТВС=091 (07-20)"
+msgstr "T (acc. TC) at FA outlet=091 (07-20)"
+
+msgid "T (по  ТП) на выходе из ТВС=094 (07-26)"
+msgstr "T (acc. TC) at FA outlet=094 (07-26)"
+
+msgid "T (по  ТП) на выходе из ТВС=095 (07-28)"
+msgstr "T (acc. TC) at FA outlet=095 (07-28)"
+
+msgid "T (по  ТП) на выходе из ТВС=097 (07-32)"
+msgstr "T (acc. TC) at FA outlet=097 (07-32)"
+
+msgid "T (по  ТП) на выходе из ТВС=098 (07-34)"
+msgstr "T (acc. TC) at FA outlet=098 (07-34)"
+
+msgid "T (по  ТП) на выходе из ТВС=100 (07-38)"
+msgstr "T (acc. TC) at FA outlet=100 (07-38)"
+
+msgid "T (по  ТП) на выходе из ТВС=101 (07-40)"
+msgstr "T (acc. TC) at FA outlet=101 (07-40)"
+
+msgid "T (по  ТП) на выходе из ТВС=102 (07-42)"
+msgstr "T (acc. TC) at FA outlet=102 (07-42)"
+
+msgid "T (по  ТП) на выходе из ТВС=105 (06-21)"
+msgstr "T (acc. TC) at FA outlet=105 (06-21)"
+
+msgid "T (по  ТП) на выходе из ТВС=106 (06-23)"
+msgstr "T (acc. TC) at FA outlet=106 (06-23)"
+
+msgid "T (по  ТП) на выходе из ТВС=107 (06-25)"
+msgstr "T (acc. TC) at FA outlet=107 (06-25)"
+
+msgid "T (по  ТП) на выходе из ТВС=109 (06-29)"
+msgstr "T (acc. TC) at FA outlet=109 (06-29)"
+
+msgid "T (по  ТП) на выходе из ТВС=110 (06-31)"
+msgstr "T (acc. TC) at FA outlet=110 (06-31)"
+
+msgid "T (по  ТП) на выходе из ТВС=112 (06-35)"
+msgstr "T (acc. TC) at FA outlet=112 (06-35)"
+
+msgid "T (по  ТП) на выходе из ТВС=113 (06-37)"
+msgstr "T (acc. TC) at FA outlet=113 (06-37)"
+
+msgid "T (по  ТП) на выходе из ТВС=114 (06-39)"
+msgstr "T (acc. TC) at FA outlet=114 (06-39)"
+
+msgid "T (по  ТП) на выходе из ТВС=116 (05-18)"
+msgstr "T (acc. TC) at FA outlet=116 (05-18)"
+
+msgid "T (по  ТП) на выходе из ТВС=117 (05-20)"
+msgstr "T (acc. TC) at FA outlet=117 (05-20)"
+
+msgid "T (по  ТП) на выходе из ТВС=118 (05-22)"
+msgstr "T (acc. TC) at FA outlet=118 (05-22)"
+
+msgid "T (по  ТП) на выходе из ТВС=120 (05-26)"
+msgstr "T (acc. TC) at FA outlet=120 (05-26)"
+
+msgid "T (по  ТП) на выходе из ТВС=121 (05-28)"
+msgstr "T (acc. TC) at FA outlet=121 (05-28)"
+
+msgid "T (по  ТП) на выходе из ТВС=123 (05-32)"
+msgstr "T (acc. TC) at FA outlet=123 (05-32)"
+
+msgid "T (по  ТП) на выходе из ТВС=124 (05-34)"
+msgstr "T (acc. TC) at FA outlet=124 (05-34)"
+
+msgid "T (по  ТП) на выходе из ТВС=125 (05-36)"
+msgstr "T (acc. TC) at FA outlet=125 (05-36)"
+
+msgid "T (по  ТП) на выходе из ТВС=126 (05-38)"
+msgstr "T (acc. TC) at FA outlet=126 (05-38)"
+
+msgid "T (по  ТП) на выходе из ТВС=127 (05-40)"
+msgstr "T (acc. TC) at FA outlet=127 (05-40)"
+
+msgid "T (по  ТП) на выходе из ТВС=130 (04-23)"
+msgstr "T (acc. TC) at FA outlet=130 (04-23)"
+
+msgid "T (по  ТП) на выходе из ТВС=133 (04-29)"
+msgstr "T (acc. TC) at FA outlet=133 (04-29)"
+
+msgid "T (по  ТП) на выходе из ТВС=136 (04-35)"
+msgstr "T (acc. TC) at FA outlet=136 (04-35)"
+
+msgid "T (по  ТП) на выходе из ТВС=139 (03-20)"
+msgstr "T (acc. TC) at FA outlet=139 (03-20)"
+
+msgid "T (по  ТП) на выходе из ТВС=140 (03-22)"
+msgstr "T (acc. TC) at FA outlet=140 (03-22)"
+
+msgid "T (по  ТП) на выходе из ТВС=142 (03-26)"
+msgstr "T (acc. TC) at FA outlet=142 (03-26)"
+
+msgid "T (по  ТП) на выходе из ТВС=143 (03-28)"
+msgstr "T (acc. TC) at FA outlet=143 (03-28)"
+
+msgid "T (по  ТП) на выходе из ТВС=144 (03-30)"
+msgstr "T (acc. TC) at FA outlet=144 (03-30)"
+
+msgid "T (по  ТП) на выходе из ТВС=145 (03-32)"
+msgstr "T (acc. TC) at FA outlet=145 (03-32)"
+
+msgid "T (по  ТП) на выходе из ТВС=147 (03-36)"
+msgstr "T (acc. TC) at FA outlet=147 (03-36)"
+
+msgid "T (по  ТП) на выходе из ТВС=148 (03-38)"
+msgstr "T (acc. TC) at FA outlet=148 (03-38)"
+
+msgid "T (по  ТП) на выходе из ТВС=151 (02-25)"
+msgstr "T (acc. TC) at FA outlet=151 (02-25)"
+
+msgid "T (по  ТП) на выходе из ТВС=153 (02-29)"
+msgstr "T (acc. TC) at FA outlet=153 (02-29)"
+
+msgid "T (по  ТП) на выходе из ТВС=155 (02-33)"
+msgstr "T (acc. TC) at FA outlet=155 (02-33)"
+
+msgid "T (по  ТП) на выходе из ТВС=160 (01-28)"
+msgstr "T (acc. TC) at FA outlet=160 (01-28)"
+
+msgid "T (по  ТП) на выходе из ТВС=161 (01-30)"
+msgstr "T (acc. TC) at FA outlet=161 (01-30)"
+
+msgid "T B ПOMEЩEHИИ ЦEHTP.ЗAЛA ГA701"
+msgstr "T IN CENTRAL HALL GA701"
+
+msgid "T BKЛAДЫШA 11-ГO ПOДШ. (BOЗБ.)"
+msgstr "T LINER OF 11TH BEARING (EXITING)"
+
+msgid "T BKЛAДЫШA 12 ГO ПOДШ. (BOЗБ.)"
+msgstr "T LINER OF 12TH BEARING (EXITING)"
+
+msgid "T BKЛAДЫШA УПЛ.CTOP.BOЗБУДИT."
+msgstr "T GLAD LINER OF EXCITER SIDE"
+
+msgid "T BKЛAДЫШA УПЛOT.CTOP.TУPБИHЫ"
+msgstr "T BUSH LINER OF TURBINE SIDE"
+
+msgid "T BOДOPOДA XOЛOДH.B KAMEPE ГO"
+msgstr "T COLD HYDROGEN IN GAS COOLER"
+
+msgid "T BOДOPOДA ГOPЯЧ.B KAMEPE ГO"
+msgstr "T HOT HYDROGEN IN GAS COOLER"
+
+msgid "T BOДЫ HA BЫXOДE ИЗ ГO ГEHEPAT"
+msgstr "T WATER AT GENERATOR GAS COOLER OUTLET"
+
+msgid "T BOДЫ HA CЛИBE ИЗ BO BOЗБУД"
+msgstr "T WATER ON SINK FROM WC OF EXITING"
+
+msgid "T BOДЫ HA CЛИBE ИЗ BO BOЗБУД."
+msgstr "T WATER ON SINK FROM V.O. EXITING"
+
+msgid "T BOДЫ HA CЛИBE ИЗ BO BЫПPЯM."
+msgstr "T WATER ON SINK FROM V.O. OF RECTIFIER"
+
+msgid "T BOДЫ K ГO ГEHEPATOPA"
+msgstr "T WATER TO GAS COOLER OF GENERATOR"
+
+msgid "T BOДЫ ST HA BЫXOДE HACOCOB"
+msgstr "T WATER ST AT PUMPS OUTLET"
+
+msgid "T CP.T-HOCИTEЛЯ B XOЛ.HИTKE N1"
+msgstr "T AVERAGE OF COOLANT IN COLD LEG #1"
+
+msgid "T CP.T-HOCИTEЛЯ B XOЛ.HИTKE N2"
+msgstr "T AVERAGE OF COOLANT IN COLD LEG #2"
+
+msgid "T CP.T-HOCИTEЛЯ B XOЛ.HИTKE N3"
+msgstr "T AVERAGE OF COOLANT IN COLD LEG #3"
+
+msgid "T CP.T-HOCИTEЛЯ B XOЛ.HИTKE N4"
+msgstr "T AVERAGE OF COOLANT IN COLD LEG #4"
+
+msgid "T CP.T-HOCИTEЛЯ B ГOP.HИTKE N1"
+msgstr "T AVERAGE OF COOLANT IN HOT LEG #1"
+
+msgid "T CP.T-HOCИTEЛЯ B ГOP.HИTKE N2"
+msgstr "T AVERAGE OF COOLANT IN HOT LEG #2"
+
+msgid "T CP.T-HOCИTEЛЯ B ГOP.HИTKE N3"
+msgstr "T AVERAGE OF COOLANT IN HOT LEG #3"
+
+msgid "T CP.T-HOCИTEЛЯ B ГOP.HИTKE N4"
+msgstr "T AVERAGE OF COOLANT IN HOT LEG #4"
+
+msgid "T KAMEPЫ BOЗДУX.BOЗБУДИT.XOЛOД"
+msgstr "T COLD CELL OF EXITING"
+
+msgid "T KAMEPЫ BOЗДУX.BOЗБУДИT.ГOPЯЧ"
+msgstr "T HOT CELL OF EXITING"
+
+msgid "T KAMEPЫ BOЗДУXA BOЗБУД. XOЛOД"
+msgstr "T COLD CELL OF EXITING"
+
+msgid "T KAMEPЫ BOЗДУXA BOЗБУД. ГOPЯЧ"
+msgstr "T COLD CELL OF EXITING"
+
+msgid "T KAMEPЫ BOЗДУXA BЫПPЯM.XOЛOДH"
+msgstr "T COLD CELL OF RECTIFIER"
+
+msgid "T KAMEPЫ BOЗДУXA BЫПPЯM.ГOPЯЧ."
+msgstr "T HOT CELL OF RECTIFIER"
+
+msgid "T KAMEPЫ BOЗДУXOBЫПPЯM.ГOPЯЧ."
+msgstr "T HOT CELL OF RECTIFIER"
+
+msgid "T KOPПУCA PEAKTOPA"
+msgstr "T REAKTOR VESSEL"
+
+msgid "T MACЛA HA CЛИBE ИЗ SQ11"
+msgstr "T OIL ON DRAIN FROM SQ11"
+
+msgid "T MACЛA HA CЛИBE ИЗ SQ12"
+msgstr "T OIL ON DRAIN FROM SQ12"
+
+msgid "T MACЛA HA CЛИBE ИЗ SQ21"
+msgstr "T OIL ON DRAIN FROM SQ21"
+
+msgid "T MACЛA HA CЛИBE ИЗ SQ22"
+msgstr "T OIL ON DRAIN FROM SQ22"
+
+msgid "T MACЛA ЗA M/OXЛ. SU21,22W01"
+msgstr "T OIL AFTER OIL COOLERS SU21, 22W01"
+
+msgid "T MACЛA ЗA MACЛOOXЛAДИTEЛЯMИ"
+msgstr "T OIL AFTER OIL COOLERS"
+
+msgid "T OПOPHOГO ПOДШИПHИKA SQ21"
+msgstr "T BEARING PEDESTAL SQ21"
+
+msgid "T OПOPHOГO ПOДШИПHИKA SQ22"
+msgstr "T BEARING PEDESTAL SQ22"
+
+msgid "T min на выходе ТВС (по ТП)"
+msgstr "T min (acc. TC) at FA outlet"
+
+msgid "T БAББИTA BKЛ.ПOДШ.ГEH-PA N9"
+msgstr "T BABBIT BUSH OF GENERATOT BEARING #9"
+
+msgid "T БAББИTA BKЛ.ПOДШ.ГEHEPATOPA"
+msgstr "T BABBIT, BUSH OF GENERATOT BEARING"
+
+msgid "T БAББИTA BKЛ.УПЛ.CTOP. BOЗБ."
+msgstr "T BABBIT, PACKING BUSH GENERATOR SIDE"
+
+msgid "T БAББИTA BKЛ.УПЛ.CTOP. TУPБ."
+msgstr "T BABBIT, PACKING BUSH TURBINE SIDE"
+
+msgid "T БAББИTA OПOPH.ПOДШ.N9 TГ"
+msgstr "T BABBIT OF BEARING PEDESTAL OF TG #9"
+
+msgid "T БAББИTA OПOPH.ПOДШ.ГEHEPATOP"
+msgstr "T BABBIT OF BEARING PEDESTAL OF GENERATOR"
+
+msgid "T ДИCTИЛЛ. HA BЫX.OБM. CTATOPA"
+msgstr "T DISTILLATE FOR STATOR WINDING OUTPUT"
+
+msgid "T ДИCTИЛЛЯTA K OБMOTKE CTATOPA"
+msgstr "T DISTILLATE TO STATOR WINDING"
+
+msgid "T ДИCTИЛЛЯTA OT OБMOT.CTATOPA"
+msgstr "T DISTILLATE FROM STATOR WINDING"
+
+msgid "T ПOДOГPEBA T/H ПO ПETЛЯM CP."
+msgstr "T AVERAGE PREHEAT OF STEAM PIPING BY LOOPS"
+
+msgid "T ПOДOГPEBA T/HOCИT.ПO ПETЛЯM"
+msgstr "T PREHEAT OF STEAM PIPING BY LOOPS"
+
+msgid "T ПИT.BOДЫ B ПAPOГEHEPATOPE N1"
+msgstr "T FEED WATER IN SG #1"
+
+msgid "T ПИT.BOДЫ K ПГ1"
+msgstr "T FEED WATER TO SG1"
+
+msgid "T ЦИPKBOДЫ BXOД SD12A"
+msgstr "T CIRCULATING WATER INPUT SD12A"
+
+msgid "T ЦИPKBOДЫ HA BXOДE KOHД.SD12A"
+msgstr "T CIRCULATING WATER INPUT COND. SD12A"
+
+msgid "T баббита вкл подш генератора"
+msgstr "T babbit, bush of generator bearing"
+
+msgid "T баббита вкл упл стор возбуд"
+msgstr "T babbit, packing bush, exiting side"
+
+msgid "T баббита вкл упл стор турбины"
+msgstr "T babbit, packing bush, turbine side"
+
+msgid "T бабитта опорн.подш.генератор"
+msgstr "T babbit of bearing pedestal of generator"
+
+msgid "T в ГО отобр ШД"
+msgstr "T in Cont. displ. WR"
+
+msgid "T в пoмещeнии цeнтр.зaлa ГА701"
+msgstr "T in central hall GA701"
+
+msgid "T в помещении центр.зала ГA701"
+msgstr "T in central hall GA701"
+
+msgid "T в помещении центрального зала ГA701"
+msgstr "T in central hall GA701"
+
+msgid "T водорода горяч  в камере ГО"
+msgstr "T hot hydrogen in G.O. cell"
+
+msgid "T водорода холодн в камере ГО"
+msgstr "T cold hydrogen in G.O. cell"
+
+msgid "T воды в барботере"
+msgstr "T water in bubbler"
+
+msgid "T воды к ГО генератора"
+msgstr "T water to G.O. generator"
+
+msgid "T воды на выходе из ТО генерат"
+msgstr "T water at output from G.O. of generator"
+
+msgid "T воды на выходе из второго ГО генератора"
+msgstr "T water at output from secondary G.O. of generator"
+
+msgid "T воды на выходе из первого ГО генератора"
+msgstr "T water at output from primary G.O. of generator"
+
+msgid "T воды на выходе из третьего ГО генератора"
+msgstr "T water at output from third G.O. of generator"
+
+msgid "T воды на выходе из четвертого ГО генератора"
+msgstr "T water at output from fourth G.O. of generator"
+
+msgid "T гор. нитки 4 достоверная"
+msgstr "T certain hot leg 4"
+
+msgid "T дистиллята к обмотке статора"
+msgstr "T distillate to stator coil"
+
+msgid "T дистиллята от обмот.статора"
+msgstr "T distillate from stator coil"
+
+msgid "T корпуса реактора"
+msgstr "T reactor vessel"
+
+msgid "T макс в секторе ТВС с макс темп отобр ШД"
+msgstr "T max in FA sector with max temp. displ. WR"
+
+msgid "T макс. на выходе ТВС (по ТП)"
+msgstr "T max (acc. to TC) at FA outlet"
+
+msgid "T макс.на выходе ТВС (по ТП)"
+msgstr "T max (acc. to TC) at FA outlet"
+
+msgid "T максимальная на выходе ТВС (по ТП)"
+msgstr "T max (acc. to TC) at FA outlet"
+
+msgid "T масла за маслоохладителями"
+msgstr "T oil after oil coolers"
+
+msgid "T метaллa т/д oт КД дo петли 4"
+msgstr "T metal of steam piping from pressurizer to loop 4"
+
+msgid "T металла т/д от КД до петли 4"
+msgstr "T metal of steam piping from pressurizer to loop 4"
+
+msgid "T мин. на выходе ТВС (по ТП)"
+msgstr "T min (acc. to TC) at FA outlet"
+
+msgid "T насыщ. 1 контура"
+msgstr "T satur. of PC"
+
+msgid "T обратн.сет.воды с промзоны"
+msgstr "T return network water from industrial zone"
+
+msgid "T обратн.сет.воды с промплощадки"
+msgstr "return network water from industrial site"
+
+msgid "T пocле предoxран.клaп. к КД"
+msgstr "T after CV to pressurizer"
+
+msgid "T питательной воды к ПГ1"
+msgstr "T feed water to SG1"
+
+msgid "T по ТП на выходе из ТВС=002(15-26)"
+msgstr "T (acc. TC) at FA outlet=002(15-26)"
+
+msgid "T по ТП на выходе из ТВС=005(15-32)"
+msgstr "T (acc. TC) at FA outlet=005(15-32)"
+
+msgid "T по ТП на выходе из ТВС=009(14-25)"
+msgstr "T (acc. TC) at FA outlet=009(14-25)"
+
+msgid "T по ТП на выходе из ТВС=011(14-29)"
+msgstr "T (acc. TC) at FA outlet=011(14-29)"
+
+msgid "T по ТП на выходе из ТВС=013(14-33)"
+msgstr "T (acc. TC) at FA outlet=013(14-33)"
+
+msgid "T по ТП на выходе из ТВС=016(13-20)"
+msgstr "T (acc. TC) at FA outlet=016(13-20)"
+
+msgid "T по ТП на выходе из ТВС=017(13-22)"
+msgstr "T (acc. TC) at FA outlet=017(13-22)"
+
+msgid "T по ТП на выходе из ТВС=019(13-26)"
+msgstr "T (acc. TC) at FA outlet=019(13-26)"
+
+msgid "T по ТП на выходе из ТВС=020(13-28)"
+msgstr "T (acc. TC) at FA outlet=020(13-28)"
+
+msgid "T по ТП на выходе из ТВС=021(13-30)"
+msgstr "T (acc. TC) at FA outlet=021(13-30)"
+
+msgid "T по ТП на выходе из ТВС=022(13-32)"
+msgstr "T (acc. TC) at FA outlet=022(13-32)"
+
+msgid "T по ТП на выходе из ТВС=024(13-36)"
+msgstr "T (acc. TC) at FA outlet=024(13-36)"
+
+msgid "T по ТП на выходе из ТВС=025(13-38)"
+msgstr "T (acc. TC) at FA outlet=025(13-38)"
+
+msgid "T по ТП на выходе из ТВС=028(12-23)"
+msgstr "T (acc. TC) at FA outlet=028(12-23)"
+
+msgid "T по ТП на выходе из ТВС=029(12-25)"
+msgstr "T (acc. TC) at FA outlet=029(12-25)"
+
+msgid "T по ТП на выходе из ТВС=031(12-29)"
+msgstr "T (acc. TC) at FA outlet=031(12-29)"
+
+msgid "T по ТП на выходе из ТВС=034(12-35)"
+msgstr "T (acc. TC) at FA outlet=034(12-35)"
+
+msgid "T по ТП на выходе из ТВС=037(11-18)"
+msgstr "T (acc. TC) at FA outlet=037(11-18)"
+
+msgid "T по ТП на выходе из ТВС=038(11-20)"
+msgstr "T (acc. TC) at FA outlet=038(11-20)"
+
+msgid "T по ТП на выходе из ТВС=039(11-22)"
+msgstr "T (acc. TC) at FA outlet=039(11-22)"
+
+msgid "T по ТП на выходе из ТВС=041(11-26)"
+msgstr "T (acc. TC) at FA outlet=041(11-26)"
+
+msgid "T по ТП на выходе из ТВС=042(11-28)"
+msgstr "T (acc. TC) at FA outlet=042(11-28)"
+
+msgid "T по ТП на выходе из ТВС=044(11-32)"
+msgstr "T (acc. TC) at FA outlet=044(11-32)"
+
+msgid "T по ТП на выходе из ТВС=046(11-36)"
+msgstr "T (acc. TC) at FA outlet=046(11-36)"
+
+msgid "T по ТП на выходе из ТВС=047(11-38)"
+msgstr "T (acc. TC) at FA outlet=047(11-38)"
+
+msgid "T по ТП на выходе из ТВС=048(11-40)"
+msgstr "T (acc. TC) at FA outlet=048(11-40)"
+
+msgid "T по ТП на выходе из ТВС=051(10-21)"
+msgstr "T (acc. TC) at FA outlet=051(10-21)"
+
+msgid "T по ТП на выходе из ТВС=052(10-23)"
+msgstr "T (acc. TC) at FA outlet=052(10-23)"
+
+msgid "T по ТП на выходе из ТВС=053(10-25)"
+msgstr "T (acc. TC) at FA outlet=053(10-25)"
+
+msgid "T по ТП на выходе из ТВС=055(10-29)"
+msgstr "T (acc. TC) at FA outlet=055(10-29)"
+
+msgid "T по ТП на выходе из ТВС=056(10-31)"
+msgstr "T (acc. TC) at FA outlet=056(10-31)"
+
+msgid "T по ТП на выходе из ТВС=058(10-35)"
+msgstr "T (acc. TC) at FA outlet=058(10-35)"
+
+msgid "T по ТП на выходе из ТВС=059(10-37)"
+msgstr "T (acc. TC) at FA outlet=059(10-37)"
+
+msgid "T по ТП на выходе из ТВС=060(10-39)"
+msgstr "T (acc. TC) at FA outlet=060(10-39)"
+
+msgid "T по ТП на выходе из ТВС=062(09-16)"
+msgstr "T (acc. TC) at FA outlet=062(09-16)"
+
+msgid "T по ТП на выходе из ТВС=063(09-18)"
+msgstr "T (acc. TC) at FA outlet=063(09-18)"
+
+msgid "T по ТП на выходе из ТВС=064(09-20)"
+msgstr "T (acc. TC) at FA outlet=064(09-20)"
+
+msgid "T по ТП на выходе из ТВС=067(09-26)"
+msgstr "T (acc. TC) at FA outlet=067(09-26)"
+
+msgid "T по ТП на выходе из ТВС=068(09-28)"
+msgstr "T (acc. TC) at FA outlet=068(09-28)"
+
+msgid "T по ТП на выходе из ТВС=070(09-32)"
+msgstr "T (acc. TC) at FA outlet=070(09-32)"
+
+msgid "T по ТП на выходе из ТВС=071(09-34)"
+msgstr "T (acc. TC) at FA outlet=071(09-34)"
+
+msgid "T по ТП на выходе из ТВС=073(09-38)"
+msgstr "T (acc. TC) at FA outlet=073(09-38)"
+
+msgid "T по ТП на выходе из ТВС=074(09-40)"
+msgstr "T (acc. TC) at FA outlet=074(09-40)"
+
+msgid "T по ТП на выходе из ТВС=075(09-42)"
+msgstr "T (acc. TC) at FA outlet=075(09-42)"
+
+msgid "T по ТП на выходе из ТВС=078(08-21)"
+msgstr "T (acc. TC) at FA outlet=078(08-21)"
+
+msgid "T по ТП на выходе из ТВС=079(08-23)"
+msgstr "T (acc. TC) at FA outlet=079(08-23)"
+
+msgid "T по ТП на выходе из ТВС=080(08-25)"
+msgstr "T (acc. TC) at FA outlet=080(08-25)"
+
+msgid "T по ТП на выходе из ТВС=082(08-29)"
+msgstr "T (acc. TC) at FA outlet=082(08-29)"
+
+msgid "T по ТП на выходе из ТВС=085(08-35)"
+msgstr "T (acc. TC) at FA outlet=085(08-35)"
+
+msgid "T по ТП на выходе из ТВС=086(08-37)"
+msgstr "T (acc. TC) at FA outlet=086(08-37)"
+
+msgid "T по ТП на выходе из ТВС=087(08-39)"
+msgstr "T (acc. TC) at FA outlet=087(08-39)"
+
+msgid "T по ТП на выходе из ТВС=089(07-16)"
+msgstr "T (acc. TC) at FA outlet=089(07-16)"
+
+msgid "T по ТП на выходе из ТВС=090(07-18)"
+msgstr "T (acc. TC) at FA outlet=090(07-18)"
+
+msgid "T по ТП на выходе из ТВС=091(07-20)"
+msgstr "T (acc. TC) at FA outlet=091(07-20)"
+
+msgid "T по ТП на выходе из ТВС=094(07-26)"
+msgstr "T (acc. TC) at FA outlet=091(07-20)"
+
+msgid "T по ТП на выходе из ТВС=095(07-28)"
+msgstr "T (acc. TC) at FA outlet=095(07-28)"
+
+msgid "T по ТП на выходе из ТВС=097(07-32)"
+msgstr "T (acc. TC) at FA outlet=097(07-32)"
+
+msgid "T по ТП на выходе из ТВС=098(07-34)"
+msgstr "T (acc. TC) at FA outlet=098(07-34)"
+
+msgid "T по ТП на выходе из ТВС=100(07-38)"
+msgstr "T (acc. TC) at FA outlet=100(07-38)"
+
+msgid "T по ТП на выходе из ТВС=101(07-40)"
+msgstr "T (acc. TC) at FA outlet=101(07-40)"
+
+msgid "T по ТП на выходе из ТВС=102(07-42)"
+msgstr "T (acc. TC) at FA outlet=102(07-42)"
+
+msgid "T по ТП на выходе из ТВС=105(06-21)"
+msgstr "T (acc. TC) at FA outlet=105(06-21)"
+
+msgid "T по ТП на выходе из ТВС=106(06-23)"
+msgstr "T (acc. TC) at FA outlet=106(06-23)"
+
+msgid "T по ТП на выходе из ТВС=107(06-25)"
+msgstr "T (acc. TC) at FA outlet=107(06-25)"
+
+msgid "T по ТП на выходе из ТВС=109(06-29)"
+msgstr "T (acc. TC) at FA outlet=109(06-29)"
+
+msgid "T по ТП на выходе из ТВС=110(06-31)"
+msgstr "T (acc. TC) at FA outlet=110(06-31)"
+
+msgid "T по ТП на выходе из ТВС=112(06-35)"
+msgstr "T (acc. TC) at FA outlet=112(06-35)"
+
+msgid "T по ТП на выходе из ТВС=113(06-37)"
+msgstr "T (acc. TC) at FA outlet=113(06-37)"
+
+msgid "T по ТП на выходе из ТВС=114(06-39)"
+msgstr "T (acc. TC) at FA outlet=114(06-39)"
+
+msgid "T по ТП на выходе из ТВС=116(05-18)"
+msgstr "T (acc. TC) at FA outlet=116(05-18)"
+
+msgid "T по ТП на выходе из ТВС=117(05-20)"
+msgstr "T (acc. TC) at FA outlet=117(05-20)"
+
+msgid "T по ТП на выходе из ТВС=118(05-22)"
+msgstr "T (acc. TC) at FA outlet=118(05-22)"
+
+msgid "T по ТП на выходе из ТВС=120(05-26)"
+msgstr "T (acc. TC) at FA outlet=120(05-26)"
+
+msgid "T по ТП на выходе из ТВС=121(05-28)"
+msgstr "T (acc. TC) at FA outlet=121(05-28)"
+
+msgid "T по ТП на выходе из ТВС=123(05-32)"
+msgstr "T (acc. TC) at FA outlet=123(05-32)"
+
+msgid "T по ТП на выходе из ТВС=124(05-34)"
+msgstr "T (acc. TC) at FA outlet=124(05-34)"
+
+msgid "T по ТП на выходе из ТВС=125(05-36)"
+msgstr "T (acc. TC) at FA outlet=125(05-36)"
+
+msgid "T по ТП на выходе из ТВС=126(05-38)"
+msgstr "T (acc. TC) at FA outlet=126(05-38)"
+
+msgid "T по ТП на выходе из ТВС=127(05-40)"
+msgstr "T (acc. TC) at FA outlet=127(05-40)"
+
+msgid "T по ТП на выходе из ТВС=130(04-23)"
+msgstr "T (acc. TC) at FA outlet=130(04-23)"
+
+msgid "T по ТП на выходе из ТВС=133(04-29)"
+msgstr "T (acc. TC) at FA outlet=133(04-29)"
+
+msgid "T по ТП на выходе из ТВС=136(04-35)"
+msgstr "T (acc. TC) at FA outlet=136(04-35)"
+
+msgid "T по ТП на выходе из ТВС=139(03-20)"
+msgstr "T (acc. TC) at FA outlet=139(03-20)"
+
+msgid "T по ТП на выходе из ТВС=140(03-22)"
+msgstr "T (acc. TC) at FA outlet=140(03-22)"
+
+msgid "T по ТП на выходе из ТВС=142(03-26)"
+msgstr "T (acc. TC) at FA outlet=142(03-26)"
+
+msgid "T по ТП на выходе из ТВС=143(03-28)"
+msgstr "T (acc. TC) at FA outlet=143(03-28)"
+
+msgid "T по ТП на выходе из ТВС=144(03-30)"
+msgstr "T (acc. TC) at FA outlet=144(03-30)"
+
+msgid "T по ТП на выходе из ТВС=145(03-32)"
+msgstr "T (acc. TC) at FA outlet=145(03-32)"
+
+msgid "T по ТП на выходе из ТВС=147(03-36)"
+msgstr "T (acc. TC) at FA outlet=147(03-36)"
+
+msgid "T по ТП на выходе из ТВС=148(03-38)"
+msgstr "T (acc. TC) at FA outlet=148(03-38)"
+
+msgid "T по ТП на выходе из ТВС=151(02-25)"
+msgstr "T (acc. TC) at FA outlet=151(02-25)"
+
+msgid "T по ТП на выходе из ТВС=153(02-29)"
+msgstr "T (acc. TC) at FA outlet=153(02-29)"
+
+msgid "T по ТП на выходе из ТВС=155(02-33)"
+msgstr "T (acc. TC) at FA outlet=155(02-33)"
+
+msgid "T по ТП на выходе из ТВС=160(01-28)"
+msgstr "T (acc. TC) at FA outlet=160(01-28)"
+
+msgid "T по ТП на выходе из ТВС=161(01-30)"
+msgstr "T (acc. TC) at FA outlet=161(01-30)"
+
+msgid "T под крышкой реактора отоб ШД"
+msgstr "T under Reactor Vessel Lid displ. WR"
+
+msgid "T подогрева т/н по петлям"
+msgstr "T heating of steam piping by loops"
+
+msgid "T после предохран.клап.к КД"
+msgstr "T after CV to pressurizer"
+
+msgid "T после предохранительных клапанов KД к ББ"
+msgstr "T after pressurizer CV to bubbler"
+
+msgid "T прямой сет.воды на промзону"
+msgstr "T network water to industrial zone"
+
+msgid "T прямой сет.воды на промплощадку"
+msgstr "T network water to site"
+
+msgid "T раствора борa возвратa из зoны"
+msgstr "T boron solution return from core"
+
+msgid "T раствора бора из активной зоны"
+msgstr "T boron solution from core"
+
+msgid "T средняя на выходе ТВС (по ТП)"
+msgstr "T average (acc. TC) at FA outlet"
+
+msgid "T средняя на выходе из ТВС (по ТП)"
+msgstr "T average (acc. TC) at FA outlet"
+
+msgid "T средняя по ТП и ТС в горячей нитке N1"
+msgstr "T "
+
+msgid "T средняя по ТП и ТС в горячей нитке N2"
+msgstr "T average acc. TC and TR in hot leg #2"
+
+msgid "T средняя по ТП и ТС в горячей нитке N3"
+msgstr "T average acc. TC and TR in hot leg #3"
+
+msgid "T средняя по ТП и ТС в горячей нитке N4"
+msgstr "T average acc. TC and TR in hot leg #4"
+
+msgid "T средняя по ТП и ТС в холодной нитке N1"
+msgstr "T average acc. TC and TR in cold leg #1"
+
+msgid "T средняя по ТП и ТС в холодной нитке N2"
+msgstr "T average acc. TC and TR in cold leg #2"
+
+msgid "T средняя по ТП и ТС в холодной нитке N3"
+msgstr "T average acc. TC and TR in cold leg #3"
+
+msgid "T средняя по ТП и ТС в холодной нитке N4"
+msgstr "T average acc. TC and TR in cold leg #4"
+
+msgid "T стали сердечника статора"
+msgstr "T steel of stator core"
+
+msgid "T теплоносит. от КД дo петли 4"
+msgstr "T coolant from pressurizer to loop 4"
+
+msgid "T теплоносит.от KД до петли 4"
+msgstr "T coolant from pressurizer to loop 4"
+
+msgid "T теплоносит.от К.Д.дo петли 4"
+msgstr "T coolant from pressurizer to loop 4"
+
+msgid "T теплоносит.от КД до петли 4"
+msgstr "T coolant from pressurizer to loop 4"
+
+msgid "T теплоносителя в гор.нитке 1"
+msgstr "T coolant in hot leg 1"
+
+msgid "T теплоносителя в гор.нитке 2"
+msgstr "T coolant in hot leg 2"
+
+msgid "T теплоносителя в гор.нитке 3"
+msgstr "T coolant in hot leg 3"
+
+msgid "T теплоносителя в гор.нитке 4"
+msgstr "T coolant in hot leg 4"
+
+msgid "T теплоносителя в хол.нитке 1"
+msgstr "T coolant in cold leg 1"
+
+msgid "T теплоносителя в хол.нитке 2"
+msgstr "T coolant in cold leg 2"
+
+msgid "T теплоносителя в хол.нитке 3"
+msgstr "T coolant in cold leg 3"
+
+msgid "T теплоносителя в хол.нитке 4"
+msgstr "T coolant in cold leg 4"
+
+msgid "T теплоносителя от КД до петли 4"
+msgstr "T coolant from pressurizer to loop 4"
+
+msgid "T хол. нитки 1 достоверная"
+msgstr "T certain cold leg 1"
+
+msgid "T хол. нитки 2 достоверная"
+msgstr "T certain cold leg 2"
+
+msgid "T хол. нитки 3 достоверная"
+msgstr "T certain cold leg 3"
+
+msgid "T хол. нитки 4 достоверная"
+msgstr "T certain cold leg 4"
+
+msgid "T цирк.воды на входе в SD12А"
+msgstr "T circulation water in SD12А input"
+
+msgid "T цирк.воды на входе в конденсатор SD12-А"
+msgstr "T circulation water in SD12-А condensate input"
+
+msgid "T цирк.воды на входе конд.SD12"
+msgstr "T circulation water in SD12 condensate input"
+
+msgid "T циркводы на входе конд.SD12"
+msgstr "T circulation water in SD12 condensate input"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1
+msgid "TK"
+msgstr "TK"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "Ts1 - Ts2 >75гр.С"
+msgstr "Ts1 - Ts2 > 75 °C"
+
+#: z1/fGT00M1:1
+msgid "Tг"
+msgstr "Th"
+
+#: z1/fGT00M1:1
+msgid "Tх"
+msgstr "Tc"
+
+msgid "U CEKЦИИ BD"
+msgstr "U SECTION BD"
+
+msgid "U CEKЦИИ BJ"
+msgstr "U SECTION BJ"
+
+msgid "U CEKЦИИ BK"
+msgstr "U SECTION BK"
+
+msgid "U HA CEKЦИИ BV"
+msgstr "U SECTION BV"
+
+msgid "U HA CEKЦИИ BW"
+msgstr "U SECTION BW"
+
+msgid "U HA CEKЦИИ BX"
+msgstr "U SECTION BX"
+
+msgid "U HA ШИHAX C.H. 6 KB  BV"
+msgstr "U POWER BUS OF AUXILIARY UNIT 6 kV BV"
+
+msgid "U HA ШИHAX C.H. 6 KB  BW"
+msgstr "U POWER BUS OF AUXILIARY UNIT 6 kV BW"
+
+msgid "U HA ШИHAX C.H. 6 KB  BX"
+msgstr "U POWER BUS OF AUXILIARY UNIT 6 kV BX"
+
+msgid "U HA ШИHAX C/H 6KB CEKЦИИ 5BL"
+msgstr "U POWER BUS OF AUXILIARY UNIT 6 kV 5BL"
+
+msgid "U HA ШИHAX C/H 6KB CEKЦИИ 5BM"
+msgstr "U POWER BUS OF AUXILIARY UNIT 6 kV 5BM"
+
+msgid "U HA ШИHAX C/H 6KB CEKЦИИ 5BN"
+msgstr "U POWER BUS OF AUXILIARY UNIT 6 kV 5BN"
+
+msgid "U HA ШИHAX C/H 6KB CEKЦИИ 5BP"
+msgstr "U POWER BUS OF AUXILIARY UNIT 6 kV 5BP"
+
+msgid "U HA ШИHAX CEKЦИИ C.H.BA"
+msgstr "U POWER BUS OF AUXILIARY UNIT BA"
+
+msgid "U HA ШИHAX CEKЦИИ C.H.BB"
+msgstr "U POWER BUS OF AUXILIARY UNIT BB"
+
+msgid "U HA ШИHAX CEKЦИИ C.H.BC"
+msgstr "U POWER BUS OF AUXILIARY UNIT BC"
+
+msgid "U HA ШИHAX COБCTBEH.HУЖД 6KB"
+msgstr "U POWER BUS OF AUXILIARY UNIT 6 kV"
+
+msgid "U ЛИHEЙH.HAПPЯЖEHИE ГEHEPATOPA"
+msgstr "U LINE VOLTAGE OF GENERATOR"
+
+msgid "U ЛИHEЙHOE ГEHEPATOPA"
+msgstr "U LINE VOLTAGE OF GENERATOR"
+
+msgid "U генератора"
+msgstr "U generator"
+
+msgid "U линeйн.напряжeние гeнераторa"
+msgstr "U line voltage of generator"
+
+msgid "U линейн.напряжение генератора"
+msgstr "U line voltage of generator"
+
+msgid "U линии обмотки 1 6 кB рез.трансформатора СН 1"
+msgstr "U primary winding line 6 kV of reserve auxiliary transformer 1"
+
+msgid "U линии обмотки 1 6 кB рез.трансформатора СН 2"
+msgstr "U primary winding line 6 kV of reserve auxiliary transformer 2"
+
+msgid "U линии обмотки 2 6 кB рез.трансформатора СН 1"
+msgstr "U secondary winding line 6 kV of reserve auxiliary transformer 1"
+
+msgid "U линии обмотки 2 6 кB рез.трансформатора СН 2"
+msgstr "U secondary winding line 6 kV of reserve auxiliary transformer 2"
+
+msgid "U на шинах 6 кB BV"
+msgstr "U power bus 6 kV BV"
+
+msgid "U на шинах 6 кB BW"
+msgstr "U power bus 6 kV BW"
+
+msgid "U на шинах 6 кB BX"
+msgstr "U power bus 6 kV BX"
+
+msgid "U на шинах 6кB BW"
+msgstr "U power bus 6 kV BW"
+
+msgid "U на шинах 6кB BX"
+msgstr "U power bus 6 kV BX"
+
+msgid "U на шинах 6кВ  ВV"
+msgstr "U power bus 6 kV BV"
+
+msgid "U на шинах 6кВ BV"
+msgstr "U power bus 6 kV BV"
+
+msgid "U на шинах CH 6 кB ВW"
+msgstr "U power bus of auxiliary unit 6 kV BW"
+
+msgid "U на шинах CH 6 кB ВX"
+msgstr "U power bus of auxiliary unit 6 kV BX"
+
+msgid "U на шинах ceкции с.н.BA"
+msgstr "U power bus of auxiliary unit BA"
+
+msgid "U на шинах ceкции с.н.BB"
+msgstr "U power bus of auxiliary unit BB"
+
+msgid "U на шинах ceкции с.н.BC"
+msgstr "U power bus of auxiliary unit BC"
+
+#: z/fMRP:1
+msgid "U на шинах резервных тр-ров (B)"
+msgstr "Reserve transform. power bus U (B)"
+
+msgid "U на шинах с.н. 6 кВ  BW"
+msgstr "U power bus of auxiliary unit 6 kV BW"
+
+msgid "U на шинах с.н. 6 кВ BV"
+msgstr "U power bus of auxiliary unit 6 kV BV"
+
+msgid "U на шинах с.н. 6 кВ BX"
+msgstr "U power bus of auxiliary unit 6 kV BX"
+
+msgid "U на шинах секции СН BD"
+msgstr "U power bus of auxiliary unit BD"
+
+msgid "U на шинах секции СН ВА"
+msgstr "U power bus of auxiliary unit BA"
+
+msgid "U на шинах секции СН ВВ"
+msgstr "U power bus of auxiliary unit BB"
+
+msgid "U на шинах секции СН ВС"
+msgstr "U power bus of auxiliary unit BC"
+
+msgid "U на шинах секции с.н. BА"
+msgstr "U power bus of auxiliary unit BA"
+
+msgid "U на шинах секции с.н. ВB"
+msgstr "U power bus of auxiliary unit BB"
+
+msgid "U на шинах секции с.н. ВС"
+msgstr "U power bus of auxiliary unit BC"
+
+msgid "U на шинах секции с/н BD"
+msgstr "U power bus of auxiliary unit BD"
+
+msgid "U на шинах секции с/н ВB"
+msgstr "U power bus of auxiliary unit BB"
+
+msgid "U на шинах секции с/н ВА"
+msgstr "U power bus of auxiliary unit BA"
+
+msgid "U на шинах секции с/н ВС"
+msgstr "U power bus of auxiliary unit BC"
+
+msgid "U на шинах собственных нужд 6 кB"
+msgstr "U power bus of auxiliary unit 6 kV"
+
+msgid "U на шинах собственных нужд 6кВ"
+msgstr "U power bus of auxiliary unit 6 kV"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "VF - Система технического"
+msgstr "VF Service water system, group A"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "X - Защитная оболочка проходки"
+msgstr "X contaiment."
+
+msgid "X ТВС с макс Т отобр ШД"
+msgstr "X FA with max T displ. WR"
+
+msgid "X- ТВС с макс Т отобр ШД"
+msgstr "X- FA with max T displ. WR"
+
+#: z/fBLOCKS_DEMO:1 z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+#: z/fMES:1 z/fMRP:1 z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1
+#: z/fMTI6:1 z/fOR00P1:1 z/fUM00P2:1 za/fME:1 za/fRO1:1 za/fRO2:1 za/fRO3:1
+#: za/fRO4:1 za/fRO5:1 za/fRO6:1 zrd/fMAWS:1 zrt/f30km2:1 zrt/fParBGSVX_z1:1
+#: zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1 zrt/fParBGSVX_z5:1
+#: zrt/fParBGSVX_z6:1 zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1
+#: zrt/fYAPPY5:1 zrt/fYAPPY6:1
+msgid "XXX"
+msgstr "XXX"
+
+#: z/fOR00P1:1
+msgid "XXXX"
+msgstr "XXXX"
+
+msgid "Y ТВС с макс Т отобр ШД"
+msgstr "Y FA with max T displ. WR"
+
+msgid "Y- ТВС с макс Т отобр ШД"
+msgstr "Y- FA with max T displ. WR"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "YA первый контур"
+msgstr "YA Primary Circuit"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "YB парогенератор"
+msgstr "YB Steam Generator"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "YC Корпус реактора"
+msgstr "YC Reactor Vessel"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "YD -Главные циркуляционные насосы"
+msgstr "YD Main Circulation Pumps"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "YP Компенсатор давления и барботер"
+msgstr "YP Pressurizer and Bubbler"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "YT Система аварийного расх. РУ"
+msgstr "Emergency Plant Cooldown System"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "YZ - Защита реактора"
+msgstr "YZ Reactor protection"
+
+msgid "dP до насыщ  при Т макс ТВC"
+msgstr "dP to saturation at T max FA"
+
+msgid "dP до насыщ при Т макс ТВC"
+msgstr "dP to saturation at T max FA"
+
+msgid "dT Max на ТВС без СВП"
+msgstr "dT max on FA without BPR"
+
+msgid "dT до насыщения  при Т макс ТВ"
+msgstr "dP to saturation at T max FA"
+
+msgid "dT до насыщения при Т макс ТВ"
+msgstr "dP to saturation at T max FA"
+
+msgid "dT макс на ТВС сект 1"
+msgstr "dT max at FA sect 1"
+
+msgid "dT макс на ТВС сект 2"
+msgstr "dT max at FA sect 2"
+
+msgid "dT макс на ТВС сект 3"
+msgstr "dT max at FA sect 3"
+
+msgid "dT макс на ТВС сект 4"
+msgstr "dT max at FA sect 4"
+
+msgid "dT макс на ТВС сект 5"
+msgstr "dT max at FA sect 5"
+
+msgid "dT макс на ТВС сект 6"
+msgstr "dT max at FA sect 6"
+
+msgid "dT на ТВС средняя"
+msgstr "dT FA average"
+
+msgid "dTs 1-2к"
+msgstr "dTs 1-2к"
+
+msgid "dTs 1к"
+msgstr "dTs 1к"
+
+msgid "dTs мин под крышкой реакт"
+msgstr "dTs min under Reactor Lid"
+
+msgid "dTs по показ YC00T01"
+msgstr "dTs according to YC00T01"
+
+msgid "dTs по показ YC00T02"
+msgstr "dTs according to YC00T02"
+
+msgid "dTs по показ YC00T03"
+msgstr "dTs according to YC00T03"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "max.твс"
+msgstr "max FA"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "s.max.твс"
+msgstr "s max FA"
+
+msgid "°C"
+msgstr "°C"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "А эж.тг"
+msgstr "A SGej."
+
+msgid "А/кг"
+msgstr "A/kg"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgctxt "radiation_parameter"
+msgid "АI"
+msgstr "A iodine"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "АВТОМАТ"
+msgstr "Automat"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgctxt "radiation_parameter"
+msgid "АГ"
+msgstr "A irg"
+
+msgid "АГ выброса за текущие сутки в ВТ1"
+msgstr "A irg release to VS1 for current day"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgctxt "radiation_parameter"
+msgid "АЗ"
+msgstr "A aerosols"
+
+#: z/fOR00P1:1
+msgid "АЗ"
+msgstr "EP"
+
+msgid "АЗ 2 из 3"
+msgstr "EP 2 of 3"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "АЗ РЕАКТОРА"
+msgstr "REACTOR EP"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "АКНП"
+msgstr "NFCE"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "АПВ"
+msgstr "Recloser"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "АСП 1 СБ."
+msgstr "SSA 1 SS"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "АСП 2 СБ."
+msgstr "SSA 2 SS"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "АСП 3 СБ."
+msgstr "SSA 3 SS"
+
+msgid "АСР ТО Сигналы ШДС"
+msgstr "TH ACS Signals ShDS"
+
+msgid "АСРК блок 1"
+msgstr "ARMS Unit 1"
+
+msgid "АСРК блок 2"
+msgstr "ARMS Unit 2"
+
+msgid "АСРК блок 3"
+msgstr "ARMS Unit 3"
+
+msgid "АСРК блок 4"
+msgstr "ARMS Unit 4"
+
+msgid "АСРК блок 5"
+msgstr "ARMS Unit 5"
+
+msgid "АСРК блок 6"
+msgstr "ARMS Unit 6"
+
+msgid "АСРТО-шкафы ШУ"
+msgstr "TH ACS Cabinets ShU"
+
+#: z/fMES:1
+msgid "АТ-1"
+msgstr "AT-1"
+
+#: z/fMES:1
+msgid "АТ-751/1"
+msgstr "AT-751/1"
+
+#: z/fMES:1
+msgid "АТ-751/2"
+msgstr "AT-751/2"
+
+msgid "АТМОСФЕРНОЕ ДАВЛЕНИЕ ПК11 ООС"
+msgstr "ATMOSPHERIC PRESSURE OP11 EP"
+
+msgid "АТМОСФЕРНЫЕ ОСАДКИ ПК11 ООС"
+msgstr "PRECIPTATION OP11 EP"
+
+msgid "Аварийный питательный насос"
+msgstr "Auxiliary Feedwater Pump"
+
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "Активность РБГ - венттрубы"
+msgstr "IRG activity VS-1"
+
+msgid "Активность в ГО (стат)"
+msgstr "Activity in Cont. (stat.)"
+
+msgid "Активность выброса газов за сутки в ВТ1"
+msgstr "Activity of daily gas release to VS1"
+
+msgid "Активность выброса газов за сутки в ВТ2"
+msgstr "Activity of daily gas release to VS2"
+
+msgid "Активность выброса газов за текущие сутки"
+msgstr "Activity of  gas release for current day"
+
+msgid "Активность выброса газов за текущие сутки в ВТ2"
+msgstr "Activity of  gas release for current day to VS2"
+
+msgid "Активность выброса за текущие сутки в ВТ2"
+msgstr "Activity of current day release to VS2"
+
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "Активность технической воды"
+msgstr "Service water activity"
+
+msgid "Активность эжекторов ТГ (стат)"
+msgstr "Activity of SG ejectors (stat.)"
+
+msgid "Аналог.ВУ ПТК САР УСБ1"
+msgstr "Analog UP  ECS CSS1"
+
+msgid "Аналоговые АСР ТО"
+msgstr "Analog TB ACS"
+
+msgid "Аналоговые ВУ (МСКУ4)"
+msgstr "Analog UL (MSKU-4)"
+
+msgid "Аналоговые ВУ МСКУ101"
+msgstr "Analog UL MSKU101"
+
+msgid "Аналоговые ВУ МСКУ103"
+msgstr "Analog UL MSKU103"
+
+msgid "Аналоговые ВУ МСКУ104"
+msgstr "Analog UL MSKU104"
+
+msgid "Аналоговые ВУ МСКУ105"
+msgstr "Analog UL MSKU105"
+
+msgid "Аналоговые ВУ МСКУ106"
+msgstr "Analog UL MSKU106"
+
+msgid "Аналоговые ВУ МСКУ501"
+msgstr "Analog UL MSKU501"
+
+msgid "Аналоговые ВУ МСКУ505"
+msgstr "Analog UL MSKU505"
+
+msgid "Аналоговые ВУ МСКУ506"
+msgstr "Analog UL MSKU506"
+
+msgid "Аналоговые ВУ ССО805(МСКУ4)"
+msgstr "Analog UL SSO805 (MSKU-4)"
+
+msgid "Аналоговые СВРК"
+msgstr "Analog ICMS"
+
+msgid "Аналоговые СНЭ РО"
+msgstr "Analog RC NOS"
+
+msgid "Аналоговые СНЭ ТО"
+msgstr "Analog TB NOS"
+
+msgid "Аналоговые СППБ"
+msgstr "Analog SPDS"
+
+msgid "Аналоговые УСБ1"
+msgstr "Analog CSS1"
+
+msgid "Аналоговые УСБ2"
+msgstr "Analog CSS2"
+
+msgid "Аналоговые УСБ3"
+msgstr "Analog CSS3"
+
+msgid "Аналоговые от ССО101(М64)"
+msgstr "Analog SSO101(M64)"
+
+msgid "Аналоговые от ССО106(М64)"
+msgstr "Analog SSO106(M64)"
+
+msgid "Аналоговые от ССО107(М64)"
+msgstr "Analog SSO107(M64)"
+
+msgid "Аналоговые от ССО110(М64)"
+msgstr "Analog SSO110(M64)"
+
+msgid "Аналоговые от ССО112(М64)"
+msgstr "Analog SSO112(M64)"
+
+msgid "Аналоговые от ССО205(М64)"
+msgstr "Analog SSO205(M64)"
+
+msgid "Аналоговые от ССО210(М64)"
+msgstr "Analog SSO210(M64)"
+
+msgid "Аналоговые от ССО215(М64)"
+msgstr "Analog SSO215(M64)"
+
+msgid "Аналоговые от ССО301(М64)"
+msgstr "Analog SSO301(M64)"
+
+msgid "Аналоговые от ССО301(УЛУ2)"
+msgstr "Analog SSO301(ULU2)"
+
+msgid "Аналоговые от ССО302(М64)"
+msgstr "Analog SSO302(M64)"
+
+msgid "Аналоговые от ССО302(УЛУ2)"
+msgstr "Analog SSO302(ULU2)"
+
+msgid "Аналоговые от ССО305(М64)"
+msgstr "Analog SSO305(M64)"
+
+msgid "Аналоговые от ССО305(УЛУ2)"
+msgstr "Analog SSO305(ULU2)"
+
+msgid "Аналоговые от ССО306(УЛУ2)"
+msgstr "Analog SSO306(ULU2)"
+
+msgid "Аналоговые от ССО307(УЛУ2)"
+msgstr "Analog SSO307(ULU2)"
+
+msgid "Аналоговые от ССО404(МСКУ2)"
+msgstr "Analog SSO404(MSKU-2)"
+
+msgid "Аналоговые от ССО501(М64)"
+msgstr "Analog SSO501(M64)"
+
+msgid "Аналоговые от ССО503(М64)"
+msgstr "Analog SSO503(M64)"
+
+msgid "Аналоговые от ССО506(М64)"
+msgstr "Analog SSO506(M64)"
+
+msgid "Аналоговые от ССО507(М64)"
+msgstr "Analog SSO507(M64)"
+
+msgid "Аналоговые от ССО508(М64)"
+msgstr "Analog SSO508(M64)"
+
+msgid "Аналоговые от ССО513(М64)"
+msgstr "Analog SSO513(M64)"
+
+msgid "Аналоговые от ССО601(М64)"
+msgstr "Analog SSO601(M64)"
+
+msgid "Аналоговые от ССО601(УЛУ2)"
+msgstr "Analog SSO601(ULU2)"
+
+msgid "Аналоговые от ССО602(УЛУ2)"
+msgstr "Analog SSO602(ULU2)"
+
+msgid "Аналоговые от ССО603(М64)"
+msgstr "Analog SSO603(M64)"
+
+msgid "Аналоговые от ССО604(М64)"
+msgstr "Analog SSO604(M64)"
+
+msgid "Аналоговые от ССО604(УЛУ2)"
+msgstr "Analog SSO604(ULU2)"
+
+msgid "Аналоговые от ССО605(М64)"
+msgstr "Analog SSO605(M64)"
+
+msgid "Аналоговые от ССО605(УЛУ2)"
+msgstr "Analog SSO605(ULU2)"
+
+msgid "Аналоговые от ССО606(М64)"
+msgstr "Analog SSO606(M64)"
+
+msgid "Атмосферное давление"
+msgstr "Atmospheric pressure"
+
+msgid "Атмосферное давление (максимальное за час)"
+msgstr "Atmospheric pressure (maximum per hour)"
+
+msgid "Атмосферное давление (минимальное за час)"
+msgstr "Atmospheric pressure (minimum per hour)"
+
+msgid "Атмосферное давление (среднее за час)"
+msgstr "Atmospheric pressure (average per hour)"
+
+#: za/fME:1
+msgid "Атмосферное давление, (гПа)"
+msgstr "Atmosphere pressure, (hPa)"
+
+#: zrt/f30km2:1
+msgid "Атмосферные осадки"
+msgstr "Precipitations"
+
+msgid "Атмосферные осадки за минуту"
+msgstr "Precipitations per minute"
+
+msgid "Атмосферные осадки за сутки"
+msgstr "Precipitations per day"
+
+msgid "Атмосферные осадки за час"
+msgstr "Precipitations per hour"
+
+#: za/fME:1
+msgid "Атмосферные осадки, (мм)"
+msgstr "Precipitations, (mm)"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "БАББИТ.ВКЛАД"
+msgstr "BABBIT BUSH"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgid "БВ"
+msgstr "SFSP"
+
+msgid "БЗOK HA T/Д ПOДAЧИ ПAPA K TГ"
+msgstr "MSIV AT STEAM PIPING TO SG"
+
+msgid "БЗOK T/Д ПOДAЧИ ПAPA ПГ1 K TГ"
+msgstr "MSIV AT SG1 STEAM PIPING TO SG"
+
+msgid "БЗOK T/Д ПOДAЧИ ПAPA ПГ2 K TГ"
+msgstr "MSIV AT SG2 STEAM PIPING TO SG"
+
+msgid "БЗOK T/Д ПOДAЧИ ПAPA ПГ3 K TГ"
+msgstr "MSIV AT SG3 STEAM PIPING TO SG"
+
+msgid "БЗOK T/Д ПOДAЧИ ПAPA ПГ4 K TГ"
+msgstr "MSIV AT SG4 STEAM PIPING TO SG"
+
+msgid "БЗOK на т/де  подачи пара к  TГ"
+msgstr "MSIV at steam piping to SG"
+
+msgid "БЗOK на т/де подачи пара к  TГ"
+msgstr "MSIV at steam piping to SG"
+
+msgid "БЗOK на т/де подачи пара к TГ"
+msgstr "MSIV at steam piping to SG"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1 za/fRO1:1
+#: za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgid "БЗОК"
+msgstr "MSIV"
+
+msgid "БЗОК на т/д подачи пара к TГ"
+msgstr "MSIV at steam piping to SG"
+
+msgid "БЗОК на т/д подачи пара к ТГ"
+msgstr "MSIV at steam piping to SG"
+
+msgid "БЗОК на т/де подачи пара к ТГ"
+msgstr "MSIV at steam piping to SG"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БЗОК-1"
+msgstr "MSIV-1"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БЗОК-2"
+msgstr "MSIV-2"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БЗОК-3"
+msgstr "MSIV-3"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БЗОК-4"
+msgstr "MSIV-4"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgid "БОУ"
+msgstr "CPP"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1
+msgid "БРУ-А"
+msgstr "QRP-А"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1
+msgid "БРУ-К"
+msgstr "QRP-K"
+
+msgid "БРУ-К N1"
+msgstr "QRP-K #1"
+
+msgid "БРУ-К N2"
+msgstr "QRP-K #2"
+
+msgid "БРУ-К N3"
+msgstr "QRP-K #3"
+
+msgid "БРУ-К N4"
+msgstr "QRP-K #4"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БРУА-1"
+msgstr "QRP-A1"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БРУА-2"
+msgstr "QRP-A2"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БРУА-3"
+msgstr "QRP-A3"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БРУА-4"
+msgstr "QRP-A4"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БРУК-1"
+msgstr "QRP-K1"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БРУК-2"
+msgstr "QRP-K2"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БРУК-3"
+msgstr "QRP-K3"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "БРУК-4"
+msgstr "QRP-K4"
+
+msgid "Бк"
+msgstr "Bq"
+
+msgid "Бк/м³"
+msgstr "Bq/m³"
+
+msgid "В"
+msgstr "V"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "В - Распредустройства"
+msgstr "V Auxiliary Switchgears"
+
+msgid "ВАГ"
+msgstr "HHS"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgid "ВБ"
+msgstr "UU"
+
+#: z5/fGT00M:1
+msgid "ВИБРАЦИЯ, ТЕМ - РА  ПОДШИПНИКОВ"
+msgstr "VIBRATION, BEARINGS TEMPERATURE"
+
+#: z6/fGT00M:1
+msgid "ВИБРАЦИЯ, ТЕМПЕРАТУРА  ПОДШИПНИКОВ"
+msgstr "VIBRATION, BEARINGS TEMPERATURE"
+
+#: z/fMES:1
+msgid "ВЛ-ДН"
+msgstr "HVL-DN"
+
+#: z/fMES:1
+msgid "ВЛ-ЗП"
+msgstr "HVL-ZP"
+
+msgid "ВПИ"
+msgstr "HIS"
+
+msgid "ВПЭH2"
+msgstr "AEFP-2"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1 z2/fPG_ShD:1
+#: z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "ВПЭН-1"
+msgstr "AEFP-1"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1 z2/fPG_ShD:1
+#: z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "ВПЭН-2"
+msgstr "AEFP-2"
+
+msgid "ВПЭН1"
+msgstr "AEFP-1"
+
+msgid "ВРГ"
+msgstr "HS"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgid "ВТ-1"
+msgstr "VS-1"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgid "ВТ-2"
+msgstr "VS-2"
+
+#: z/fOR00P1:1
+msgid "Вакуум"
+msgstr "Vacuum"
+
+msgid "Вент.на напоре насоса TQ14D01"
+msgstr "Valve at TQ14D01 Pump discharge"
+
+msgid "Вент.на напоре насоса TQ24D01"
+msgstr "Valve at TQ24D01 Pump discharge"
+
+msgid "Вент.на напоре насоса TQ34D01"
+msgstr "Valve at TQ34D01 Pump discharge"
+
+msgid "Вент.подачи подпит.воды в КД"
+msgstr "Valve of makeup water to Pressurizer"
+
+msgid "Вент.подачи подпиточной воды в КД"
+msgstr "Valve of makeup water to Pressurizer"
+
+msgid "Вент.рецирк.насоса TQ24+C176D01"
+msgstr "Vave of Recirculation Pump TQ24+C176D01"
+
+msgid "Вент.рецирк.насоса TQ24D01"
+msgstr "Valve of Recirculation Pump TQ24D01"
+
+msgid "Вент.рецирк.насоса TQ34D01"
+msgstr "Valve of Recirculation Pump TQ34D01"
+
+msgid "Верхний предел измерения"
+msgstr "Hi Instrument State"
+
+msgid "Верхняя аварийная граница"
+msgstr "Hi Hi State"
+
+msgid "Верхняя регламентная граница"
+msgstr "Hi State"
+
+#: zrd/fMAWS:1
+msgid "Ветер"
+msgstr "Wind"
+
+msgid "Включен"
+msgstr "Switched On"
+
+#: zrd/fMAWS:1
+msgid "Влажность, %"
+msgstr "Humidity, %"
+
+msgid "Вода"
+msgstr "Water"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "Впрыск в КД"
+msgstr "PZR injection"
+
+msgid "Время после АЗ"
+msgstr "Time after EP"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Время после сраб."
+msgstr "Time after actuat."
+
+msgid "Вт/м²"
+msgstr "W/m²"
+
+msgid "Вызвать 102"
+msgstr "Call 102"
+
+msgid "Вызвать 103"
+msgstr "Call 103"
+
+msgid "Вызвать 104"
+msgstr "Call 104"
+
+msgid "Выкл. секции надежного питания"
+msgstr "Reliable Power Section Switch"
+
+msgid "Выкл.ввода магистрали 1BL"
+msgstr "Mains Switch 1BL"
+
+msgid "Выкл.ввода магистрали 1BM"
+msgstr "Mains Switch 1BM"
+
+msgid "Выкл.ввода магистрали 1BN"
+msgstr "Mains Switch 1BN"
+
+msgid "Выкл.ввода магистрали 1BP"
+msgstr "Mains Switch 1BP"
+
+msgid "Выкл.ввода раб.питания 6 кВ"
+msgstr "Main Switch 6 kV"
+
+msgid "Выкл.ввода раб.питания 6 кв"
+msgstr "Main Switch 6 kV"
+
+msgid "Выкл.ввода рабочего питания 6 кВ"
+msgstr "Main Switch 6 kV"
+
+msgid "Выкл.ввода рабочего питания 6 кв"
+msgstr "Main Switch 6 kV"
+
+msgid "Выкл.ввода рабочего питания 6 кв секция BD"
+msgstr "Main Switch 6 kV Section BD"
+
+msgid "Выкл.ввода рез.питания 6 кВ"
+msgstr "Main Switch 6 kV"
+
+msgid "Выкл.ввода резервного питания 6 кВ"
+msgstr "Main Switch 6 kV"
+
+msgid "Выкл.ввода резервного питания 6 кв"
+msgstr "Main Switch 6 kV"
+
+msgid "Выкл.ввода резервного питания 6 кв секция BD"
+msgstr "Main Switch 6 kV Section BD"
+
+msgid "Выкл.нагрузки КAГ-24"
+msgstr "KAG-24 Load Switch"
+
+msgid "Выкл.нагрузки КАГ-24"
+msgstr "KAG-24 Load Switch"
+
+msgid "Выкл.секции BV02 дизель-генератора"
+msgstr "Switch of Diesel-Generator Section BV02"
+
+msgid "Выкл.секции BW02 дизель-генератора"
+msgstr "Switch of Diesel-Generator Section BW02"
+
+msgid "Выкл.секции BX02 дизель-генератора"
+msgstr "Switch of Diesel-Generator Section BX02"
+
+msgid "Выкл.секции надеж.питания"
+msgstr "Reliable Power Section Switch"
+
+msgid "Выкл.секции надежного питания"
+msgstr "Reliable Power Section Switch"
+
+msgid "Выключатель дизель-генератора"
+msgstr "Switch of Diesel-Generator"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "Г"
+msgstr "G"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgid "ГА 504"
+msgstr "GA 504"
+
+msgid "ГЛ.ПPEД.KЛAПAH ИПУ KД YP22S01"
+msgstr "MAIN POSV of PRESSURIZER YP22S01"
+
+msgid "ГЛ.ПPEД.KЛAПAH ИПУ KД YP23S01"
+msgstr "MAIN POSV of PRESSURIZER YP23S01"
+
+msgid "ГЛ.ПPEД.KЛAПAH.ИПУ KД YP21S01"
+msgstr "MAIN POSV of PRESSURIZER YP21S01"
+
+msgid "ГЛ.ПPEДOXPAHИT.KЛAПAH ИПУ KД"
+msgstr "Main POSV of Pressurizer"
+
+msgid "ГЛABHЫЙ ЦИPKУЛЯЦИOH.HACOC N1"
+msgstr "MAIN CIRCULATION PUMP #1"
+
+msgid "ГЛABHЫЙ ЦИPKУЛЯЦИOH.HACOC N2"
+msgstr "MAIN CIRCULATION PUMP #2"
+
+msgid "ГЛABHЫЙ ЦИPKУЛЯЦИOH.HACOC N3"
+msgstr "MAIN CIRCULATION PUMP #3"
+
+msgid "ГЛABHЫЙ ЦИPKУЛЯЦИOH.HACOC N4"
+msgstr "MAIN CIRCULATION PUMP #4"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ГН1"
+msgstr "GN1"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "ГО"
+msgstr "Cont."
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "ГП4"
+msgstr "GP4"
+
+#: za/fME:1
+msgid "ГПЧ22 /10м"
+msgstr "SFD-22/10M"
+
+#: za/fME:1
+msgid "ГПЧ22 /40м"
+msgstr "SFD-22/40M"
+
+#: z/fMES:1
+msgid "ГТ-1"
+msgstr "TB-1"
+
+#: z/fMES:1
+msgid "ГТ-2"
+msgstr "TB-2"
+
+#: z/fMES:1
+msgid "ГТ-3"
+msgstr "TB-3"
+
+#: z/fMES:1
+msgid "ГТ-4"
+msgstr "TB-5"
+
+#: z/fMES:1
+msgid "ГТ-5"
+msgstr "TB-5"
+
+#: z/fMES:1
+msgid "ГТ-6"
+msgstr "TB-6"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "ГЦН"
+msgstr "MCP"
+
+#: z2/fKD:1 z2/fPG_ShD:1 z2/fdT_TVS:1 z3/fKD:1 z3/fPG_ShD:1 z3/fdT_TVS:1
+#: z4/fKD:1 z4/fPG_ShD:1 z4/fdT_TVS:1
+msgid "ГЦН-1"
+msgstr "MCP-1"
+
+#: z2/fKD:1 z2/fPG_ShD:1 z2/fdT_TVS:1 z3/fKD:1 z3/fPG_ShD:1 z3/fdT_TVS:1
+#: z4/fKD:1 z4/fPG_ShD:1 z4/fdT_TVS:1
+msgid "ГЦН-2"
+msgstr "MCP-2"
+
+#: z2/fKD:1 z2/fPG_ShD:1 z2/fdT_TVS:1 z3/fKD:1 z3/fPG_ShD:1 z3/fdT_TVS:1
+#: z4/fKD:1 z4/fPG_ShD:1 z4/fdT_TVS:1
+msgid "ГЦН-3"
+msgstr "MCP-3"
+
+#: z2/fKD:1 z2/fPG_ShD:1 z2/fdT_TVS:1 z3/fKD:1 z3/fPG_ShD:1 z3/fdT_TVS:1
+#: z4/fKD:1 z4/fPG_ShD:1 z4/fdT_TVS:1
+msgid "ГЦН-4"
+msgstr "MCP-4"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Гермооболочка"
+msgstr "Containment"
+
+msgid "Гидроиспытания на плотность"
+msgstr "hydraulic test on density"
+
+msgid "Гл.предохран.клапан ИПУ КД"
+msgstr "Main POSV of Pressurizer"
+
+msgid "Гл.предохранит.клапан ИПУ КД"
+msgstr "Main POSV of Pressurizer"
+
+msgid "Глав.предохран.клапан ИПУ КД"
+msgstr "Main POSV of Pressurizer"
+
+#: z/fMES:1
+msgid "Главная схема электрических соединений"
+msgstr "Main Connection Layout"
+
+msgid "Главный предохранит.клапан ПГ1"
+msgstr "Main Safety Valve of SG1"
+
+msgid "Главный предохранит.клапан ПГ2"
+msgstr "Main Safety Valve of SG2"
+
+msgid "Главный предохранит.клапан ПГ3"
+msgstr "Main Safety Valve of SG3"
+
+msgid "Главный предохранит.клапан ПГ4"
+msgstr "Main Safety Valve of SG4"
+
+msgid "Главный предохранительный клапан ИПУ КД"
+msgstr "Main POSV of Pressurizer"
+
+msgid "Главный предохранительный клапан ИПУ ПГ1"
+msgstr "Main POSV of SG1"
+
+msgid "Главный предохранительный клапан ИПУ ПГ2"
+msgstr "Main POSV of SG2"
+
+msgid "Главный предохранительный клапан ИПУ ПГ3"
+msgstr "Main POSV of SG3"
+
+msgid "Главный предохранительный клапан ИПУ ПГ4"
+msgstr "Main POSV of SG4"
+
+msgid "Главный предохранительный клапан ПГ2"
+msgstr "Main Safety Valve of SG2"
+
+msgid "Главный предохранительный клапан ПГ3"
+msgstr "Main Safety Valve of SG3"
+
+msgid "Главный предохранительный клапан ПГ4"
+msgstr "Main Safety Valve of SG4"
+
+msgid "Главный цирк.насос N1"
+msgstr "Main Circulation Pump #1"
+
+msgid "Главный цирк.насос N2"
+msgstr "Main Circulation Pump  #2"
+
+msgid "Главный цирк.насос N3"
+msgstr "Main Circulation Pump  #3"
+
+msgid "Главный цирк.насос N4"
+msgstr "Main Circulation Pump #4"
+
+msgid "Главный циркуляцион.насос N1"
+msgstr "Main Circulation Pump #1"
+
+msgid "Главный циркуляцион.насос N2"
+msgstr "Main Circulation Pump #2"
+
+msgid "Главный циркуляцион.насос N3"
+msgstr "Main Circulation Pump #3"
+
+msgid "Главный циркуляцион.насос N4"
+msgstr "Main Circulation Pump #4"
+
+msgid "Главный циркуляционный насос N1"
+msgstr "Main Circulation Pump #1"
+
+msgid "Главный циркуляционный насос N2"
+msgstr "Main Circulation Pump #2"
+
+msgid "Главный циркуляционный насос N3"
+msgstr "Main Circulation Pump #3"
+
+msgid "Главный циркуляционный насос N4"
+msgstr "Main Circulation Pump #4"
+
+msgid "Горячий останов"
+msgstr "Нot shutdown"
+
+msgid "Групповые сигналы по фрагм."
+msgstr "Group signals for screens"
+
+msgid "Гц"
+msgstr "Hz"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ДГ-1"
+msgstr "DG-1"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ДГ-2"
+msgstr "DG-2"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ДГ-3"
+msgstr "DG-3"
+
+msgid "ДИЗEЛЬ-ГEHEPATOP"
+msgstr "DIESEL-GENERATOR"
+
+msgid "ДП"
+msgstr "DP"
+
+msgid "ДР"
+msgstr "DR"
+
+msgid "Да"
+msgstr "Yes"
+
+msgid "Давление в КД"
+msgstr "Pressure in Pressurizer"
+
+msgid "Давление в КД ШД"
+msgstr "Pressure in PZR WR"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Давление в гидроемкости САОЗ"
+msgstr "HA ECCS pressure"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Давление над активной зоной"
+msgstr "Above-core pressure"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Давление свежего пара в ПГ"
+msgstr "Fresh steam pressure"
+
+#: zrd/fMAWS:1
+msgid "Давление, гПа"
+msgstr "Pressure, hPa"
+
+msgid "Дальность видимости"
+msgstr "Range of visibility"
+
+msgid "Дальность видимости (средняя за час)"
+msgstr "Range of visibility (average per hour)"
+
+#: zrd/fMAWS:1
+msgid "Дальность видимости, м"
+msgstr "Visibility range, m"
+
+msgid "Данных еще не поступало или получены недопустимые данные"
+msgstr "No data has yet been received or received invalid data"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "Диаграмма давления в КД"
+msgstr "Pressurizer pressure diagram"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "Дизель генераторы"
+msgstr "Diesel Generators"
+
+msgid "Дизель-генератор"
+msgstr "Diesel Generator"
+
+msgid "Дизель-генератор 1с.б."
+msgstr "Diesel Generator 1SS"
+
+msgid "Дизель-генератор 2с.б."
+msgstr "Diesel Generator 2SS"
+
+msgid "Дизель-генератор 3с.б."
+msgstr "Diesel Generator 3SS"
+
+msgid "Дискрет.АЗ-ПЗ 1комп"
+msgstr "Discrete EP-AS Compl. 1"
+
+msgid "Дискрет.АЗ-ПЗ 2комп"
+msgstr "Discrete EP-AS Compl. 2"
+
+msgid "Дискрет.АРМ-РОМ-УПЗ 1к"
+msgstr "Discrete AWS-PLR-APP 1 set"
+
+msgid "Дискрет.АРМ-РОМ-УПЗ 2к"
+msgstr "Discrete AWS-PLR-APP 2 set"
+
+msgid "Дискрет.АРМ-РОМ-УПЗ 3к"
+msgstr "Discrete AWS-PLR-APP 1 set"
+
+msgid "Дискретные  СППБ"
+msgstr "Discrete SPDS"
+
+msgid "Дискретные АЗ-ПЗ 1 комп"
+msgstr "Discrete EP-AS Compl. 1"
+
+msgid "Дискретные АЗ-ПЗ 2 комп"
+msgstr "Discrete EP-AS Compl. 2"
+
+msgid "Дискретные АРМ-РОМ-УПЗ 1 комп"
+msgstr "Discrete AWS-PLR-APP 1 set"
+
+msgid "Дискретные АРМ-РОМ-УПЗ 2 комп"
+msgstr "Discrete AWS-PLR-APP 2 set"
+
+msgid "Дискретные АРМ-РОМ-УПЗ 3 комп"
+msgstr "Discrete AWS-PLR-APP 3 set"
+
+msgid "Дискретные ВУ (МСКУ4)"
+msgstr "Discrete UL (MSKU-4)"
+
+msgid "Дискретные ВУ МСКУ504"
+msgstr "Discrete UL MSKU504"
+
+msgid "Дискретные ВУ МСКУ505"
+msgstr "Discrete UL MSKU505"
+
+msgid "Дискретные ВУ МСКУ506"
+msgstr "Discrete UL MSKU506"
+
+msgid "Дискретные ВУ ССО801(МСКУ4)"
+msgstr "Discrete UL SSO801(MSKU4)"
+
+msgid "Дискретные ВУ ССО802(МСКУ4)"
+msgstr "Discrete UL SSO802(MSKU4)"
+
+msgid "Дискретные ВУ ССО803(МСКУ4)"
+msgstr "Discrete UL SSO803(MSKU4)"
+
+msgid "Дискретные ВУ ССО804(МСКУ4)"
+msgstr "Discrete UL SSO804(MSKU4)"
+
+msgid "Дискретные СНЭ РО"
+msgstr "Discrete RC NOS"
+
+msgid "Дискретные СНЭ ТО"
+msgstr "Discrete TH NOS"
+
+msgid "Дискретные СППБ"
+msgstr "Discrete SPDS"
+
+msgid "Дискретные УСБ1"
+msgstr "Descrete CSS1"
+
+msgid "Дискретные УСБ2"
+msgstr "Descrete CSS2"
+
+msgid "Дискретные УСБ3"
+msgstr "Descrete CSS3"
+
+msgid "Дискретные от ССО107(М64)"
+msgstr "Discrete SSO107(M64)"
+
+msgid "Дискретные от ССО110(М64)"
+msgstr "Discrete SSO110(M64)"
+
+msgid "Дискретные от ССО201(М64)"
+msgstr "Discrete SSO201(M64)"
+
+msgid "Дискретные от ССО202(М64)"
+msgstr "Discrete SSO202(M64)"
+
+msgid "Дискретные от ССО204(М64)"
+msgstr "Discrete SSO204(M64)"
+
+msgid "Дискретные от ССО206(М64)"
+msgstr "Discrete SSO206(M64)"
+
+msgid "Дискретные от ССО207(М64)"
+msgstr "Discrete SSO207(M64)"
+
+msgid "Дискретные от ССО208(М64)"
+msgstr "Discrete SSO208(M64)"
+
+msgid "Дискретные от ССО209(М64)"
+msgstr "Discrete SSO209(M64)"
+
+msgid "Дискретные от ССО211(М64)"
+msgstr "Discrete SSO211(M64)"
+
+msgid "Дискретные от ССО212(М64)"
+msgstr "Discrete SSO212(M64)"
+
+msgid "Дискретные от ССО213(М64)"
+msgstr "Discrete SSO213(M64)"
+
+msgid "Дискретные от ССО214(М64)"
+msgstr "Discrete SSO214(M64)"
+
+msgid "Дискретные от ССО301(М64)"
+msgstr "Discrete SSO301(M64)"
+
+msgid "Дискретные от ССО301(УЛУ2)"
+msgstr "Discrete SSO301(ULU2)"
+
+msgid "Дискретные от ССО302(М64)"
+msgstr "Discrete SSO302(MSKU4)"
+
+msgid "Дискретные от ССО302(УЛУ2)"
+msgstr "Discrete SSO302(ULU2)"
+
+msgid "Дискретные от ССО303(М64)"
+msgstr "Discrete SSO303(MSKU4)"
+
+msgid "Дискретные от ССО303(УЛУ2)"
+msgstr "Discrete SSO303(ULU2)"
+
+msgid "Дискретные от ССО304(М64)"
+msgstr "Discrete SSO304(MSKU4)"
+
+msgid "Дискретные от ССО304(УЛУ2)"
+msgstr "Discrete SSO304(ULU2)"
+
+msgid "Дискретные от ССО305(М64)"
+msgstr "Discrete SSO305(MSKU4)"
+
+msgid "Дискретные от ССО305(УЛУ2)"
+msgstr "Discrete SSO305(ULU2)"
+
+msgid "Дискретные от ССО306(УЛУ2)"
+msgstr "Discrete SSO306(ULU2)"
+
+msgid "Дискретные от ССО307(УЛУ2)"
+msgstr "Discrete SSO307(ULU2)"
+
+msgid "Дискретные от ССО401(МСКУ2)"
+msgstr "Discrete SSO401(MSKU2)"
+
+msgid "Дискретные от ССО402(МСКУ2)"
+msgstr "Discrete SSO402(MSKU2)"
+
+msgid "Дискретные от ССО403(МСКУ2)"
+msgstr "Discrete SSO403(MSKU2)"
+
+msgid "Дискретные от ССО504(М64)"
+msgstr "Discrete SSO504(M64)"
+
+msgid "Дискретные от ССО509(М64)"
+msgstr "Discrete SSO509(M64)"
+
+msgid "Дискретные от ССО511(М64)"
+msgstr "Discrete SSO511(M64)"
+
+msgid "Дискретные от ССО512(М64)"
+msgstr "Discrete SSO512(M64)"
+
+msgid "Дискретные от ССО602(УЛУ2)"
+msgstr "Discrete SSO602(ULU2)"
+
+msgid "Дискретные от ССО603(М64)"
+msgstr "Discrete SSO603(M64)"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Дост. средневзвешенная мощность"
+msgstr "Reliab. weighted average power"
+
+msgid "Достоверный уровень в КД"
+msgstr "Reliable level in Pressurizer"
+
+msgid "Достоверный уровень в ПГ1 (ШД)"
+msgstr "Reliable level in SG1"
+
+msgid "Достоверный уровень в ПГ2 (ШД)"
+msgstr "Reliable level in SG1"
+
+msgid "Достоверный уровень в ПГ3 (ШД)"
+msgstr "Reliable level in SG3"
+
+msgid "Достоверный уровень в ПГ4 (ШД)"
+msgstr "Reliable level in SG4"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Другие"
+msgstr "Other"
+
+msgid "Другие активности (стат)"
+msgstr "Other activity (stat.)"
+
+msgid "Задв.впрыск.воды в комп.давлен"
+msgstr "Pressurizer Auxiliary Spray Walve"
+
+msgid "Задв.впрыска воды в КД"
+msgstr "Pressurizer Auxiliary Spray Walve"
+
+msgid "Задв.забора конт.воды на расх."
+msgstr "Valve of circuit water intake for cooldown"
+
+msgid "Задв.забора контурной воды на расхолаживание"
+msgstr "Valve of circuit water intake for cooldown"
+
+msgid "Задв.забора.конт.воды на расх."
+msgstr "Valve of circuit water intake for cooldown"
+
+msgid "Задв.на впрыске воды в  комп.давлен"
+msgstr "Pressurizer Auxiliary Spray Walve"
+
+msgid "Задв.на всасе насоса TQ13D01"
+msgstr "Valve at TQ33D01 Pump зад"
+
+msgid "Задв.на всасе насоса TQ23D01"
+msgstr "Valve at TQ23D01 Pump suction"
+
+msgid "Задв.на всасе насоса TQ33D01"
+msgstr "Valve at TQ33D01 Pump suction"
+
+msgid "Задв.на напоре насоса TQ13D01"
+msgstr "Valve at TQ13D01 Pump discharge"
+
+msgid "Задв.на напоре насоса TQ22D01"
+msgstr "Valve at TQ22D01 Pump discharge"
+
+msgid "Задв.на напоре насоса TQ23D01"
+msgstr "Valve at TQ23D01 Pump discharge"
+
+msgid "Задв.на напоре насоса TQ32D01"
+msgstr "Valve at TQ32D01 Pump discharge"
+
+msgid "Задв.на напоре насоса TQ33D01"
+msgstr "Valve at TQ33D01 Pump discharge"
+
+msgid "Задв.на напоре насоса аварийного расхолаживания"
+msgstr "Valve at Emergency Cooling Down Pump discharge"
+
+msgid "Задв.на перемеш.бора в TQ12B01"
+msgstr "Valve at boron agitation in TQ12B01"
+
+msgid "Задв.на перемеш.бора в TQ22B01"
+msgstr "Valve at boron agitation in TQ22B01"
+
+msgid "Задв.на перемешивании бора в TQ32B01"
+msgstr "Valve at boron agitation in TQ32B01"
+
+msgid "Задв.на подаче воды в горячую нитку"
+msgstr "Valve at water supply to hot leg"
+
+msgid "Задв.на подаче воды в холодную нитку"
+msgstr "Valve at water supply to cold leg"
+
+msgid "Задв.напоре насоса авар.расхол"
+msgstr "Valve at Emergency Cooling Down Pump discharge"
+
+msgid "Задв.от бака авар.запаса бора"
+msgstr "Valve at Boron Emergency Reserve Tank"
+
+msgid "Задв.от бака аварийного запаса бора"
+msgstr "Valve at Boron Emergency Reserve Tank"
+
+msgid "Задв.подачи воды  в гор.нитку"
+msgstr "Valve at water supply to hot leg"
+
+msgid "Задв.подачи воды  в хол.нитку"
+msgstr "Valve of water supply to cold leg"
+
+msgid "Задв.подачи воды в гор.нитку"
+msgstr "Valve of water supply to hot leg"
+
+msgid "Задв.подачи воды в хол.нитку"
+msgstr "Valve of water supply to cold leg"
+
+msgid "Задв.рецирк.насоса TQ13D01"
+msgstr "Valve of Recirculation Pump TQ13D01"
+
+msgid "Задв.рецирк.насоса TQ14+C71D01"
+msgstr "Valve of Recirculation Pump TQ14+C71D01"
+
+msgid "Задв.рецирк.насоса TQ14D01"
+msgstr "Valve of Recirculation Pump TQ14D01"
+
+msgid "Задв.рецирк.насоса TQ23D01"
+msgstr "Valve of Recirculation Pump TQ23D01"
+
+msgid "Задв.рецирк.насоса TQ33D01"
+msgstr "Valve of Recirculation Pump TQ33D01"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Закр.СК ТГ"
+msgstr "Clos. SG SV"
+
+msgid "Закрыт"
+msgstr "Closed"
+
+msgid "Зв/ч"
+msgstr "Sv/h"
+
+msgid "ИMПУЛЬCHЫЙ KЛAП.ИПУ KД YP21S03"
+msgstr "PULS POSV OF PRESSURIZER YP21S03"
+
+msgid "ИMПУЛЬCHЫЙ KЛAП.ИПУ KД YP21S04"
+msgstr "PULS POSV OF PRESSURIZER YP21S04"
+
+msgid "ИMПУЛЬCHЫЙ KЛAП.ИПУ KД YP22S03"
+msgstr "PULS POSV OF PRESSURIZER YP22S03"
+
+msgid "ИMПУЛЬCHЫЙ KЛAП.ИПУ KД YP22S04"
+msgstr "PULS POSV OF PRESSURIZER YP22S04"
+
+msgid "ИMПУЛЬCHЫЙ KЛAП.ИПУ KД YP23S03"
+msgstr "PULS POSV OF PRESSURIZER YP22S03"
+
+msgid "ИMПУЛЬCHЫЙ KЛAП.ИПУ KД YP23S04"
+msgstr "PULS POSV OF PRESSURIZER YP23S04"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "ИПК КД"
+msgstr "Pressurizer PV"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "ИПКПГ-1"
+msgstr "PVSG-1"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "ИПКПГ-2"
+msgstr "PVSG-2"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "ИПКПГ-3"
+msgstr "PVSG-3"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "ИПКПГ-4"
+msgstr "PVSG-4"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgctxt "radiation_parameter"
+msgid "ИРГ сут"
+msgstr "IRG day"
+
+#: zrt/f30km2:1
+msgid "Ивановка"
+msgstr "Ivanovka"
+
+msgid "Импульсный клап.ИПУ КД YP21S03"
+msgstr "Pulse POSV of Presurizer YP21S03"
+
+msgid "Импульсный клап.ИПУ КД YP21S04"
+msgstr "Pulse POSV of Presurizer YP21S04"
+
+msgid "Импульсный клап.ИПУ КД YP22S03"
+msgstr "Pulse POSV of Presurizer YP22S03"
+
+msgid "Импульсный клап.ИПУ КД YP22S04"
+msgstr "Pulse POSV of Presurizer YP22S04"
+
+msgid "Импульсный клап.ИПУ КД YP23S03"
+msgstr "Pulse POSV of Presurizer YP23S03"
+
+msgid "Импульсный клап.ИПУ КД YP23S04"
+msgstr "Pulse POSV of Presurizer YP23S04"
+
+msgid "Импульсный клапан YP21S03"
+msgstr "Pulse valve YP21S03"
+
+msgid "Импульсный клапан YP21S04"
+msgstr "Pulse valve YP21S04"
+
+msgid "Импульсный клапан YP22S03"
+msgstr "Pulse valve YP22S03"
+
+msgid "Импульсный клапан YP22S04"
+msgstr "Pulse valve YP22S04"
+
+msgid "Импульсный клапан ИПУ KД"
+msgstr "Pulse POSV of Presurizer"
+
+msgid "Импульсный клапан ИПУ КД"
+msgstr "Pulse POSV of Presurizer"
+
+msgid "Интенсивность осадков"
+msgstr "Precipitation rate"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "КД"
+msgstr "PRZ"
+
+msgid "КОЛИЧЕСТВО ОСАДКОВ ПК-11 ООС"
+msgstr "AMOUNT OF PRECIPITATIONS OP11 EP"
+
+msgid "КОЛЬЦО"
+msgstr "RING"
+
+#: zrt/f30km2:1
+msgid "Каменка-Днепровская"
+msgstr "Kamenka-Dneprovskaya"
+
+msgid "Ки"
+msgstr "Ci"
+
+msgid "Ки/л"
+msgstr "Ci/l"
+
+#: zrt/f30km2:1
+msgid "Количество осадков"
+msgstr "Precipitation amount"
+
+#: za/fME:1
+msgid "Количество осадков, (мм)"
+msgstr "Precipitation, (mm)"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Концентрация бора в гидроем. САОЗ"
+msgstr "HA ECCS boron concentration"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Координата"
+msgstr "Coordinate"
+
+#: z/fMES:1
+msgid "Л-ДН/1"
+msgstr "L-DN/1"
+
+#: z/fMES:1
+msgid "Л-ДН/2"
+msgstr "L-DN/2"
+
+#: z/fMES:1
+msgid "Л-ЗП/1"
+msgstr "L-ZP/1"
+
+#: z/fMES:1
+msgid "Л-ЗП/2"
+msgstr "L-ZP/2"
+
+#: z/fMES:1
+msgid "Л-ЮД/1"
+msgstr "L-UD/1"
+
+#: z/fMES:1
+msgid "Л-ЮД/2"
+msgstr "L-UD/2"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "Лок. по пит.воде"
+msgstr "Lockcaliz.acc.FW"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Локализация"
+msgstr "Localization"
+
+msgid "Локализация ГО"
+msgstr "Cont. localization"
+
+msgid "Луч DTs 1к и DTs 1-2к (ШД)"
+msgstr "Ray DTs 1к и DTs 1-2к (WR)"
+
+msgid "Луч dTs 1к и dTs 1-2к (ШД)"
+msgstr "Ray dTs 1к и DTs 1-2к (WR)"
+
+msgid "Луч Давление в КД (ШД)"
+msgstr "Ray Pressure in PZR (WD)"
+
+msgid "Луч Давление в ПГ (ШД)"
+msgstr "Ray Pressure in SG (WD)"
+
+msgid "Луч Нейтронные парам (ШД)"
+msgstr "Ray Neutron param. (WD)"
+
+msgid "Луч Параметры ГО (ШД)"
+msgstr "Ray Cont. parameters (WD)"
+
+msgid "Луч Радиоактивность (ШД)"
+msgstr "Ray Radioactivity (WD)"
+
+msgid "Луч Т max на вых. ТВС (ШД)"
+msgstr "Ray T max at FA outlet (WD)"
+
+msgid "Луч Т под крышкой реакт (ШД)"
+msgstr "Ray T under reactor vessel lid (WD)"
+
+msgid "Луч Уровень в КД (ШД)"
+msgstr "Ray Level in PZR (WD)"
+
+msgid "Луч Уровень в ПГ (ШД)"
+msgstr "Ray Level in SG (WD)"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "МАХ TBC"
+msgstr "MAX FA"
+
+msgid "МВ·А"
+msgstr "MVA"
+
+#: z/fMES:1
+msgid "МВА"
+msgstr "MVA"
+
+#: z/fMES:1
+msgid "МВар"
+msgstr "MVAr"
+
+msgid "МВт"
+msgstr "MW"
+
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "МГ ГА701 ШР (Мощность дозы в БВ)"
+msgstr "EDR GA701 RP (EDR in SFP)"
+
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "МГ ГА701 ШР (Мощность дозы в контайнм.)"
+msgstr "EDR GA701 RP (EDR in containment)"
+
+msgid "МГ ПК1 С.МИЧУРИНО"
+msgstr "EDR OP1 Michurino"
+
+msgid "МГ ПК1 С.МИЧУРИНО(ГД)"
+msgstr "EDR OP1 Michurino (ASPIR. SYST.)"
+
+msgid "МГ ПК11 ООС"
+msgstr "EDR OP11 EP"
+
+msgid "МГ ПК12 ЛВРК"
+msgstr "EDR OP12 ORML"
+
+msgid "МГ ПК12 ЛВРК( ГАЗОД.)"
+msgstr "EDR OP12 ORML (ASPIR. SYST.)"
+
+msgid "МГ ПК13 Г.НИКОПОЛЬ"
+msgstr "EDR OP12 NIKOPOL"
+
+msgid "МГ ПК13 Г.НИКОПОЛЬ(ГД)"
+msgstr "EDR OP12 NIKOPOL (ASPIR. SYST.)"
+
+msgid "МГ ПК14 Г.МАРГАНЕЦ"
+msgstr "EDR OP12 MARGANETS"
+
+msgid "МГ ПК14 Г.МАРГАНЕЦ(ГД)"
+msgstr "EDR OP14 MARGANETS (ASPIR. SYST.)"
+
+msgid "МГ ПК17 ГРАДИРНИ АЭС(КРЫША НС)"
+msgstr "EDR OP17 NPP Cooling Towers"
+
+msgid "МГ ПК2 С.ВОДЯНОЕ"
+msgstr "EDR OP2 VODYANOYE"
+
+msgid "МГ ПК2 С.ВОДЯНОЕ(ГД)"
+msgstr "EDR OP2 VODYANOYE (ASPIR. SYST.)"
+
+msgid "МГ ПК20 ГПЧ-22"
+msgstr "EDR OP20 SFD-22"
+
+msgid "МГ ПК3 Г.К-ДНЕПРОВСКАЯ"
+msgstr "EDR OP3 K-DNEPROVSKAYA"
+
+msgid "МГ ПК3 Г.К-ДНЕПРОВСКАЯ(ГД)"
+msgstr "EDR OP3 K-DNEPROVSKAYA (ASPIR. SYST.)"
+
+msgid "МГ ПК4 С.ЗНАМЕНКА"
+msgstr "EDR OP4 ZNAMENKA"
+
+msgid "МГ ПК4 С.ЗНАМЕНКА(ГД)"
+msgstr "EDR OP3 ZNAMENKA (ASPIR. SYST.)"
+
+msgid "МГ ПК6 С.Н-ВОДЯНОЕ"
+msgstr "EDR OP6 N-VODYANOYE"
+
+msgid "МГ ПК6 С.Н-ВОДЯНОЕ(ГД)"
+msgstr "EDR OP6 N-VODYANOYE (ASPIR. SYST.)"
+
+msgid "МГ ПК7 С.ИВАНОВКА"
+msgstr "EDR OP7 IVANOVKA"
+
+msgid "МГ ПК7 С.ИВАНОВКА(ГД)"
+msgstr "EDR OP7 IVANOVKA (ASPIR. SYST.)"
+
+msgid "МГ ПК8 ПРОФИЛАКТОРИЙ ТЭС"
+msgstr "EDR OP7 PP PREVENTORIUM"
+
+msgid "МГ ПК8 ПРОФИЛАКТОРИЙ ТЭС(ГД)"
+msgstr "EDR OP7 PP PREVENTORIUM (ASPIR. SYST.)"
+
+msgid "МГ ПК9 П/СТ. ЛУЧ"
+msgstr "EDR OP9 S/S \"LUCH\""
+
+msgid "МГ ПК9 П/СТ. ЛУЧ(ГД)"
+msgstr "EDR OP9 S/S \"LUCH\" (ASPIR. SYST.)"
+
+msgid "МЭД ТПК (II)"
+msgstr "EDR of coolant (II)"
+
+msgid "МЭД ТПК (III)"
+msgstr "EDR of coolant (III)"
+
+msgid "МЭД в ГА-701 (II)"
+msgstr "EDR in GA-701 (II)"
+
+msgid "МЭД в ГА504/1"
+msgstr "EDR in GA504/1"
+
+msgid "МЭД в ГА504/2"
+msgstr "EDR in GA504/2"
+
+msgid "МЭД в ГА504/3"
+msgstr "EDR in GA504/3"
+
+msgid "МЭД в ГА504/4"
+msgstr "EDR in GA504/4"
+
+msgid "МЭД в ГА701"
+msgstr "EDR in GA701"
+
+msgid "МЭД в ГА701 (I)"
+msgstr "EDR in GA701 (I)"
+
+msgid "МЭД на кровле ТО"
+msgstr "EDR at TB roof"
+
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "МЭД на северном углу крыши маш. зала"
+msgstr "EDR North roof corner, TB roofing"
+
+msgid "МЭД острого пара в ПГ-1 (II)"
+msgstr "EDR main steam in SG-1 (II)"
+
+msgid "МЭД острого пара в ПГ-2 (II)"
+msgstr "EDR main steam in SG-2 (II)"
+
+msgid "МЭД острого пара в ПГ-3 (II)"
+msgstr "EDR main steam in SG-3 (II)"
+
+msgid "МЭД острого пара в ПГ-4 (II)"
+msgstr "EDR main steam in SG-4 (II)"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "МЭД от трубопровода острого пара после ПГ"
+msgstr "EDR main steam pipeline after SG"
+
+msgid "МЭД от филт. БОУ"
+msgstr "EDR at CPS filters"
+
+#: zrt/fParBGSVX_z1:1
+msgid "МЭД под ГО.ГА701 (Мощн.дозы в конт.(ШР))"
+msgstr "EDR containment GA701 (RC EDR)"
+
+#: zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "МЭД под ГО.ГА701(Мощн.дозы в конт.(ШР)"
+msgstr "EDR containment GA701 (RC EDR)"
+
+#: zrt/fParBGSVX_z1:1
+msgid "МЭД пол ГО.ГА701 (Мощн.дозы в БВ)"
+msgstr "EDR containment GA701 (SFP EDR)"
+
+msgid "МЭД после ПСВ (I)"
+msgstr "EDR after ISR (I)"
+
+#: zrt/fParBGSVX_z1:1
+msgid "МЭД север. угол крыши, кровля ТО"
+msgstr "EDR North roof corner, TB roofing"
+
+#: zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "МЭД север. угол крыши. Кровля ТО"
+msgstr "EDR North roof corner, TB roofing"
+
+#: zrt/fParBGSVX_z1:1
+msgid "МЭД теплоносителя 1 конт А328"
+msgstr "EDR primary coolant А328"
+
+#: zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "МЭД теплоносителя 1 конт.А328"
+msgstr "EDR primary coolant А328"
+
+msgid "МЭД у фильтров БОУ"
+msgstr "EDR at CPS filters"
+
+#: z/fMRP:1
+msgid "Магистрали резервного питания"
+msgstr "Reserve Supply Mains"
+
+msgid "Макс.T на выходе ТВС (по ТП)"
+msgstr "T max (acc. TC) at FA outlet"
+
+msgid "Максимальная Т вых. ТВС ШД"
+msgstr "Maximal T at FA outlet"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Максимальная температура на выходе кассет"
+msgstr "Maximal temperature at FA outlet"
+
+#: zrt/f30km2:1
+msgid "Марганец"
+msgstr "Marganets"
+
+msgid "Массив АСРТО-шкаф ШУ16"
+msgstr "Data array of THACS-cabinet CC16"
+
+msgid "Мвар"
+msgstr "MVAr"
+
+#: za/fME:1
+msgid "Метеорологические параметры"
+msgstr "Meteorological Parameters"
+
+msgid "Метеостанция"
+msgstr "Weather station"
+
+msgid "Мин. T на выходе ТВС (по ТП"
+msgstr "T min (acc. TC) at FA outlet "
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Минимальная температура на выходе кассет"
+msgstr "Minimal temperature at FA outlet"
+
+msgid "Мокрая перегрузка"
+msgstr "wet refuelling"
+
+#: zrt/f30km2:1
+msgid "Мониторинг 30км зоны"
+msgstr "30 km Zone Monitoring"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "Мощность активная генератора"
+msgstr "Generator active power"
+
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "Мощность дизель генераторов"
+msgstr "Diesel generators power"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "Мощность дизель-генераторов"
+msgstr "Diesel generators power"
+
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "Мощность дозы АК316 контроль 1 конт."
+msgstr "EDR AK316"
+
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "Мощность дозы в п/п свежего пара ПГ"
+msgstr "EDR main steam pipeline after SG"
+
+msgid "Мощность реактора по АКНП"
+msgstr "Reactor power acc. NFCE"
+
+msgid "НАГ"
+msgstr "LLS"
+
+msgid "НАПРАВЛ.ВЕТРА  ПК20 ГПЧ-22 10М"
+msgstr "WIND DIRECTION OP20 SFD-22 10M"
+
+msgid "НАПРАВЛ.ВЕТРА  ПК20 ГПЧ-22 40М"
+msgstr "WIND DIRECTION OP20 SFD-22 40M"
+
+msgid "НАПРАВЛЕНИЕ ВЕТРА ПК11 ООС"
+msgstr "WIND DIRECTION OP11 EP"
+
+msgid "НЕД"
+msgstr "UNC"
+
+msgid "НЕТ"
+msgstr "NO"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "НОМ"
+msgstr "NOM"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "НОМЕР"
+msgstr "NUMBER"
+
+msgid "НПИ"
+msgstr "LIS"
+
+msgid "НРГ"
+msgstr "LS"
+
+msgid "На МКУ"
+msgstr "On MKPL"
+
+msgid "На мощности с откл.генерат."
+msgstr "At power with switched off generat."
+
+msgid "На промежуточной мощности"
+msgstr "At intermediate power"
+
+msgid "На собственные нужды"
+msgstr "For auxiliaries"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "Нагреватели КД"
+msgstr "PZR heater"
+
+#: zrt/f30km2:1
+msgid "Напр. ветра, 10м"
+msgstr "Wind direct., 10 m"
+
+#: zrt/f30km2:1
+msgid "Напр. ветра, 40м"
+msgstr "Wind direct., 40 m"
+
+msgid "Направление ветра"
+msgstr "Wind direction"
+
+msgid "Направление ветра (максимальное за две минуты)"
+msgstr "Wind direction (maximum per two minutes)"
+
+msgid "Направление ветра (максимальное за десять минут)"
+msgstr "Wind direction (maximum per ten minutes)"
+
+msgid "Направление ветра (минимальное за две минуты)"
+msgstr "Wind direction (minimum per two minutes)"
+
+msgid "Направление ветра (минимальное за десять минут)"
+msgstr "Wind direction (minimum per ten minutes)"
+
+msgid "Направление ветра (среднее за десять минут)"
+msgstr "Wind direction (average per ten minutes)"
+
+msgid "Направление ветра (средняя за две минуты)"
+msgstr "Wind direction (average per two minutes)"
+
+#: za/fME:1
+msgid "Направление ветра, (°)"
+msgstr "Wind direction, (°)"
+
+#: zrd/fMAWS:1
+msgid "Направление, °"
+msgstr "Direction, °"
+
+#: zrt/fParBGSVX_z1:1
+msgid "Напряжение на шинах собственных нужд"
+msgstr "Auxiliary unit voltage bus"
+
+#: zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1 zrt/fParBGSVX_z5:1
+#: zrt/fParBGSVX_z6:1
+msgid "Напряжение на шинах собственных нужд 6кВ"
+msgstr "Auxiliary unit 6 kV bus voltage"
+
+msgid "Насос  авар ийного впрыска бора"
+msgstr "Pump  of emerg. boron spray"
+
+msgid "Насос  аварийного расхолаж."
+msgstr "Pump  of emergency coold."
+
+msgid "Насос  бора высокого давления"
+msgstr "Pump  of high pressure boron"
+
+msgid "Насос  техводы"
+msgstr "Pump  of service water"
+
+msgid "Насос ВПЭН-1"
+msgstr "AFEP-1 pump"
+
+msgid "Насос ВПЭН-2"
+msgstr "AFEP-2 pump"
+
+msgid "Насос аварийного впрыска бора"
+msgstr "Pump of emergency boron spray"
+
+msgid "Насос аварийного расхолаж."
+msgstr "Pump of emergency coold."
+
+msgid "Насос аварийного расхолаживания 1 контура"
+msgstr "Pump of emergency cooldown of primary circuit"
+
+msgid "Насос бора высок.давления"
+msgstr "Pump of high pressure"
+
+msgid "Насос бора высокого давления"
+msgstr "Pump of high pressure boron"
+
+msgid "Насос техводы"
+msgstr "Pump of service water"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Не все ОР упали"
+msgstr "Not all CR fell"
+
+msgid "Не все стержни упали"
+msgstr "Not all control rods fell"
+
+msgid "Не контролируется"
+msgstr "Silent State"
+
+msgid "Не определен"
+msgstr "Not determined"
+
+msgid "Недост."
+msgstr "Uncert."
+
+msgid "Недостоверность технологическая"
+msgstr "Process Uncertainty"
+
+msgid "Нейтронная мощность по АКНП ШД"
+msgstr "Neutron power acc. NFCE WR"
+
+msgid "Нет"
+msgstr "No"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Нет циркуляции"
+msgstr "No circulation"
+
+msgid "Нижний предел измерения"
+msgstr "Low Instrument State"
+
+msgid "Нижняя аварийная граница"
+msgstr "Low Low State"
+
+msgid "Нижняя регламентная граница"
+msgstr "Low State"
+
+#: zrt/f30km2:1
+msgid "Никополь"
+msgstr "Nikopol"
+
+msgid "Номер отобр парам Р в ПГ ШД"
+msgstr "Number displ. param. P in SG WR"
+
+msgid "Номер отобр парам уровня ПГ ШД"
+msgstr "Number displ. param. L in SG WR"
+
+msgid "Номинальный уровень в КД"
+msgstr "Nominal level in PZR"
+
+msgid "Норма"
+msgstr "Normal"
+
+#: zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "ОА ИРГ"
+msgstr "TA inert radioactive gas"
+
+#: zrt/fParBGSVX_z1:1
+msgid "ОА ИРГ в ВТ-1"
+msgstr "TA inert radioactive gas VS-1"
+
+#: zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "ОА аэрозолей"
+msgstr "TA aerosols"
+
+#: zrt/fParBGSVX_z1:1
+msgid "ОА аэрозолей в ВТ-1"
+msgstr "TA aerosols VS-1"
+
+msgid "ОА воды промконтура"
+msgstr "TA of circuit water"
+
+#: zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "ОА паров йода"
+msgstr "TA iodine vapour"
+
+#: zrt/fParBGSVX_z1:1
+msgid "ОА паров йода в ВТ-1"
+msgstr "TA iodine vapour VS-1"
+
+msgid "ОА сетевой воды (I)"
+msgstr "TA of feed water (I)"
+
+msgid "ОА тех.воды  группа ?А? (II)"
+msgstr "QA Service water, group А (II)"
+
+msgid "ОА тех.воды  группа ?А? (III)"
+msgstr "QA Service water, group А (III)"
+
+msgid "ОА тех.воды группа ?А? (I)"
+msgstr "QA Service water, group А (I)"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "ОА техводы системы VF"
+msgstr "TA VF system service water"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "ОР СУЗ"
+msgstr "CPS CR"
+
+#: z/fMRP:1
+msgid "ОРУ 150 кВ 3а ТЭС"
+msgstr "SWYD 150 kV ZaPP"
+
+#: z/fMRP:1
+msgid "ОРУ 330 кВ 3а ТЭС"
+msgstr "SWYD 330 kV ZaPP"
+
+#: z/fMES:1
+msgid "ОРУ-150 кВ"
+msgstr "SWYD-150 kV"
+
+#: z/fMES:1
+msgid "ОРУ-330 кВ"
+msgstr "SWYD-330 kV"
+
+msgid "Обобщ. МЭД в ГА701 СБ2"
+msgstr "General EDR in GA701 SS2"
+
+msgid "Обобщ. ОА жидкости в линии VF40"
+msgstr "General TA of fluid in VF40 line"
+
+msgid "Обобщ. ОА жидкости в линии VF50"
+msgstr "General TA of fluid in VF50 line"
+
+msgid "Обобщ. ОА жидкости в линии VF60"
+msgstr "General TA of fluid in VF60 line"
+
+msgid "Обобщ.'H' в ТПК"
+msgstr "General H in coolant"
+
+msgid "Обобщ.МЭД ТПК (IIIСБ)"
+msgstr "General EDR of coolant (IIISS)"
+
+msgid "Обобщ.МЭД ТПК (IIСБ)"
+msgstr "General EDR of coolant (IISS)"
+
+msgid "Обобщ.МЭД острого пара в ПГ1"
+msgstr "General EDR of main steam in SG1"
+
+msgid "Обобщ.МЭД острого пара в ПГ2"
+msgstr "General EDR of main steam in SG2"
+
+msgid "Обобщ.МЭД острого пара в ПГ3"
+msgstr "General EDR of main steam in SG3"
+
+msgid "Обобщ.МЭД острого пара в ПГ4"
+msgstr "General EDR of main steam in SG4"
+
+msgid "Обобщ.ОА жидкости в линии VF40"
+msgstr "General TA of fluid in VF40 line"
+
+msgid "Обобщ.ОА жидкости в линии VF50"
+msgstr "General TA of fluid in VF50 line"
+
+msgid "Обобщ.ОА жидкости в линии VF60"
+msgstr "General TA of fluid in VF60 line"
+
+#: z/fOR00P1:1
+msgid "Обороты"
+msgstr "Rpm"
+
+#: z/fUM00P2:1
+msgid "Обратная вода"
+msgstr "Return water"
+
+msgid "Ом"
+msgstr "Ohm"
+
+#: zrd/fMAWS:1
+msgid "Осадки"
+msgstr "Precipitation"
+
+msgid "Отказ"
+msgstr "Fault"
+
+msgid "Отклонение в фрагменте GE01M"
+msgstr "Divergence in fragment GE01M"
+
+msgid "Отклонение в фрагменте АСП_СБ"
+msgstr "Divergence in fragment SSA_SS"
+
+msgid "Отклонение в фрагменте БАЛ_N"
+msgstr "Divergence in fragment BAL_N"
+
+msgid "Отклонение в фрагменте ГЕСАОЗ"
+msgstr "Divergence in fragment ECCS HA"
+
+msgid "Отклонение в фрагменте КФБ"
+msgstr "Divergence in CSF fragment"
+
+msgid "Отклонение в фрагменте КФБ_Г"
+msgstr "Divergence in fragment CSF_E"
+
+msgid "Отклонение в фрагменте КФБ_З"
+msgstr "Divergence in fragment CSF_C"
+
+msgid "Отклонение в фрагменте КФБ_П"
+msgstr "Divergence in fragment CSF_S"
+
+msgid "Отклонение в фрагменте КФБ_Р"
+msgstr "Divergence in fragment CSF_O"
+
+msgid "Отклонение в фрагменте КФБ_Т"
+msgstr "Divergence in fragment CSF_H"
+
+msgid "Отклонение в фрагменте КФБ_Ц"
+msgstr "Divergence in fragment CSF_I"
+
+msgid "Отклонение в фрагменте ПГ_ШД"
+msgstr "Divergence in fragment SG_WR"
+
+msgid "Отклонение в фрагменте ПД_УД"
+msgstr "Divergence in fragment FF_SR"
+
+msgid "Отклонение в фрагменте ПД_ХО"
+msgstr "Divergence in fragment FF_X0"
+
+msgid "Отклонение в фрагменте ПД_ШД"
+msgstr "Divergence in fragment FF_WR"
+
+msgid "Отклонение в фрагменте ПОТ_Э"
+msgstr "Divergence in fragment PHR"
+
+msgid "Отклонение в фрагменте Р-Р"
+msgstr "Divergence in fragment P-P"
+
+msgid "Отклонение в фрагменте Р-Т_ШД"
+msgstr "Divergence in fragment P-T_WR"
+
+msgid "Отклонение в фрагменте РО"
+msgstr "Divergence in fragment RC"
+
+msgid "Отклонение в фрагменте Т_ТВС"
+msgstr "Divergence in fragment T_FA"
+
+msgid "Отклонение в фрагменте ТК"
+msgstr "Divergence in fragment TM"
+
+msgid "Отклонение в фрагменте ТКФБ_З"
+msgstr "Divergence in fragment TCSF_C"
+
+msgid "Отклонение в фрагменте ТКФБ_П"
+msgstr "Divergence in fragment TCSF_P"
+
+msgid "Отклонение в фрагменте ТКФБ_Р"
+msgstr "Divergence in fragment TCSF_O"
+
+msgid "Отклонение в фрагменте ТКФБ_Ц"
+msgstr "Divergence in fragment TCSF_I"
+
+msgid "Отклонение в фрагменте ТО"
+msgstr "Divergence in fragment TH"
+
+msgid "Отключен"
+msgstr "Switched Off"
+
+msgid "Отключение ГЦН-1"
+msgstr "MCP-1 disconnection"
+
+msgid "Отключение ГЦН-2"
+msgstr "MCP-2 disconnection"
+
+msgid "Отключение ГЦН-3"
+msgstr "MCP-3 disconnection"
+
+msgid "Отключение ГЦН-4"
+msgstr "MCP-4 disconnection"
+
+msgid "Открыт"
+msgstr "Opened"
+
+msgid "Относительная влажность"
+msgstr "Relative humidity"
+
+msgid "Относительная влажность (максимальная за час)"
+msgstr "Relative humidity (maximum per hour)"
+
+msgid "Относительная влажность (минимальная за час)"
+msgstr "Relative humidity (minimum per hour)"
+
+msgid "Относительная влажность (средняя за час)"
+msgstr "Relative humidity (average per hour)"
+
+msgid "Отобр L в ПГ (ШД)"
+msgstr "L in SG displ. (WR)"
+
+msgid "Отобр Р в ПГ (ШД)"
+msgstr "P in SG displ. (WR)"
+
+msgid "Отображаемый диапазон АКНП"
+msgstr "Displayed range of NFCE"
+
+msgid "Отсутствие циркуляции"
+msgstr "Circulation absence"
+
+# ???
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "П РРЭ"
+msgstr "P RRE"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "П.В."
+msgstr "F.W."
+
+msgid "ПOДПИTOЧHЫЙ HACOC N1"
+msgstr "FEED PUMP #1"
+
+msgid "ПOДПИTOЧHЫЙ HACOC N2"
+msgstr "FEED PUMP #2"
+
+msgid "ПOДПИTOЧHЫЙ HACOC N3"
+msgstr "FEED PUMP #3"
+
+#: z5/fGT00M:1
+msgid "ПOПEP"
+msgstr "CROSS."
+
+#: z6/fGT00M:1
+msgid "ПOПEP."
+msgstr "CROSS."
+
+#: z2/fPD_ShD:1 z2/fPG_ShD:1 z3/fPD_ShD:1 z3/fPG_ShD:1 z4/fPD_ShD:1
+#: z4/fPG_ShD:1
+msgid "ПГ"
+msgstr "SG"
+
+msgid "ПГ-1 локализован"
+msgstr "SG-1 is localized"
+
+msgid "ПГ-2 локализован"
+msgstr "SG-2 is localized"
+
+msgid "ПГ-3 локализован"
+msgstr "SG-3 is localized"
+
+msgid "ПГ-4 локализован"
+msgstr "SG-4 is localized"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "ПГ1,2,3,4"
+msgstr "SG 1-4"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "ПГ1,4"
+msgstr "SG 1,4"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "ПГ2,3"
+msgstr "SG 2,3"
+
+#: z2/fPG_ShD:1 z3/fPG_ShD:1 z4/fPG_ShD:1
+msgid "ПД_ШД"
+msgstr "FF_WR"
+
+#: z/fOR00P1:1
+msgid "ПЗ-1"
+msgstr "AS-1"
+
+msgid "ПЗ-1 2 ИЗ 3"
+msgstr "AS-1 2 OF 3"
+
+msgid "ПЗ-1 2 из 3"
+msgstr "AS-1 2 OF 3"
+
+#: za/fME:1
+msgid "ПК11 Очистные сооружения"
+msgstr "OP11 Sewage Facilities"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "ПОДП."
+msgstr "MAKEUP"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "ПР"
+msgstr "BD"
+
+#: za/fRO1:1 za/fRO2:1 za/fRO3:1 za/fRO4:1 za/fRO5:1 za/fRO6:1
+msgid "ПСВ"
+msgstr "NWH"
+
+msgid "ПУCK ABT-KИ HAГPУЖ.OT 5GZ01-CП"
+msgstr "START OF AUTOMATION OF LOADING FROM 5GZ01-CП"
+
+msgid "ПУCK ABT-KИ HAГPУЖ.OT 6GZ01-CП"
+msgstr "START OF AUTOMATION OF LOADING FROM 6GZ01-CП"
+
+msgid "Параметры  СППБ"
+msgstr "Parameters SPDS"
+
+msgid "Параметры СВРК для УВС"
+msgstr "Parameters ICMS for C&CS"
+
+#: z2/fPD_ShD:2 z3/fPD_ShD:2 z4/fPD_ShD:2
+msgid "Парогенераторы"
+msgstr "Steam generators"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Перепад давления на ГЦН"
+msgstr "MCP differential pressure"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Перепад давления на реакторе"
+msgstr "Reactor differential pressure"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Период"
+msgstr "Period"
+
+msgid "Период ШД"
+msgstr "Period WR"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Петли не в работе N"
+msgstr "Loops not in operation"
+
+msgid "Повышение L в ПГ-1"
+msgstr "L raise in SG-1"
+
+msgid "Повышение L в ПГ-2"
+msgstr "L raise in SG-2"
+
+msgid "Повышение L в ПГ-3"
+msgstr "L raise in SG-3"
+
+msgid "Повышение L в ПГ-4"
+msgstr "L raise in SG-4"
+
+msgid "Подогрев на ТВС N 1"
+msgstr "Heating on FA #1"
+
+msgid "Подогрев на ТВС N 10"
+msgstr "Heating on FA #10"
+
+msgid "Подогрев на ТВС N 11"
+msgstr "Heating on FA #11"
+
+msgid "Подогрев на ТВС N 12"
+msgstr "Heating on FA #12"
+
+msgid "Подогрев на ТВС N 13"
+msgstr "Heating on FA #13"
+
+msgid "Подогрев на ТВС N 14"
+msgstr "Heating on FA #14"
+
+msgid "Подогрев на ТВС N 15"
+msgstr "Heating on FA #15"
+
+msgid "Подогрев на ТВС N 16"
+msgstr "Heating on FA #16"
+
+msgid "Подогрев на ТВС N 17"
+msgstr "Heating on FA #17"
+
+msgid "Подогрев на ТВС N 18"
+msgstr "Heating on FA #18"
+
+msgid "Подогрев на ТВС N 19"
+msgstr "Heating on FA #19"
+
+msgid "Подогрев на ТВС N 2"
+msgstr "Heating on FA #2"
+
+msgid "Подогрев на ТВС N 20"
+msgstr "Heating on FA #20"
+
+msgid "Подогрев на ТВС N 21"
+msgstr "Heating on FA #21"
+
+msgid "Подогрев на ТВС N 22"
+msgstr "Heating on FA #22"
+
+msgid "Подогрев на ТВС N 23"
+msgstr "Heating on FA #23"
+
+msgid "Подогрев на ТВС N 24"
+msgstr "Heating on FA #24"
+
+msgid "Подогрев на ТВС N 25"
+msgstr "Heating on FA #25"
+
+msgid "Подогрев на ТВС N 26"
+msgstr "Heating on FA #26"
+
+msgid "Подогрев на ТВС N 27"
+msgstr "Heating on FA #27"
+
+msgid "Подогрев на ТВС N 28"
+msgstr "Heating on FA #28"
+
+msgid "Подогрев на ТВС N 29"
+msgstr "Heating on FA #29"
+
+msgid "Подогрев на ТВС N 3"
+msgstr "Heating on FA #3"
+
+msgid "Подогрев на ТВС N 30"
+msgstr "Heating on FA #30"
+
+msgid "Подогрев на ТВС N 31"
+msgstr "Heating on FA #31"
+
+msgid "Подогрев на ТВС N 32"
+msgstr "Heating on FA #32"
+
+msgid "Подогрев на ТВС N 33"
+msgstr "Heating on FA #33"
+
+msgid "Подогрев на ТВС N 34"
+msgstr "Heating on FA #34"
+
+msgid "Подогрев на ТВС N 35"
+msgstr "Heating on FA #35"
+
+msgid "Подогрев на ТВС N 36"
+msgstr "Heating on FA #36"
+
+msgid "Подогрев на ТВС N 37"
+msgstr "Heating on FA #37"
+
+msgid "Подогрев на ТВС N 38"
+msgstr "Heating on FA #38"
+
+msgid "Подогрев на ТВС N 39"
+msgstr "Heating on FA #39"
+
+msgid "Подогрев на ТВС N 4"
+msgstr "Heating on FA #4"
+
+msgid "Подогрев на ТВС N 40"
+msgstr "Heating on FA #40"
+
+msgid "Подогрев на ТВС N 41"
+msgstr "Heating on FA #41"
+
+msgid "Подогрев на ТВС N 42"
+msgstr "Heating on FA #42"
+
+msgid "Подогрев на ТВС N 43"
+msgstr "Heating on FA #43"
+
+msgid "Подогрев на ТВС N 44"
+msgstr "Heating on FA #44"
+
+msgid "Подогрев на ТВС N 45"
+msgstr "Heating on FA #45"
+
+msgid "Подогрев на ТВС N 46"
+msgstr "Heating on FA #46"
+
+msgid "Подогрев на ТВС N 47"
+msgstr "Heating on FA #47"
+
+msgid "Подогрев на ТВС N 48"
+msgstr "Heating on FA #48"
+
+msgid "Подогрев на ТВС N 49"
+msgstr "Heating on FA #49"
+
+msgid "Подогрев на ТВС N 5"
+msgstr "Heating on FA #5"
+
+msgid "Подогрев на ТВС N 50"
+msgstr "Heating on FA #50"
+
+msgid "Подогрев на ТВС N 51"
+msgstr "Heating on FA #51"
+
+msgid "Подогрев на ТВС N 52"
+msgstr "Heating on FA #52"
+
+msgid "Подогрев на ТВС N 53"
+msgstr "Heating on FA #53"
+
+msgid "Подогрев на ТВС N 54"
+msgstr "Heating on FA #54"
+
+msgid "Подогрев на ТВС N 55"
+msgstr "Heating on FA #55"
+
+msgid "Подогрев на ТВС N 56"
+msgstr "Heating on FA #56"
+
+msgid "Подогрев на ТВС N 57"
+msgstr "Heating on FA #57"
+
+msgid "Подогрев на ТВС N 58"
+msgstr "Heating on FA #58"
+
+msgid "Подогрев на ТВС N 59"
+msgstr "Heating on FA #59"
+
+msgid "Подогрев на ТВС N 6"
+msgstr "Heating on FA #6"
+
+msgid "Подогрев на ТВС N 60"
+msgstr "Heating on FA #60"
+
+msgid "Подогрев на ТВС N 61"
+msgstr "Heating on FA #61"
+
+msgid "Подогрев на ТВС N 62"
+msgstr "Heating on FA #62"
+
+msgid "Подогрев на ТВС N 63"
+msgstr "Heating on FA #63"
+
+msgid "Подогрев на ТВС N 64"
+msgstr "Heating on FA #64"
+
+msgid "Подогрев на ТВС N 65"
+msgstr "Heating on FA #65"
+
+msgid "Подогрев на ТВС N 66"
+msgstr "Heating on FA #66"
+
+msgid "Подогрев на ТВС N 67"
+msgstr "Heating on FA #67"
+
+msgid "Подогрев на ТВС N 68"
+msgstr "Heating on FA #68"
+
+msgid "Подогрев на ТВС N 69"
+msgstr "Heating on FA #69"
+
+msgid "Подогрев на ТВС N 7"
+msgstr "Heating on FA #7"
+
+msgid "Подогрев на ТВС N 70"
+msgstr "Heating on FA #70"
+
+msgid "Подогрев на ТВС N 71"
+msgstr "Heating on FA #71"
+
+msgid "Подогрев на ТВС N 72"
+msgstr "Heating on FA #72"
+
+msgid "Подогрев на ТВС N 73"
+msgstr "Heating on FA #73"
+
+msgid "Подогрев на ТВС N 74"
+msgstr "Heating on FA #74"
+
+msgid "Подогрев на ТВС N 75"
+msgstr "Heating on FA #75"
+
+msgid "Подогрев на ТВС N 76"
+msgstr "Heating on FA #76"
+
+msgid "Подогрев на ТВС N 77"
+msgstr "Heating on FA #77"
+
+msgid "Подогрев на ТВС N 78"
+msgstr "Heating on FA #78"
+
+msgid "Подогрев на ТВС N 79"
+msgstr "Heating on FA #79"
+
+msgid "Подогрев на ТВС N 8"
+msgstr "Heating on FA #8"
+
+msgid "Подогрев на ТВС N 80"
+msgstr "Heating on FA #80"
+
+msgid "Подогрев на ТВС N 81"
+msgstr "Heating on FA #81"
+
+msgid "Подогрев на ТВС N 82"
+msgstr "Heating on FA #82"
+
+msgid "Подогрев на ТВС N 83"
+msgstr "Heating on FA #83"
+
+msgid "Подогрев на ТВС N 84"
+msgstr "Heating on FA #84"
+
+msgid "Подогрев на ТВС N 85"
+msgstr "Heating on FA #85"
+
+msgid "Подогрев на ТВС N 86"
+msgstr "Heating on FA #86"
+
+msgid "Подогрев на ТВС N 87"
+msgstr "Heating on FA #87"
+
+msgid "Подогрев на ТВС N 88"
+msgstr "Heating on FA #88"
+
+msgid "Подогрев на ТВС N 89"
+msgstr "Heating on FA #89"
+
+msgid "Подогрев на ТВС N 9"
+msgstr "Heating on FA #9"
+
+msgid "Подогрев на ТВС N 90"
+msgstr "Heating on FA #90"
+
+msgid "Подогрев на ТВС N 91"
+msgstr "Heating on FA #91"
+
+msgid "Подогрев на ТВС N 92"
+msgstr "Heating on FA #92"
+
+msgid "Подогрев на ТВС N 93"
+msgstr "Heating on FA #93"
+
+msgid "Подогрев на ТВС N 94"
+msgstr "Heating on FA #94"
+
+msgid "Подогрев на ТВС N 95"
+msgstr "Heating on FA #95"
+
+msgid "Подогрев по 1 петле"
+msgstr "Heating on loop 1"
+
+msgid "Подогрев по 2 петле"
+msgstr "Heating on loop 2"
+
+msgid "Подогрев по 3 петле"
+msgstr "Heating on loop 3"
+
+msgid "Подогрев по 4 петле"
+msgstr "Heating on loop 4"
+
+msgid "Подпиточный насос N1"
+msgstr "Makeup pump #1"
+
+msgid "Подпиточный насос N2"
+msgstr "Makeup pump #2"
+
+msgid "Подпиточный насос N3"
+msgstr "Makeup pump #3"
+
+msgid "Подпиточныйнасос N1"
+msgstr "Makeup pump #1"
+
+msgid "Подпиточныйнасос N2"
+msgstr "Makeup pump #2"
+
+msgid "Подпиточныйнасос N3"
+msgstr "Makeup pump #3"
+
+msgid "Подрежим работы реактора"
+msgstr "Reactor operation subregime"
+
+msgid "Положение БРУ-К1"
+msgstr "Position of QRP-C1"
+
+msgid "Положение БРУ-К2"
+msgstr "Position of QRP-C2"
+
+msgid "Положение БРУ-К3"
+msgstr "Position of QRP-C3"
+
+msgid "Положение БРУ-К4"
+msgstr "Position of QRP-C4"
+
+msgid "Полугоряч.останов с азот.в КД"
+msgstr "Warm shutdown with nitrog. in PZR"
+
+msgid "Полугоряч.останов с пар.в КД"
+msgstr "Warm shutdown with steam in PZR"
+
+msgid "Полугорячий останов"
+msgstr "Warm shutdown"
+
+msgid "Понижение L в ПГ-1"
+msgstr "Drawdown L in SG-1"
+
+msgid "Понижение L в ПГ-2"
+msgstr "Drawdown L in SG-2"
+
+msgid "Понижение L в ПГ-3"
+msgstr "Drawdown L in SG-3"
+
+msgid "Понижение L в ПГ-4"
+msgstr "Drawdown L in SG-4"
+
+#: zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "Поток в теплоносителе А328"
+msgstr "Neutron flow A328"
+
+#: zrt/fParBGSVX_z1:1
+msgid "Поток п в теплоносителе А328"
+msgstr "Neutron flow A328"
+
+#: zrd/fMAWS:1
+msgid "Почва, °C"
+msgstr "Earth, °C"
+
+#: z/fUM00P2:1
+msgid "Промзона"
+msgstr "Industr. Zone"
+
+#: z/fUM00P2:1
+msgid "Промплощадка"
+msgstr "Industrial Site"
+
+msgid "Протечка в ПГ-1"
+msgstr "Leakage in SG-1"
+
+msgid "Протечка в ПГ-2"
+msgstr "Leakage in SG-2"
+
+msgid "Протечка в ПГ-3"
+msgstr "Leakage in SG-3"
+
+msgid "Протечка в ПГ-4"
+msgstr "Leakage in SG-4"
+
+#: z/fUM00P2:1
+msgid "Прямая вода"
+msgstr "Direct water"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Р"
+msgstr "P"
+
+#: z/fOR00P1:1
+msgid "Р I конт."
+msgstr "Р Iсс."
+
+msgid "Р в емкости YT11B01"
+msgstr "P in accumulator YT11B01"
+
+msgid "Р в емкости YT12B01"
+msgstr "P in accumulator YT12B01"
+
+msgid "Р в емкости YT13B01"
+msgstr "P in accumulator YT13B01"
+
+msgid "Р в емкости YT14B01"
+msgstr "P in accumulator YT14B01"
+
+msgid "Р воды в барботере"
+msgstr "P water in bubbler"
+
+#: z/fOR00P1:1
+msgid "Р гпк"
+msgstr "P msc"
+
+msgid "Р/ч"
+msgstr "R/h"
+
+msgid "РАЗГРУЗКА, 1к"
+msgstr "DISCHARGE, 1 ch"
+
+msgid "РАЗГРУЗКА, 2к"
+msgstr "DISCHARGE, 1 ch"
+
+msgid "РАЗГРУЗКА, 3к"
+msgstr "DISCHARGE, 1 ch"
+
+msgid "РАЗНОСТЬ ТЕМПЕРАТУР ПК11 ООС"
+msgstr "TEMPERATURE DIFFERENCE OP11 EP"
+
+# ???
+msgid "РД 1"
+msgstr "C"
+
+# ???
+msgid "РД 2"
+msgstr "RD 2"
+
+# ???
+msgid "РДМ"
+msgstr "RDM"
+
+msgid "РЕМОНТ"
+msgstr "REPAIR"
+
+#: z/fBLOCKS_DEMO:1
+msgid "РК"
+msgstr "RM"
+
+# ???
+msgid "РМ"
+msgstr "RM"
+
+msgid "РНП для ТО"
+msgstr "CBFB for TH"
+
+#: z/fBLOCKS_DEMO:1
+msgctxt "round_menu"
+msgid "РО"
+msgstr "RS"
+
+#: z/fOR00P1:1
+msgid "РОМ"
+msgstr "PLR"
+
+#: z/fUM00P2:1
+msgid "РП00М НАГРУЗКИ РТСН"
+msgstr "RP00M BAT Load"
+
+# ???
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "РРЭ"
+msgstr "RRE"
+
+# ???
+msgid "РСК"
+msgstr "PSK"
+
+# ???
+msgid "РСН 1"
+msgstr "RSN 1"
+
+# ???
+msgid "РСН 2"
+msgstr "RSN 2"
+
+#: z/fMES:1
+msgid "РТСН-2"
+msgstr "BAT-2"
+
+#: z/fMES:1
+msgid "РТСН-3"
+msgstr "BAT-3"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "РУЧНОЙ"
+msgstr "Manual"
+
+# ???
+msgid "РЧ"
+msgstr "RCH"
+
+# ???
+msgid "РЧ +"
+msgstr "RCH +"
+
+# ???
+msgid "РЧ -"
+msgstr "RCH -"
+
+# ???
+msgid "РЧ РУ"
+msgstr "RCH RU"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "Раб.блок. по Lкд на закрытие ТК31, 32S01"
+msgstr "Valves ТК31, 32S01 close interlock acc. Lpr"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "Раб.блок. по Lкд на отключение ТЭН КД"
+msgstr "Turn off pressurizer interlock acc. Lpr"
+
+msgid "Рабoта на мощности"
+msgstr "Operation at power"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Рабочий ИПК КД"
+msgstr "Working PPSV"
+
+#: z/fBLOCKS_DEMO:1
+msgid "Радиационная обстановка"
+msgstr "Radiation situation"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Радиоактивность"
+msgstr "Radioactivity"
+
+msgid "Разгрузка, 1к"
+msgstr "Discharge, 1 ch"
+
+msgid "Разгрузка, 2к"
+msgstr "Discharge, 2 ch"
+
+msgid "Разгрузка, 3к"
+msgstr "Discharge, 3 ch"
+
+#: zrt/f30km2:1
+msgid "Разность температур"
+msgstr "Temperature difference"
+
+#: za/fME:1
+msgid "Разность температур, (°C)"
+msgstr "Temperature difference, (°C)"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Разрежение"
+msgstr "Underpres."
+
+msgid "Разрежение в ГО (ШД)"
+msgstr "Underpressure in Cont. (WR)"
+
+msgid "Расход ПВ на напоре ВПЭН-1"
+msgstr "Flow of FW at AFEP-1 discharge"
+
+msgid "Расход ПВ на напоре ВПЭН-2"
+msgstr "Flow of FW at AFEP-2 discharge"
+
+msgid "Расход подпитки 1 к"
+msgstr "Flow of maleup 1 k"
+
+msgid "Расход продувки"
+msgstr "Flow of bleed"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "Расход техводы после теплообм."
+msgstr "Service water flow after heat exch."
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Рго"
+msgstr "P"
+
+msgid "Реактор критичен"
+msgstr "Reactor is critical"
+
+msgid "Рег. клап. БРУ-К N1"
+msgstr "Contr. valv. QRP-C #1"
+
+msgid "Рег. клап. БРУ-К N2"
+msgstr "Contr. valv. QRP-C #2"
+
+msgid "Рег. клап. БРУ-К N3"
+msgstr "Contr. valv. QRP-C #3"
+
+msgid "Рег. клап. БРУ-К N4"
+msgstr "Contr. valv. QRP-C #4"
+
+msgid "Рег.DT КД и 1 контура"
+msgstr "Reg. DT pressurizer and primary circuit"
+
+msgid "Рег.DT компен.давл.и 1 контура"
+msgstr "Reg. DT pressurizer and primary circuit"
+
+msgid "Рег.DT компен.давл.и 1контура"
+msgstr "Reg. DT pressurizer and primary circuit"
+
+msgid "Рег.клап. P в 1 контуре"
+msgstr "Contr. valv. P in primary circuit"
+
+msgid "Рег.клап. P пара в ПГ1"
+msgstr "Contr. valv. P steam in SG1"
+
+msgid "Рег.клап. P пара в ПГ2"
+msgstr "Contr. valv. P steam in SG2"
+
+msgid "Рег.клап. P пара в ПГ3"
+msgstr "Contr. valv. P steam in SG3"
+
+msgid "Рег.клап.P в  1 контуре"
+msgstr "Contr. valv. P in primary circuit"
+
+msgid "Рег.клап.P в 1 контуре"
+msgstr "Contr. valv. P in primary circuit"
+
+msgid "Рег.клап.P пара в  ПГ1"
+msgstr "Contr. valv. P steam in SG1"
+
+msgid "Рег.клап.P пара в  ПГ4"
+msgstr "Contr. valv. P steam in SG4"
+
+msgid "Рег.клап.P пара в  ПГ4 БРУ-А"
+msgstr "Contr. valv. P steam in SG4 APRV"
+
+msgid "Рег.клап.P пара в ПГ1 БРУ-А"
+msgstr "Contr. valv. P steam in SG1 APRV"
+
+msgid "Рег.клап.P пара в ПГ2"
+msgstr "Contr. valv. P steam in SG2"
+
+msgid "Рег.клап.P пара в ПГ2 БРУ-А"
+msgstr "Contr. valv. P steam in SG2 APRV"
+
+msgid "Рег.клап.P пара в ПГ3"
+msgstr "Contr. valv. P steam in SG3"
+
+msgid "Рег.клап.P пара в ПГ3 БРУ-А"
+msgstr "Contr. valv. P steam in SG3 APRV"
+
+msgid "Рег.клап.P пара в ПГ4"
+msgstr "Contr. valv. P steam in SG4"
+
+msgid "Рег.клап.БРУ-К N1"
+msgstr "QRP-С сontr. valve #1"
+
+msgid "Рег.клап.БРУ-К N2"
+msgstr "QRP-С сontr. valve #2"
+
+msgid "Рег.клап.БРУ-К N3"
+msgstr "QRP-С сontr. valve #3"
+
+msgid "Рег.клап.БРУ-К N4"
+msgstr "QRP-С сontr. valve #4"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "Регулятор расхолаживания КД в работе"
+msgstr "Pressurizer cooldown regulator in operation"
+
+msgid "Режим работы блока."
+msgstr "Unit operation regime"
+
+msgid "Ремонт"
+msgstr "Repair"
+
+msgid "Ремонт с разупл. и перегр."
+msgstr " Repair with loss of integ. and refuel."
+
+msgid "Ремонтное расхолаживание"
+msgstr "Repair cooldown"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "Ркд.кг/см"
+msgstr "Ppr.kg/cm"
+
+msgid "С вкл.генерат.и огранич.мощн."
+msgstr "Generat. switch. on and power limit."
+
+msgid "С вкл.генерат.на номин.мощн."
+msgstr "Generat. switch. on at nominal power"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "СБ1"
+msgstr "SS1"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "СБ2"
+msgstr "SS2"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "СБ3"
+msgstr "SS3"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "СЕКТОР1"
+msgstr "SECTOR1"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "СЕКТОР2"
+msgstr "SECTOR2"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "СЕКТОР3"
+msgstr "SECTOR3"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "СЕКТОР4"
+msgstr "SECTOR4"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "СЕКТОР5"
+msgstr "SECTOR5"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "СЕКТОР6"
+msgstr "SECTOR6"
+
+msgid "СКОРОСТЬ ВЕТРА ПК11 ООС"
+msgstr "WIND SPEED MP11 EP"
+
+msgid "СКОРОСТЬ ВЕТРА ПК20 ГПЧ-22 10М"
+msgstr "WIND SPEED MP20 SFD-22 10M"
+
+msgid "СКОРОСТЬ ВЕТРА ПК20 ГПЧ-22 40М"
+msgstr "WIND SPEED MP20 SFD-22 40M"
+
+msgid "СКР"
+msgstr "Collecting chamber"
+
+msgid "СОЛНЕЧНАЯ РАДИАЦИЯ ПК11 ООС"
+msgstr "SOLAR RADIATION OP11 EP"
+
+#: z/fOR00P1:1
+msgid "СРК"
+msgstr "RMS"
+
+#: z/fBLOCKS_DEMO:1
+msgctxt "round_menu"
+msgid "СЭ"
+msgstr "PSL"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Сектор"
+msgstr "Sector"
+
+msgid "Сектор ТВС с макс Т отобр ШД"
+msgstr "FA sector with T max displ. WD"
+
+msgid "Секц.выкл.магистрали BL"
+msgstr "Sectionalizing switch of main input BL"
+
+msgid "Секц.выкл.магистрали BM"
+msgstr "Sectionalizing switch of main input BM"
+
+msgid "Секц.выкл.магистрали BN"
+msgstr "Sectionalizing switch of main input BN"
+
+msgid "Секц.выкл.магистрали BP"
+msgstr "Sectionalizing switch of main input BP"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "Секция   BV"
+msgstr "Section BV"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "Секция   BW"
+msgstr "Section BW"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "Секция   BX"
+msgstr "Section BX"
+
+msgid "Скорость ветра"
+msgstr "Wind speed"
+
+msgid "Скорость ветра (максимальная за две минуты)"
+msgstr "Wind speed (maximum per two minutes)"
+
+msgid "Скорость ветра (максимальная за десять минут)"
+msgstr "Wind speed (maximum per ten minutes)"
+
+msgid "Скорость ветра (минимальная за две минуты)"
+msgstr "Wind speed (minimum per two minutes)"
+
+msgid "Скорость ветра (минимальная за десять минут)"
+msgstr "Wind speed (minimum per ten minutes)"
+
+msgid "Скорость ветра (средняя за две минуты)"
+msgstr "Wind speed (average per two minutes)"
+
+msgid "Скорость ветра (средняя за десять минут)"
+msgstr "Wind speed (average per ten minutes)"
+
+#: za/fME:1
+msgid "Скорость ветра, (м/с)"
+msgstr "Wind speed, (m/s)"
+
+#: zrt/f30km2:1
+msgid "Скорость ветра, 10м"
+msgstr "Wind speed, 10 m"
+
+#: zrt/f30km2:1
+msgid "Скорость ветра, 40,м"
+msgstr "Wind speed, 40 m"
+
+#: zrt/f30km2:1
+msgid "Скорость ветра, 40м"
+msgstr "Wind speed, 40 m"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "Скорость вращения турбины"
+msgstr "Turbine speed"
+
+#: zrd/fMAWS:1
+msgid "Скорость, м/с"
+msgstr "Speed, m/s"
+
+msgid "Слежение"
+msgstr "Tracking"
+
+msgid "Снег"
+msgstr "Snow"
+
+msgid "Солнечная радиация"
+msgstr "Solar radiation"
+
+msgid "Солнечная радиация (максимальная за час)"
+msgstr "Solar radiation (maximum per hour)"
+
+msgid "Солнечная радиация (минимальная за час)"
+msgstr "Solar radiation (minimum per hour)"
+
+msgid "Солнечная радиация (средняя за час)"
+msgstr "Solar radiation (average per hour)"
+
+#: za/fME:1
+msgid "Солнечная радиация, (Вт/м²)"
+msgstr "Solar radiation, (W/m²)"
+
+#: zrd/fMAWS:1
+msgid "Солнечная радиация, Вт/м²"
+msgstr "Solar radiation, W/m²"
+
+msgid "Состояние 1й группы ТЭН"
+msgstr "Status of the 1st group of heating coils"
+
+msgid "Состояние 2й группы ТЭН"
+msgstr "Status of the 2nd group of heating coils"
+
+msgid "Состояние 3й группы ТЭН"
+msgstr "Status of the 3d group of heating coils"
+
+msgid "Состояние 4й группы ТЭН"
+msgstr "Status of the 4th group of heating coils"
+
+msgid "Состояние ГЦН - 1"
+msgstr "Status of MCP-1"
+
+msgid "Состояние ГЦН - 2"
+msgstr "Status of MCP-2"
+
+msgid "Состояние ГЦН - 3"
+msgstr "Status of MCP-3"
+
+msgid "Состояние ГЦН - 4"
+msgstr "Status of MCP-4"
+
+msgid "Состояние КФБ Ф-0.1"
+msgstr "Status of CSF F-0.1"
+
+msgid "Состояние КФБ Ф-0.2"
+msgstr "Status of CSF F-0.2"
+
+msgid "Состояние КФБ Ф-0.3"
+msgstr "Status of CSF F-0.3"
+
+msgid "Состояние КФБ Ф-0.4"
+msgstr "Status of CSF F-0.4"
+
+msgid "Состояние КФБ Ф-0.5"
+msgstr "Status of CSF F-0.5"
+
+msgid "Состояние КФБ Ф-0.6"
+msgstr "Status of CSF F-0.6"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Состояние систем Безопасности"
+msgstr "Safety systems state"
+
+msgid "Ср. T на выходе ТВС (по ТП)"
+msgstr "T average (acc. TC) at FA outlet"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Срабатывание АЗ"
+msgstr "EP triggering"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Срабатывание ПЗ"
+msgstr "AS triggering"
+
+msgid "Срабатывание РОМ--2 1 канал"
+msgstr "Triggering of PLR-2 1 channel"
+
+msgid "Срабатывание РОМ-2 2 канал"
+msgstr "Triggering of PLR-2 2 channel"
+
+msgid "Срабатывание РОМ-2 3 канал"
+msgstr "Triggering of PLR-2 3 channel"
+
+msgid "Сработала АЗ"
+msgstr "EP is actuated"
+
+msgid "Средний DT в петлях 1 контура"
+msgstr "Average DT in loops of primary circuit"
+
+msgid "Средний подогрев по петлям"
+msgstr "Loops-average heating"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Средняя температура на выходе кассет"
+msgstr "Mean temperature at FA outlet"
+
+msgid "Статус Н2 в ГО"
+msgstr "State of H2 in Cont."
+
+msgid "Стопорные клапана турбины закрыты"
+msgstr "Stop valves of turbine closed"
+
+msgid "Стопорный клапан"
+msgstr "Stop valve"
+
+msgid "Стопорный клапан открыт"
+msgstr "Stop valve opened"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "Стопорный клапан турбины"
+msgstr "Turbine stop valve"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Ступенчатый пуск"
+msgstr "Step by step startup"
+
+msgid "Ступенчатый пуск 1"
+msgstr "Step by step startup 1"
+
+msgid "Ступенчатый пуск 1 ступень 1 комплект"
+msgstr "Step by step startup 1 step 1 set"
+
+msgid "Ступенчатый пуск 1 ступень 1к"
+msgstr "Step by step startup 1 step 1s"
+
+msgid "Ступенчатый пуск 1 ступень 1к."
+msgstr "Step by step startup 1 step 1s."
+
+msgid "Ступенчатый пуск 1 ступень 2 комплект"
+msgstr "Step by step startup 1 step 2 set"
+
+msgid "Ступенчатый пуск 1 ступень 2к."
+msgstr "Step by step startup 1 step 2s."
+
+msgid "Ступенчатый пуск 2"
+msgstr "Step by step startup 2"
+
+msgid "Ступенчатый пуск 3"
+msgstr "Step by step startup 3"
+
+msgid "Суммарная радиация"
+msgstr "Total radiation"
+
+msgid "Суммарная радиация (максимальная за час)"
+msgstr "Total radiation (maximum per hour)"
+
+msgid "Суммарная радиация (минимальная за час)"
+msgstr "Total radiation (minimum per hour)"
+
+msgid "Суммарная радиация (средняя за час)"
+msgstr "Total radiation (average per hour)"
+
+#: z/fBLOCKS_DEMO:1
+msgid "Схема электроснабжения"
+msgstr "Power layout"
+
+#: z2/fKD:1 z2/fPD_ShD:1 z3/fKD:1 z3/fPD_ShD:1 z4/fKD:1 z4/fPD_ShD:1
+msgid "Т"
+msgstr "T"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Т     -T"
+msgstr "Т     -T"
+
+msgid "Т в ВТ1 (II)"
+msgstr "T in VS1 (II)"
+
+msgid "Т насыщ. 1 контура"
+msgstr "T saurat. PC"
+
+#: z/fOR00P1:1
+msgid "Т пит. воды"
+msgstr "T feed water"
+
+msgid "Т под крышкой реактора отоб ШД"
+msgstr "T under rector vessel lid displ. WR"
+
+msgid "Т раствора бора возврата из зоны"
+msgstr "T boron solution of return from core"
+
+#: z/fOR00P1:1
+msgid "Т цирк.воды"
+msgstr "T circ. water"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ТГЕ1"
+msgstr "TAC1"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ТГЕ2"
+msgstr "TAC2"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ТГЕ3"
+msgstr "TAC3"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ТГЕ4"
+msgstr "TAC4"
+
+# ???
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "ТЕК.ПОД КР. РЕАКТ."
+msgstr "T UNDER VESSEL LID"
+
+msgid "ТЕМПЕРАТУРА ВОЗДУХА ПК11 ООС"
+msgstr "AIR TEMPERATURE MP11 EP"
+
+#: z/fBLOCKS_DEMO:1
+msgctxt "round_menu"
+msgid "ТП"
+msgstr "PP"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1
+msgid "ТПН-1"
+msgstr "FPT-1"
+
+#: z/fMTI1:1 z/fMTI2:1 z/fMTI3:1 z/fMTI4:1 z/fMTI5:1 z/fMTI6:1
+msgid "ТПН-2"
+msgstr "FPT-2"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "ТСН-1"
+msgstr "APT-1"
+
+#: z/fEON1:1 z/fEON2:1 z/fEON3:1 z/fEON4:1 z/fEON5:1 z/fEON6:1
+msgid "ТСН-2"
+msgstr "APT-2"
+
+msgid "ТЭН КД 1 гр. N 1"
+msgstr "Heating coil Pressurizer 1 gr. #1"
+
+msgid "ТЭН КД 1 гр.N 1"
+msgstr "Heating coil Pressurizer 1 gr. #1"
+
+msgid "ТЭН КД 2 гр.N1"
+msgstr "Heating coil Pressurizer 2 gr. #1"
+
+msgid "ТЭН КД 3 гр.N1"
+msgstr "Heating coil Pressurizer 3 gr. #1"
+
+msgid "ТЭН КД 4 гр.N1"
+msgstr "Heating coil Pressurizer 4 gr. #1"
+
+#: z2/fPD_ShD:1 z3/fPD_ShD:1 z4/fPD_ShD:1
+msgid "Тго"
+msgstr "T"
+
+msgid "Текущая ОА выбросов ИРГ в ВТ1"
+msgstr "Current TA of releases of inert radioactive gas to VS1"
+
+msgid "Текущая ОА выбросов ИРГ в ВТ2"
+msgstr "Current TA of releases of inert radioactive gas to VS2"
+
+msgid "Текущая ОА выбросов золей в ВТ1"
+msgstr "Current TA of releases of aerosols to VS1"
+
+msgid "Текущая ОА выбросов золей в ВТ2"
+msgstr "Current TA of releases of aerosols to VS2"
+
+msgid "Текущая ОА выбросов йода в ВТ1"
+msgstr "Current TA of releases of iodine to VS1"
+
+msgid "Текущая ОА выбросов йода в ВТ2"
+msgstr "Current TA of releases of iodine to VS2"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+msgid "Температура в ВТ-1"
+msgstr "Temperature VS-1"
+
+msgid "Температура воздуха"
+msgstr "Air temperature"
+
+msgid "Температура воздуха (максимальная за час)"
+msgstr "Air temperature (maximum per hour)"
+
+msgid "Температура воздуха (минимальная за час)"
+msgstr "Air temperature (minimum per hour)"
+
+msgid "Температура воздуха (средняя за час)"
+msgstr "Air temperature (average per hour)"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Температура горячей нитки"
+msgstr "Hot leg temperature"
+
+msgid "Температура грунта"
+msgstr "Temperature of ground"
+
+msgid "Температура грунта (максимальная за час)"
+msgstr "Temperature of ground (maximum per hour)"
+
+msgid "Температура грунта (минимальная за час)"
+msgstr "Temperature of ground (minimum per hour)"
+
+msgid "Температура грунта (средняя за час)"
+msgstr "Temperature of ground (average per hour)"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Температура корпуса реактора"
+msgstr "Reactor vessel temperature"
+
+msgid "Температура точки росы"
+msgstr "Dew point temperature"
+
+msgid "Температура точки росы(максимальная за час)"
+msgstr "Dew point temperature (максимальная за час)"
+
+msgid "Температура точки росы(минимальная за час)"
+msgstr "Dew point temperature (minimum per hour)"
+
+msgid "Температура точки росы(средняя за час)"
+msgstr "Dew point temperature (average per hour)"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Температура холодной нитки"
+msgstr "Cold leg temperature"
+
+#: za/fME:1
+msgid "Температура, (°C)"
+msgstr "Temperature, (°C)"
+
+#: zrd/fMAWS:1
+msgid "Температура,°C"
+msgstr "Temperature, °C"
+
+#: z/fBLOCKS_DEMO:1
+msgid "Технологические параметры"
+msgstr "Process parameters"
+
+#: zrd/fMAWS:1
+msgid "Точка росы, °C"
+msgstr "Dew point, °C"
+
+msgid "УCKOPEHHAЯ ПPEДУПPEДИT.ЗAЩИTA"
+msgstr "ACCELERATED PREVENT. PROTECTION"
+
+#: z/fOR00P1:1
+msgid "УПЗ"
+msgstr "APP"
+
+msgid "УПЗ, 1к"
+msgstr "APP, 1ch"
+
+msgid "УПЗ, 2к"
+msgstr "APP, 2ch"
+
+msgid "УПЗ, 3к"
+msgstr "APP, 3ch"
+
+#: z5/fGT00M:1 z6/fGT00M:1
+msgid "УПЛ. ПOДШ - OB"
+msgstr "BEARINGS SEALANT"
+
+msgid "Узкий"
+msgstr "Narrow"
+
+msgid "Уровень ПВ в деаэраторе 1"
+msgstr "FW level in deaerator 1"
+
+msgid "Уровень ПВ в деаэраторе 2"
+msgstr "FW level in deaerator 2"
+
+msgid "Уровень в КД ШД"
+msgstr "Level in PZR WR"
+
+msgid "Уровень в баке TQ10B01"
+msgstr "Level in tank TQ10B01"
+
+msgid "Уровень в баке TQ20B01"
+msgstr "Level in tank TQ20B01"
+
+msgid "Уровень в баке TQ30B01"
+msgstr "Level in tank TQ30B01"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Уровень воды в реакторе"
+msgstr "Reactor coolant level"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Уровень котловой воды в ПГ"
+msgstr "Boiler water level"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Уровень раствора бора в ГЕ САОЗ"
+msgstr "ECCS accumulator boron solution level"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Уровень теплонос. в КД YP10L03"
+msgstr "PZR YP10L03 coolant level"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Уровень теплонос. в КД YP10L07"
+msgstr "PZR YP10L07 coolant level"
+
+msgid "Ускоренная предупредит.защита"
+msgstr "Accelerated prevent. protection"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ХН1"
+msgstr "CL1"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ХН3"
+msgstr "CL3"
+
+#: z2/fTQ:1 z3/fTQ:1 z4/fTQ:1
+msgid "ХН4"
+msgstr "CL4"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "ХП1"
+msgstr "CS1"
+
+msgid "Ход"
+msgstr "Run"
+
+msgid "Холодный останов"
+msgstr "Cold shutdown"
+
+#: z/fOR00P1:1
+msgid "Частота"
+msgstr "Frequency"
+
+#: zrt/f30km2:1
+msgid "Червоногригоровка"
+msgstr "Chernogrygorovka"
+
+msgid "Чистота водорода в генераторе"
+msgstr "Hydrogen purity in generator"
+
+msgid "Широкий"
+msgstr "Wide"
+
+#: z2/fPD_ShD:2 z2/fPG_ShD:2 z3/fPD_ShD:2 z3/fPG_ShD:2 z4/fPD_ShD:2
+#: z4/fPG_ShD:2
+msgid "Широкий диапазон"
+msgstr "Wide Range"
+
+msgid "ЭЛEKTPOHAГPEBAT.KOMПEHCAT.ДABЛ"
+msgstr "ELECTRIC HEAT. PRESSURIEZER"
+
+msgid "Эл/привод стопорного клапана ТПН1"
+msgstr "FPT1 stop valve electric drive"
+
+msgid "Эл/привод стопорного клапана ТПН2"
+msgstr "FPT2 stop valve electric drive"
+
+msgid "Электронагреват.компенсат.давл"
+msgstr "Pressur. electric heater"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "Электронагреватель КД"
+msgstr "Pressurizer electric heater"
+
+#: zrt/f30km2:1
+msgid "Энергодар"
+msgstr "Energodar"
+
+#: z/fBLOCKS_DEMO:1
+msgctxt "round_menu"
+msgid "ЯУ"
+msgstr "NF"
+
+#: z/fBLOCKS_DEMO:1
+msgid "Ядерная установка"
+msgstr "Nuclear facility"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "акз"
+msgstr "core"
+
+#: zrd/fMAWS:1
+msgid "вода, мм"
+msgstr "water, mm"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "водоснабжения потребителей группы \"А\""
+msgstr " "
+
+msgid "выключен"
+msgstr "Switched Off"
+
+msgid "г/кг"
+msgstr "g/kg"
+
+msgid "гПа"
+msgstr "hPa"
+
+#: z1/fGT00M1:1
+msgid "гл"
+msgstr "hl"
+
+#: zrd/fMAWS:1
+msgid "за 10 мин."
+msgstr "per 10 min."
+
+#: zrd/fMAWS:1
+msgid "за 2 мин."
+msgstr "per 2 min."
+
+#: zrd/fMAWS:1
+msgid "за минуту, мм"
+msgstr "per minute, mm"
+
+#: zrd/fMAWS:1
+msgid "за сутки, мм"
+msgstr "per day, mm"
+
+#: zrd/fMAWS:1
+msgid "за час, мм"
+msgstr "per hour, mm"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "и дизель генераторы"
+msgstr "and diesel generators"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "и защиты турбины"
+msgstr " "
+
+msgid "инициализирован"
+msgstr "Initialized"
+
+#: zrd/fMAWS:1
+msgid "интенсивность"
+msgstr "intensity"
+
+msgid "кВ"
+msgstr "kV"
+
+msgid "кВ·А"
+msgstr "kV·A"
+
+msgid "кВт"
+msgstr "kW"
+
+msgid "кг/ч"
+msgstr "kg/h"
+
+msgid "кгС/см²"
+msgstr "kgf/cm²"
+
+msgid "кгс/м²"
+msgstr "kgf/m²"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "корр."
+msgstr "reliable"
+
+msgid "м"
+msgstr "m"
+
+msgid "м/с"
+msgstr "m/s"
+
+msgid "м³/ч"
+msgstr "m³/h"
+
+msgid "мА"
+msgstr "mA"
+
+#: zrd/fMAWS:1
+msgid "макс."
+msgstr "max."
+
+#: zrd/fMAWS:1
+msgid "мин."
+msgstr "min."
+
+msgid "мм"
+msgstr "mm"
+
+msgid "мм/с"
+msgstr "mm/s"
+
+msgid "мм/ч"
+msgstr "mm/h"
+
+#: z2/fKD:1 z3/fKD:1 z4/fKD:1
+msgid "некорр."
+msgstr "uncompens."
+
+msgid "о.е."
+msgstr "p.u."
+
+msgid "онлайн"
+msgstr "On-Line"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "п.1"
+msgstr "i.1"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "п.2"
+msgstr "i.2"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "п.3"
+msgstr "i.3"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "п.4"
+msgstr "i.4"
+
+#: zrt/fYAPPY1:1 zrt/fYAPPY2:1 zrt/fYAPPY3:1 zrt/fYAPPY4:1 zrt/fYAPPY5:1
+#: zrt/fYAPPY6:1
+msgid "пассивная часть"
+msgstr "passive part"
+
+msgid "приостановлен"
+msgstr "Suspended"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "радиационный контроль"
+msgstr "radiation monitoring"
+
+msgid "с"
+msgstr "s"
+
+msgid "см"
+msgstr "cm"
+
+#: zrd/fMAWS:1
+msgid "снег, мм"
+msgstr "snow, mm"
+
+#: zrt/fParBGSVX_z1:1 zrt/fParBGSVX_z2:1 zrt/fParBGSVX_z3:1 zrt/fParBGSVX_z4:1
+#: zrt/fParBGSVX_z5:1 zrt/fParBGSVX_z6:1
+msgid "собственных нужд (РУСН)"
+msgstr " "
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "ср.петли"
+msgstr "aver. loop"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "ср.твс"
+msgstr "aver. FA"
+
+#: zrd/fMAWS:1
+msgid "сред."
+msgstr "aver."
+
+#: z1/fGT00M1:1
+msgid "ст Возбудителя"
+msgstr "Exciter side"
+
+#: z1/fGT00M1:1
+msgid "ст.Турбины"
+msgstr "Turbine side"
+
+#: z1/fGT00M1:1
+msgid "стали сердечника статора"
+msgstr "stator core steel"
+
+msgid "т/ч"
+msgstr "t/h"
+
+msgid "тайм-аут"
+msgstr "Time Out"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "х.н.1"
+msgstr "c.l.1"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "х.н.2"
+msgstr "c.l.2"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "х.н.3"
+msgstr "c.l.3"
+
+#: z2/fdT_TVS:1 z3/fdT_TVS:1 z4/fdT_TVS:1
+msgid "х.н.4"
+msgstr "c.l.4"

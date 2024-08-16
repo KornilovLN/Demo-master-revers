@@ -1,0 +1,45 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix : <http://spd.ivl.cns/cim/mmi#> .
+@prefix mof: <http://spd.ivl.cns/cim/rtdbmof#>.
+
+ :MnemoCategory a rdfs:Class ;
+    rdfs:label "МнемоКат."@ru ;
+   rdfs:comment "Категория мнемосхем"@ru.
+
+ :Mnemo a rdfs:Class ;
+    rdfs:label "Мнемосхема"@ru .
+
+ :PPGroup a rdfs:Class ;
+    rdfs:label "Группа"@ru ;
+   rdfs:comment "Группа тэгов"@ru.
+     
+ :title a rdf:Property ;
+    rdfs:domain :MnemoCategory, :Mnemo, :PPGroup ;
+    rdfs:range xsd:string ;
+    rdfs:label "Title"@en ; 
+    rdfs:label "Наименование"@ru ; 
+    rdfs:comment "Item Description"@en ; 
+    rdfs:comment "Наименование объекта"@ru .
+
+ :category a rdf:Property ;
+    rdfs:domain :MnemoCategory, :Mnemo, :PPGroup ;
+    rdfs:range :MnemoCategory ;
+    rdfs:label "category"@en ; 
+    rdfs:label "категория"@ru ; 
+    rdfs:comment "Определяет принадлежность мнемосхем и групп тэгов к определенной категории и объединяет категории в иерархическую структуру"@ru .
+
+ :memberOf  a rdf:Property ;
+    rdfs:domain mof:ProcessPoint ;
+    rdfs:range :PPGroup ;
+    rdfs:label "в группе"@ru ; 
+    rdfs:label "in group"@en ; 
+    rdfs:comment "Принадлежность группе"@ru .
+
+ :showon  a rdf:Property ;
+    rdfs:domain mof:ProcessPoint ;
+    rdfs:range :Mnemo ;
+    rdfs:label "представлен на"@ru ; 
+    rdfs:label "show on"@en ; 
+    rdfs:comment "Присутсвие тэга на мнемосхеме"@ru .

@@ -1,0 +1,22 @@
+#- shell: 'echo {{ config }}'
+
+- name: create folder
+  file: path={{ dir }} state=directory
+
+
+- template:
+    src: '{{ item }}'
+    dest: '{{ dir }}/{{ item }}'
+    mode: 0775
+  with_items:
+    - push_image.sh
+    - deploy.sh
+    - create.sh
+    - delete.sh
+
+- template:
+    src: '{{ item }}'
+    dest: '{{ dir }}/{{ item }}'
+  with_items:
+    - meta.yaml
+    - ekatra.yaml
